@@ -1,0 +1,16 @@
+# [INFO] --------------------------------------------------------------------- #
+# smed79 Admiral HOSTS list
+# HOSTS file list, designed to block getAdmiral.com domains
+#
+# Homepage: https://github.com/smed79/blacklist
+# Licence: (CC BY-NC-SA) http://creativecommons.org/licenses/by-nc-sa/3.0/
+#
+# In order to use this list, please use the following address: 
+# https://raw.githubusercontent.com/smed79/blacklist/master/hosts/getadmiral.txt
+#
+# Last modified: 2019-05-17 06:25 UTC
+#
+# DOMAINS -------------------------------------------------------------------- #
+#
+
+#

@@ -1,0 +1,20 @@
+[Adblock Plus 2.0]
+! Version: 201905170625
+! Title: smed79 BlackList
+! Last modified: 2019-05-17 06:25 UTC
+! Expires: 1 days
+!
+! Description: BlackList of domains hosting advertisements & other nasty purposes.
+! Homepage: https://github.com/smed79/blacklist
+! Licence: http://creativecommons.org/licenses/by-nc-sa/3.0/
+!
+! In order to use this list, please use the following address: 
+! https://raw.githubusercontent.com/smed79/blacklist/master/abp.txt
+!
+! To be efficient, this list should be used in addition to EasyList & EasyPrivacy
+! https://easylist-downloads.adblockplus.org/easyprivacy+easylist.txt
+!
+! ---------------------------------------------------------------------------- !
+!
+
+!
