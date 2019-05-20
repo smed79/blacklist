@@ -5,10 +5,10 @@
 # Homepage: https://github.com/smed79/blacklist
 # Licence: (CC BY-NC-SA) http://creativecommons.org/licenses/by-nc-sa/3.0/
 #
-# In order to use this list, please use the following address: 
+# In order to use this list, please use the following address:
 # https://raw.githubusercontent.com/smed79/blacklist/master/hosts/adback.txt
 #
-# Last modified: 2019-05-17 06:36 UTC
+# Last modified: 2019-05-20 07:55 UTC
 #
 # DOMAINS -------------------------------------------------------------------- #
 #
@@ -44,6 +44,7 @@
 0.0.0.0 crandonellaville.moshervillethawville.com
 0.0.0.0 crankscastella.dieterichtaylorville.com
 0.0.0.0 crouselacon.freelandvillalba.com
+0.0.0.0 curticetomball.tidiouteburket.com
 0.0.0.0 daljarrock.hurlinesswhitchurch.com
 0.0.0.0 damariscottalickingville.hollinsmcalpin.com
 0.0.0.0 deerfieldshubuta.depauvillepinson.com

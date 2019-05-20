@@ -5,10 +5,10 @@
 # Homepage: https://github.com/smed79/blacklist
 # Licence: (CC BY-NC-SA) http://creativecommons.org/licenses/by-nc-sa/3.0/
 #
-# In order to use this list, please use the following address: 
+# In order to use this list, please use the following address:
 # https://raw.githubusercontent.com/smed79/blacklist/master/hosts/popads.txt
 #
-# Last modified: 2019-05-17 08:20 UTC
+# Last modified: 2019-05-20 07:55 UTC
 #
 # DOMAINS -------------------------------------------------------------------- #
 #
@@ -1969,6 +1969,7 @@
 0.0.0.0 www.flvuylhsyg.com
 0.0.0.0 www.flzelfqolfnf.com
 0.0.0.0 www.fmbjxqvkjfmj.com
+0.0.0.0 www.fmcktrmnlyfjr.com
 0.0.0.0 www.fmcwqmwdaubb.com
 0.0.0.0 www.fmgcaqljz.bid
 0.0.0.0 www.fmoihhvbehopc.com
@@ -2464,6 +2465,7 @@
 0.0.0.0 www.gtfbvxlmev.com
 0.0.0.0 www.gthrdhxhwdt.bid
 0.0.0.0 www.gtkikiwa.com
+0.0.0.0 www.gtlcgovlg.com
 0.0.0.0 www.gtmonytxxglu.com
 0.0.0.0 www.gtnmyddlf.com
 0.0.0.0 www.gtorsoxdh.com
@@ -6280,6 +6282,7 @@
 0.0.0.0 www.rdkdexupxcfs.com
 0.0.0.0 www.rdlynbosndvx.com
 0.0.0.0 www.rdmccvanlx.bid
+0.0.0.0 www.rdoovrzqazvpgv.com
 0.0.0.0 www.rdooybwcuyg.com
 0.0.0.0 www.rdpqiqlirf.com
 0.0.0.0 www.rdqyasdstllr.com
@@ -7910,6 +7913,7 @@
 0.0.0.0 www.xwavfvpzg.com
 0.0.0.0 www.xwcqrzkle.com
 0.0.0.0 www.xwdlgzrnuyo.com
+0.0.0.0 www.xwonghmweu.com
 0.0.0.0 www.xwrmlohlri.com
 0.0.0.0 www.xwvofxgqilhy.com
 0.0.0.0 www.xwxbiywlavgpm.com
@@ -8091,6 +8095,7 @@
 0.0.0.0 www.zfoeiywwiqo.com
 0.0.0.0 www.zfpsotrgboqp.com
 0.0.0.0 www.zfubrpobdf.bid
+0.0.0.0 www.zfvrrodxfb.com
 0.0.0.0 www.zggnhhadif.com
 0.0.0.0 www.zgwuvfye.com
 0.0.0.0 www.zhlfogiy.com

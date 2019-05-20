@@ -5,10 +5,10 @@
 # Homepage: https://github.com/smed79/blacklist
 # Licence: (CC BY-NC-SA) http://creativecommons.org/licenses/by-nc-sa/3.0/
 #
-# In order to use this list, please use the following address: 
+# In order to use this list, please use the following address:
 # https://raw.githubusercontent.com/smed79/blacklist/master/hosts/cloudfront.txt
 #
-# Last modified: 2019-05-17 07:02 UTC
+# Last modified: 2019-05-20 07:55 UTC
 #
 # DOMAINS -------------------------------------------------------------------- #
 #
@@ -40,6 +40,7 @@
 0.0.0.0 d158nafix8anfs.cloudfront.net
 0.0.0.0 d15cjcet1djbmv.cloudfront.net
 0.0.0.0 d15gt9gwxw5wu0.cloudfront.net
+0.0.0.0 d15r06k2ko210l.cloudfront.net
 0.0.0.0 d160mt023h8h3d.cloudfront.net
 0.0.0.0 d162nnmwf9bggr.cloudfront.net
 0.0.0.0 d1635hfcvs8ero.cloudfront.net
@@ -576,6 +577,7 @@
 0.0.0.0 d830x8j3o1b2k.cloudfront.net
 0.0.0.0 d8qy7md4cj3gz.cloudfront.net
 0.0.0.0 d8rk54i4mohrb.cloudfront.net
+0.0.0.0 d9etzk30b05yg.cloudfront.net
 0.0.0.0 d9hhrg4mnvzow.cloudfront.net
 0.0.0.0 d9lq0o81skkdj.cloudfront.net
 0.0.0.0 d9rj2sdxjer5v.cloudfront.net
@@ -625,6 +627,7 @@
 0.0.0.0 dh0uktvqfaomb.cloudfront.net
 0.0.0.0 dhc0r49tu1cem.cloudfront.net
 0.0.0.0 dhdtk67w1eua6.cloudfront.net
+0.0.0.0 dhpikd1t89arn.cloudfront.net
 0.0.0.0 dhy77jsjr4g76.cloudfront.net
 0.0.0.0 dhzws7l31cq8p.cloudfront.net
 0.0.0.0 diodxcszlbmwk.cloudfront.net

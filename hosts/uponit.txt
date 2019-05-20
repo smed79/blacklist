@@ -5,7 +5,7 @@
 # Homepage: https://github.com/smed79/blacklist
 # Licence: (CC BY-NC-SA) http://creativecommons.org/licenses/by-nc-sa/3.0/
 #
-# In order to use this list, please use the following address: 
+# In order to use this list, please use the following address:
 # https://raw.githubusercontent.com/smed79/blacklist/master/hosts/uponit.txt
 #
 # Last modified: 2019-05-17 09:09 UTC
@@ -109,7 +109,6 @@
 0.0.0.0 a.muligov.com
 0.0.0.0 a.namitol.com
 0.0.0.0 a.nanuyalailai.com
-0.0.0.0 a.nanuyalailai.com 
 0.0.0.0 a.nepohita.com
 0.0.0.0 a.nidorivo.com
 0.0.0.0 a.niholaev.com
@@ -119,7 +118,6 @@
 0.0.0.0 a.oddomane.com
 0.0.0.0 a.opaalopaa.com
 0.0.0.0 a.opjalajamak.com
-0.0.0.0 a.opjalajamak.com 
 0.0.0.0 a.paholita.com
 0.0.0.0 a.perahbashmama.com
 0.0.0.0 a.pipilazipi.com
@@ -142,7 +140,6 @@
 0.0.0.0 a.rewapala.com
 0.0.0.0 a.rezilopompa.com
 0.0.0.0 a.ripalazc.com
-0.0.0.0 a.ripalazc.com 
 0.0.0.0 a.rodirola.com
 0.0.0.0 a.rolkakuksa.com
 0.0.0.0 a.roritabo.com
@@ -191,7 +188,6 @@
 0.0.0.0 a.zonolali.com
 0.0.0.0 a.zorbikala.com
 0.0.0.0 a.zortinah.com
-0.0.0.0 a.zortinah.com 
 0.0.0.0 a.zukabota.com
 0.0.0.0 console.uponit.com
 0.0.0.0 dashboard.uponit.com
@@ -337,7 +333,6 @@
 0.0.0.0 xhr.muligov.com
 0.0.0.0 xhr.namitol.com
 0.0.0.0 xhr.nanuyalailai.com
-0.0.0.0 xhr.nanuyalailai.com 
 0.0.0.0 xhr.nepohitxhr.com
 0.0.0.0 xhr.nidorivo.com
 0.0.0.0 xhr.niholaev.com
@@ -347,7 +342,6 @@
 0.0.0.0 xhr.oddomane.com
 0.0.0.0 xhr.opaalopaxhr.com
 0.0.0.0 xhr.opjalajamak.com
-0.0.0.0 xhr.opjalajamak.com 
 0.0.0.0 xhr.paholitxhr.com
 0.0.0.0 xhr.perahbashmamxhr.com
 0.0.0.0 xhr.pipilazipi.com
@@ -370,7 +364,6 @@
 0.0.0.0 xhr.rewapalxhr.com
 0.0.0.0 xhr.rezilopompxhr.com
 0.0.0.0 xhr.ripalazc.com
-0.0.0.0 xhr.ripalazc.com 
 0.0.0.0 xhr.rodirolxhr.com
 0.0.0.0 xhr.rolkakuksxhr.com
 0.0.0.0 xhr.roritabo.com
@@ -425,7 +418,6 @@
 0.0.0.0 xhr.zonolali.com
 0.0.0.0 xhr.zorbikalxhr.com
 0.0.0.0 xhr.zortinah.com
-0.0.0.0 xhr.zortinah.com 
 0.0.0.0 xhr.zozolillxhr.com
 0.0.0.0 xhr.zukabotxhr.com
 #

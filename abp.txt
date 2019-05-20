@@ -1,14 +1,14 @@
 [Adblock Plus 2.0]
-! Version: 201905170909
+! Version: 201905200755
 ! Title: smed79 BlackList
-! Last modified: 2019-05-17 09:09 UTC
+! Last modified: 2019-05-20 07:55 UTC
 ! Expires: 1 days
 !
 ! Description: BlackList of domains hosting advertisements & other nasty purposes.
 ! Homepage: https://github.com/smed79/blacklist
 ! Licence: http://creativecommons.org/licenses/by-nc-sa/3.0/
 !
-! In order to use this list, please use the following address: 
+! In order to use this list, please use the following address:
 ! https://raw.githubusercontent.com/smed79/blacklist/master/abp.txt
 !
 ! To be efficient, this list should be used in addition to EasyList & EasyPrivacy
@@ -132,6 +132,7 @@
 ||slckhmhphm.com^
 ||springtownwahiawa.com^
 ||stinnettjarratt.com^
+||tidiouteburket.com^
 ||toomsborogreycliff.com^
 ||torringtonguion.com^
 ||tougaloocolerain.com^
@@ -1009,6 +1010,7 @@
 ||6ldu6qa.com^
 ||82o9v830.com^
 ||abandonedclover.com^
+||aboardamusement.com^
 ||aboardlevel.com^
 ||aboriginalboats.com^
 ||abruptroad.com^
@@ -1065,6 +1067,7 @@
 ||btez8.xyz^
 ||bucketbean.com^
 ||bulbbait.com^
+||burnbubble.com^
 ||businessbells.com^
 ||bustlinganimal.com^
 ||butterburst.com^
@@ -1143,6 +1146,7 @@
 ||delightfulhour.com^
 ||desertedbreath.com^
 ||desertedrat.com^
+||desiredirt.com^
 ||detailedglue.com^
 ||detailedgovernment.com^
 ||detectdinner.com^
@@ -1297,6 +1301,7 @@
 ||massivemark.com^
 ||matchcows.com^
 ||materialisticfan.com^
+||materialmoon.com^
 ||medusasailor.com^
 ||mellowtin.com^
 ||memorizeneck.com^
@@ -1390,6 +1395,7 @@
 ||robustbelieve.com^
 ||rodeopolice.com^
 ||roughroll.com^
+||ruddycast.com^
 ||rulerabbit.com^
 ||ruthlessmilk.com^
 ||savorystructure.com^
@@ -1437,7 +1443,9 @@
 ||sombersea.com^
 ||sombersurprise.com^
 ||sootheside.com^
+||soresneeze.com^
 ||sorethunder.com^
+||sortsummer.com^
 ||sparklingnumber.com^
 ||spectacularsnail.com^
 ||spendpest.com^
@@ -1512,6 +1520,7 @@
 ||tracedesire.com^
 ||tranquilside.com^
 ||translateoatmeal.com^
+||tremendousplastic.com^
 ||tremendoustreatment.com^
 ||trickycelery.com^
 ||tritetongue.com^
@@ -1539,6 +1548,7 @@
 ||whiskyqueue.com^
 ||whisperingbadge.com^
 ||wigglygeese.com^
+||wigglyindustry.com^
 ||wirecomic.com^
 ||womanear.com^
 ||worrybutter.com^
@@ -1580,6 +1590,7 @@
 ||d158nafix8anfs.cloudfront.net^
 ||d15cjcet1djbmv.cloudfront.net^
 ||d15gt9gwxw5wu0.cloudfront.net^
+||d15r06k2ko210l.cloudfront.net^
 ||d160mt023h8h3d.cloudfront.net^
 ||d162nnmwf9bggr.cloudfront.net^
 ||d1635hfcvs8ero.cloudfront.net^
@@ -2116,6 +2127,7 @@
 ||d830x8j3o1b2k.cloudfront.net^
 ||d8qy7md4cj3gz.cloudfront.net^
 ||d8rk54i4mohrb.cloudfront.net^
+||d9etzk30b05yg.cloudfront.net^
 ||d9hhrg4mnvzow.cloudfront.net^
 ||d9lq0o81skkdj.cloudfront.net^
 ||d9rj2sdxjer5v.cloudfront.net^
@@ -2165,6 +2177,7 @@
 ||dh0uktvqfaomb.cloudfront.net^
 ||dhc0r49tu1cem.cloudfront.net^
 ||dhdtk67w1eua6.cloudfront.net^
+||dhpikd1t89arn.cloudfront.net^
 ||dhy77jsjr4g76.cloudfront.net^
 ||dhzws7l31cq8p.cloudfront.net^
 ||diodxcszlbmwk.cloudfront.net^
@@ -4608,6 +4621,7 @@
 ||flvuylhsyg.com^
 ||flzelfqolfnf.com^
 ||fmbjxqvkjfmj.com^
+||fmcktrmnlyfjr.com^
 ||fmcwqmwdaubb.com^
 ||fmgcaqljz.bid^
 ||fmoihhvbehopc.com^
@@ -5104,6 +5118,7 @@
 ||gtfbvxlmev.com^
 ||gthrdhxhwdt.bid^
 ||gtkikiwa.com^
+||gtlcgovlg.com^
 ||gtmonytxxglu.com^
 ||gtnmyddlf.com^
 ||gtorsoxdh.com^
@@ -8312,7 +8327,6 @@
 ||pooxbpxm.com^
 ||popads.net^
 ||popadscdn.net^
-||popadscdn.net^
 ||popzkvfimbox.com^
 ||poqqvnychl.com^
 ||postrsyk.com^
@@ -8922,6 +8936,7 @@
 ||rdkdexupxcfs.com^
 ||rdlynbosndvx.com^
 ||rdmccvanlx.bid^
+||rdoovrzqazvpgv.com^
 ||rdooybwcuyg.com^
 ||rdpqiqlirf.com^
 ||rdqyasdstllr.com^
@@ -10552,6 +10567,7 @@
 ||xwavfvpzg.com^
 ||xwcqrzkle.com^
 ||xwdlgzrnuyo.com^
+||xwonghmweu.com^
 ||xwrmlohlri.com^
 ||xwvofxgqilhy.com^
 ||xwxbiywlavgpm.com^
@@ -10733,6 +10749,7 @@
 ||zfoeiywwiqo.com^
 ||zfpsotrgboqp.com^
 ||zfubrpobdf.bid^
+||zfvrrodxfb.com^
 ||zggnhhadif.com^
 ||zgwuvfye.com^
 ||zhlfogiy.com^
@@ -11279,6 +11296,7 @@
 ||aifoosty.net^
 ||aijiboft.com^
 ||airtoump.com^
+||aiwhamti.com^
 ||aiwhebey.com^
 ||alamak.xyz^
 ||albireo.xyz^
@@ -11587,12 +11605,15 @@
 ||grimpils.com^
 ||gromtupt.net^
 ||groogloo.net^
+||groucign.com^
+||grudreeb.com^
 ||guckawoh.net^
 ||haithoaz.net^
 ||harsonsy.com^
 ||hartookr.link^
 ||hashalre.uk^
 ||haupsoti.net^
+||hauthain.com^
 ||herdethi.net^
 ||hereonline.online^
 ||herowebads.com^
@@ -11606,6 +11627,7 @@
 ||ithoahie.com^
 ||ivastoor.com^
 ||iz682noju02ye5.com^
+||jabaibou.net^
 ||jaizouji.com^
 ||jeeshapi.net^
 ||joheeptaicat.com^
@@ -11620,6 +11642,9 @@
 ||kaunairu.net^
 ||kelsaurt.com^
 ||keyrolan.com^
+||kikaltiw.com^
+||kipoutch.net^
+||kirgeemo.com^
 ||koapsooh.click^
 ||kurwinner.com^
 ||lashaucu.net^
@@ -11641,6 +11666,7 @@
 ||mobibiobi.com^
 ||mousheen.net^
 ||nauchegy.link^
+||naustoch.net^
 ||neepaips.com^
 ||nepsauss.net^
 ||newhigee.net^
@@ -11672,9 +11698,11 @@
 ||ootcheey.net^
 ||orgalso.com^
 ||otefauks.link^
+||oukrocky.com^
 ||ouloutso.net^
 ||oupushee.com^
 ||ousufauk.com^
+||padsdel.com^
 ||pastoupt.com^
 ||paujoawa.top^
 ||paupepsu.click^
@@ -11706,6 +11734,7 @@
 ||psadsoob.com^
 ||psairurg.net^
 ||psevaulr.net^
+||psoaghie.net^
 ||psoapeez.click^
 ||psoomeeg.com^
 ||psourdat.com^
@@ -11733,6 +11762,7 @@
 ||pushwhy.com^
 ||pushzolo.com^
 ||putessie.com^
+||ransefti.com^
 ||rauceesh.com^
 ||ravaynore.com^
 ||redorange.website^
@@ -11742,6 +11772,7 @@
 ||roojouma.com^
 ||rooptaup.com^
 ||roupsouk.com^
+||rouvitoa.net^
 ||rudsools.net^
 ||rufadses.net^
 ||rugreery.net^
@@ -11753,12 +11784,14 @@
 ||shailsie.net^
 ||shaiptuk.net^
 ||sheenami.net^
+||shepoart.com^
 ||shifoagn.uk^
 ||shihoult.com^
 ||shoochie.net^
 ||shoomsie.uk^
 ||shootoax.com^
 ||shuhahom.net^
+||shukaimp.com^
 ||sifuglie.com^
 ||sinwebads.com^
 ||sortacki.net^
@@ -11800,6 +11833,7 @@
 ||trecurlik.com^
 ||trufus.ovh^
 ||ubeestis.net^
+||ucheephu.com^
 ||udockoan.net^
 ||ugrastes.uk^
 ||uitopadxdo.com^
@@ -11814,17 +11848,20 @@
 ||vidsizee.com^
 ||voastauz.net^
 ||voowephu.net^
+||vouceeco.com^
 ||vutsoabs.net^
 ||w4qnw4uw.cricket^
 ||wachipho.net^
 ||wanukree.net^
 ||waubasou.com^
+||wawoalte.com^
 ||wedeegut.net^
 ||weedazou.net^
 ||whaighem.net^
 ||whardaih.net^
 ||whatseet.net^
 ||whegadry.com^
+||whehilru.com^
 ||whiceega.com^
 ||whickeen.net^
 ||whoapoan.top^
@@ -11835,6 +11872,7 @@
 ||woahizouty.com^
 ||wootoozo.com^
 ||woovaust.net^
+||wussucko.com^
 ||wynather.com^
 ||xijgedjgg5f55.com^
 ||yarlnk.com^
@@ -11842,6 +11880,7 @@
 ||yupidd.com^
 ||z6naousb.com^
 ||zaicouwy.net^
+||zeeleeni.com^
 ||zereessa.com^
 ||ziphoumt.net^
 ||zoacaups.net^
@@ -12015,7 +12054,6 @@
 ||muligov.com^
 ||namitol.com^
 ||nanuyalailai.com^
-||nanuyalailai.com ^
 ||nepohita.com^
 ||nepohitxhr.com^
 ||nidorivo.com^
@@ -12027,7 +12065,6 @@
 ||opaalopaa.com^
 ||opaalopaxhr.com^
 ||opjalajamak.com^
-||opjalajamak.com ^
 ||paholita.com^
 ||paholitxhr.com^
 ||perahbashmama.com^
@@ -12062,7 +12099,6 @@
 ||rezilopompa.com^
 ||rezilopompxhr.com^
 ||ripalazc.com^
-||ripalazc.com ^
 ||rodirola.com^
 ||rodirolxhr.com^
 ||rolkakuksa.com^
@@ -12139,7 +12175,6 @@
 ||zorbikala.com^
 ||zorbikalxhr.com^
 ||zortinah.com^
-||zortinah.com ^
 ||zozolilla.com^
 ||zozolillxhr.com^
 ||zukabota.com^

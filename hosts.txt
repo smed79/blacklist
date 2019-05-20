@@ -5,10 +5,10 @@
 # Homepage: https://github.com/smed79/blacklist
 # Licence: (CC BY-NC-SA) http://creativecommons.org/licenses/by-nc-sa/3.0/
 #
-# In order to use this list, please use the following address: 
+# In order to use this list, please use the following address:
 # https://raw.githubusercontent.com/smed79/blacklist/master/hosts.txt
 #
-# Last modified: 2019-05-17 09:09 UTC
+# Last modified: 2019-05-20 07:55 UTC
 #
 # DOMAINS -------------------------------------------------------------------- #
 #
@@ -46,6 +46,7 @@
 0.0.0.0 crandonellaville.moshervillethawville.com
 0.0.0.0 crankscastella.dieterichtaylorville.com
 0.0.0.0 crouselacon.freelandvillalba.com
+0.0.0.0 curticetomball.tidiouteburket.com
 0.0.0.0 daljarrock.hurlinesswhitchurch.com
 0.0.0.0 damariscottalickingville.hollinsmcalpin.com
 0.0.0.0 deerfieldshubuta.depauvillepinson.com
@@ -999,6 +1000,7 @@
 0.0.0.0 6ldu6qa.com
 0.0.0.0 82o9v830.com
 0.0.0.0 abandonedclover.com
+0.0.0.0 aboardamusement.com
 0.0.0.0 aboardlevel.com
 0.0.0.0 aboriginalboats.com
 0.0.0.0 abruptroad.com
@@ -1055,6 +1057,7 @@
 0.0.0.0 btez8.xyz
 0.0.0.0 bucketbean.com
 0.0.0.0 bulbbait.com
+0.0.0.0 burnbubble.com
 0.0.0.0 businessbells.com
 0.0.0.0 bustlinganimal.com
 0.0.0.0 butterburst.com
@@ -1135,6 +1138,7 @@
 0.0.0.0 delivery.api.getadmiral.com
 0.0.0.0 desertedbreath.com
 0.0.0.0 desertedrat.com
+0.0.0.0 desiredirt.com
 0.0.0.0 detailedglue.com
 0.0.0.0 detailedgovernment.com
 0.0.0.0 detectdinner.com
@@ -1291,6 +1295,7 @@
 0.0.0.0 massivemark.com
 0.0.0.0 matchcows.com
 0.0.0.0 materialisticfan.com
+0.0.0.0 materialmoon.com
 0.0.0.0 medusasailor.com
 0.0.0.0 mellowtin.com
 0.0.0.0 memorizeneck.com
@@ -1385,6 +1390,7 @@
 0.0.0.0 robustbelieve.com
 0.0.0.0 rodeopolice.com
 0.0.0.0 roughroll.com
+0.0.0.0 ruddycast.com
 0.0.0.0 rulerabbit.com
 0.0.0.0 ruthlessmilk.com
 0.0.0.0 savorystructure.com
@@ -1434,7 +1440,9 @@
 0.0.0.0 sombersea.com
 0.0.0.0 sombersurprise.com
 0.0.0.0 sootheside.com
+0.0.0.0 soresneeze.com
 0.0.0.0 sorethunder.com
+0.0.0.0 sortsummer.com
 0.0.0.0 sparklingnumber.com
 0.0.0.0 spectacularsnail.com
 0.0.0.0 spendpest.com
@@ -1513,6 +1521,7 @@
 0.0.0.0 tracedesire.com
 0.0.0.0 tranquilside.com
 0.0.0.0 translateoatmeal.com
+0.0.0.0 tremendousplastic.com
 0.0.0.0 tremendoustreatment.com
 0.0.0.0 trickycelery.com
 0.0.0.0 tritetongue.com
@@ -1541,6 +1550,7 @@
 0.0.0.0 whiskyqueue.com
 0.0.0.0 whisperingbadge.com
 0.0.0.0 wigglygeese.com
+0.0.0.0 wigglyindustry.com
 0.0.0.0 wirecomic.com
 0.0.0.0 womanear.com
 0.0.0.0 worrybutter.com
@@ -1583,6 +1593,7 @@
 0.0.0.0 d158nafix8anfs.cloudfront.net
 0.0.0.0 d15cjcet1djbmv.cloudfront.net
 0.0.0.0 d15gt9gwxw5wu0.cloudfront.net
+0.0.0.0 d15r06k2ko210l.cloudfront.net
 0.0.0.0 d160mt023h8h3d.cloudfront.net
 0.0.0.0 d162nnmwf9bggr.cloudfront.net
 0.0.0.0 d1635hfcvs8ero.cloudfront.net
@@ -2119,6 +2130,7 @@
 0.0.0.0 d830x8j3o1b2k.cloudfront.net
 0.0.0.0 d8qy7md4cj3gz.cloudfront.net
 0.0.0.0 d8rk54i4mohrb.cloudfront.net
+0.0.0.0 d9etzk30b05yg.cloudfront.net
 0.0.0.0 d9hhrg4mnvzow.cloudfront.net
 0.0.0.0 d9lq0o81skkdj.cloudfront.net
 0.0.0.0 d9rj2sdxjer5v.cloudfront.net
@@ -2168,6 +2180,7 @@
 0.0.0.0 dh0uktvqfaomb.cloudfront.net
 0.0.0.0 dhc0r49tu1cem.cloudfront.net
 0.0.0.0 dhdtk67w1eua6.cloudfront.net
+0.0.0.0 dhpikd1t89arn.cloudfront.net
 0.0.0.0 dhy77jsjr4g76.cloudfront.net
 0.0.0.0 dhzws7l31cq8p.cloudfront.net
 0.0.0.0 diodxcszlbmwk.cloudfront.net
@@ -4630,6 +4643,7 @@
 0.0.0.0 www.flvuylhsyg.com
 0.0.0.0 www.flzelfqolfnf.com
 0.0.0.0 www.fmbjxqvkjfmj.com
+0.0.0.0 www.fmcktrmnlyfjr.com
 0.0.0.0 www.fmcwqmwdaubb.com
 0.0.0.0 www.fmgcaqljz.bid
 0.0.0.0 www.fmoihhvbehopc.com
@@ -5125,6 +5139,7 @@
 0.0.0.0 www.gtfbvxlmev.com
 0.0.0.0 www.gthrdhxhwdt.bid
 0.0.0.0 www.gtkikiwa.com
+0.0.0.0 www.gtlcgovlg.com
 0.0.0.0 www.gtmonytxxglu.com
 0.0.0.0 www.gtnmyddlf.com
 0.0.0.0 www.gtorsoxdh.com
@@ -8941,6 +8956,7 @@
 0.0.0.0 www.rdkdexupxcfs.com
 0.0.0.0 www.rdlynbosndvx.com
 0.0.0.0 www.rdmccvanlx.bid
+0.0.0.0 www.rdoovrzqazvpgv.com
 0.0.0.0 www.rdooybwcuyg.com
 0.0.0.0 www.rdpqiqlirf.com
 0.0.0.0 www.rdqyasdstllr.com
@@ -10571,6 +10587,7 @@
 0.0.0.0 www.xwavfvpzg.com
 0.0.0.0 www.xwcqrzkle.com
 0.0.0.0 www.xwdlgzrnuyo.com
+0.0.0.0 www.xwonghmweu.com
 0.0.0.0 www.xwrmlohlri.com
 0.0.0.0 www.xwvofxgqilhy.com
 0.0.0.0 www.xwxbiywlavgpm.com
@@ -10752,6 +10769,7 @@
 0.0.0.0 www.zfoeiywwiqo.com
 0.0.0.0 www.zfpsotrgboqp.com
 0.0.0.0 www.zfubrpobdf.bid
+0.0.0.0 www.zfvrrodxfb.com
 0.0.0.0 www.zggnhhadif.com
 0.0.0.0 www.zgwuvfye.com
 0.0.0.0 www.zhlfogiy.com
@@ -12061,7 +12079,6 @@
 0.0.0.0 a.muligov.com
 0.0.0.0 a.namitol.com
 0.0.0.0 a.nanuyalailai.com
-0.0.0.0 a.nanuyalailai.com 
 0.0.0.0 a.nepohita.com
 0.0.0.0 a.nidorivo.com
 0.0.0.0 a.niholaev.com
@@ -12071,7 +12088,6 @@
 0.0.0.0 a.oddomane.com
 0.0.0.0 a.opaalopaa.com
 0.0.0.0 a.opjalajamak.com
-0.0.0.0 a.opjalajamak.com 
 0.0.0.0 a.paholita.com
 0.0.0.0 a.perahbashmama.com
 0.0.0.0 a.pipilazipi.com
@@ -12094,7 +12110,6 @@
 0.0.0.0 a.rewapala.com
 0.0.0.0 a.rezilopompa.com
 0.0.0.0 a.ripalazc.com
-0.0.0.0 a.ripalazc.com 
 0.0.0.0 a.rodirola.com
 0.0.0.0 a.rolkakuksa.com
 0.0.0.0 a.roritabo.com
@@ -12143,7 +12158,6 @@
 0.0.0.0 a.zonolali.com
 0.0.0.0 a.zorbikala.com
 0.0.0.0 a.zortinah.com
-0.0.0.0 a.zortinah.com 
 0.0.0.0 a.zukabota.com
 0.0.0.0 console.uponit.com
 0.0.0.0 dashboard.uponit.com
@@ -12289,7 +12303,6 @@
 0.0.0.0 xhr.muligov.com
 0.0.0.0 xhr.namitol.com
 0.0.0.0 xhr.nanuyalailai.com
-0.0.0.0 xhr.nanuyalailai.com 
 0.0.0.0 xhr.nepohitxhr.com
 0.0.0.0 xhr.nidorivo.com
 0.0.0.0 xhr.niholaev.com
@@ -12299,7 +12312,6 @@
 0.0.0.0 xhr.oddomane.com
 0.0.0.0 xhr.opaalopaxhr.com
 0.0.0.0 xhr.opjalajamak.com
-0.0.0.0 xhr.opjalajamak.com 
 0.0.0.0 xhr.paholitxhr.com
 0.0.0.0 xhr.perahbashmamxhr.com
 0.0.0.0 xhr.pipilazipi.com
@@ -12322,7 +12334,6 @@
 0.0.0.0 xhr.rewapalxhr.com
 0.0.0.0 xhr.rezilopompxhr.com
 0.0.0.0 xhr.ripalazc.com
-0.0.0.0 xhr.ripalazc.com 
 0.0.0.0 xhr.rodirolxhr.com
 0.0.0.0 xhr.rolkakuksxhr.com
 0.0.0.0 xhr.roritabo.com
@@ -12377,7 +12388,6 @@
 0.0.0.0 xhr.zonolali.com
 0.0.0.0 xhr.zorbikalxhr.com
 0.0.0.0 xhr.zortinah.com
-0.0.0.0 xhr.zortinah.com 
 0.0.0.0 xhr.zozolillxhr.com
 0.0.0.0 xhr.zukabotxhr.com
 #

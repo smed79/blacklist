@@ -5,10 +5,10 @@
 # Homepage: https://github.com/smed79/blacklist
 # Licence: (CC BY-NC-SA) http://creativecommons.org/licenses/by-nc-sa/3.0/
 #
-# In order to use this list, please use the following address: 
+# In order to use this list, please use the following address:
 # https://raw.githubusercontent.com/smed79/blacklist/master/hosts/admiral.txt
 #
-# Last modified: 2019-05-17 07:17 UTC
+# Last modified: 2019-05-20 07:55 UTC
 #
 # DOMAINS -------------------------------------------------------------------- #
 #
@@ -17,6 +17,7 @@
 0.0.0.0 6ldu6qa.com
 0.0.0.0 82o9v830.com
 0.0.0.0 abandonedclover.com
+0.0.0.0 aboardamusement.com
 0.0.0.0 aboardlevel.com
 0.0.0.0 aboriginalboats.com
 0.0.0.0 abruptroad.com
@@ -73,6 +74,7 @@
 0.0.0.0 btez8.xyz
 0.0.0.0 bucketbean.com
 0.0.0.0 bulbbait.com
+0.0.0.0 burnbubble.com
 0.0.0.0 businessbells.com
 0.0.0.0 bustlinganimal.com
 0.0.0.0 butterburst.com
@@ -153,6 +155,7 @@
 0.0.0.0 delivery.api.getadmiral.com
 0.0.0.0 desertedbreath.com
 0.0.0.0 desertedrat.com
+0.0.0.0 desiredirt.com
 0.0.0.0 detailedglue.com
 0.0.0.0 detailedgovernment.com
 0.0.0.0 detectdinner.com
@@ -309,6 +312,7 @@
 0.0.0.0 massivemark.com
 0.0.0.0 matchcows.com
 0.0.0.0 materialisticfan.com
+0.0.0.0 materialmoon.com
 0.0.0.0 medusasailor.com
 0.0.0.0 mellowtin.com
 0.0.0.0 memorizeneck.com
@@ -403,6 +407,7 @@
 0.0.0.0 robustbelieve.com
 0.0.0.0 rodeopolice.com
 0.0.0.0 roughroll.com
+0.0.0.0 ruddycast.com
 0.0.0.0 rulerabbit.com
 0.0.0.0 ruthlessmilk.com
 0.0.0.0 savorystructure.com
@@ -452,7 +457,9 @@
 0.0.0.0 sombersea.com
 0.0.0.0 sombersurprise.com
 0.0.0.0 sootheside.com
+0.0.0.0 soresneeze.com
 0.0.0.0 sorethunder.com
+0.0.0.0 sortsummer.com
 0.0.0.0 sparklingnumber.com
 0.0.0.0 spectacularsnail.com
 0.0.0.0 spendpest.com
@@ -531,6 +538,7 @@
 0.0.0.0 tracedesire.com
 0.0.0.0 tranquilside.com
 0.0.0.0 translateoatmeal.com
+0.0.0.0 tremendousplastic.com
 0.0.0.0 tremendoustreatment.com
 0.0.0.0 trickycelery.com
 0.0.0.0 tritetongue.com
@@ -559,6 +567,7 @@
 0.0.0.0 whiskyqueue.com
 0.0.0.0 whisperingbadge.com
 0.0.0.0 wigglygeese.com
+0.0.0.0 wigglyindustry.com
 0.0.0.0 wirecomic.com
 0.0.0.0 womanear.com
 0.0.0.0 worrybutter.com

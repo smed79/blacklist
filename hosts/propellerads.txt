@@ -5,10 +5,10 @@
 # Homepage: https://github.com/smed79/blacklist
 # Licence: (CC BY-NC-SA) http://creativecommons.org/licenses/by-nc-sa/3.0/
 #
-# In order to use this list, please use the following address: 
+# In order to use this list, please use the following address:
 # https://raw.githubusercontent.com/smed79/blacklist/master/hosts/propellerads.txt
 #
-# Last modified: 2019-05-17 07:50 UTC
+# Last modified: 2019-05-20 07:55 UTC
 #
 # DOMAINS -------------------------------------------------------------------- #
 #
@@ -457,6 +457,7 @@
 0.0.0.0 aifoosty.net
 0.0.0.0 aijiboft.com
 0.0.0.0 airtoump.com
+0.0.0.0 aiwhamti.com
 0.0.0.0 aiwhebey.com
 0.0.0.0 alamak.xyz
 0.0.0.0 alav.propellerads.com
@@ -784,6 +785,9 @@
 0.0.0.0 glotchat.click
 0.0.0.0 glothouw.link
 0.0.0.0 gluchair.net
+0.0.0.0 go.grafzen.com
+0.0.0.0 go.mobibiobi.com
+0.0.0.0 go.padsdel.com
 0.0.0.0 gobeerta.net
 0.0.0.0 gparse.propellerads.com
 0.0.0.0 graftaub.com
@@ -795,12 +799,15 @@
 0.0.0.0 grimpils.com
 0.0.0.0 gromtupt.net
 0.0.0.0 groogloo.net
+0.0.0.0 groucign.com
+0.0.0.0 grudreeb.com
 0.0.0.0 guckawoh.net
 0.0.0.0 haithoaz.net
 0.0.0.0 harsonsy.com
 0.0.0.0 hartookr.link
 0.0.0.0 hashalre.uk
 0.0.0.0 haupsoti.net
+0.0.0.0 hauthain.com
 0.0.0.0 help.propellerads.com
 0.0.0.0 herdethi.net
 0.0.0.0 hereonline.online
@@ -824,6 +831,7 @@
 0.0.0.0 ithoahie.com
 0.0.0.0 ivastoor.com
 0.0.0.0 iz682noju02ye5.com
+0.0.0.0 jabaibou.net
 0.0.0.0 jaizouji.com
 0.0.0.0 jeeshapi.net
 0.0.0.0 jira.propellerads.com
@@ -841,6 +849,9 @@
 0.0.0.0 kaunairu.net
 0.0.0.0 kelsaurt.com
 0.0.0.0 keyrolan.com
+0.0.0.0 kikaltiw.com
+0.0.0.0 kipoutch.net
+0.0.0.0 kirgeemo.com
 0.0.0.0 koapsooh.click
 0.0.0.0 kurwinner.com
 0.0.0.0 kvs-maintenance.propellerads.com
@@ -879,6 +890,7 @@
 0.0.0.0 my.propellerads.com
 0.0.0.0 native.propellerads.com
 0.0.0.0 nauchegy.link
+0.0.0.0 naustoch.net
 0.0.0.0 neepaips.com
 0.0.0.0 nepsauss.net
 0.0.0.0 newhigee.net
@@ -912,9 +924,11 @@
 0.0.0.0 ootcheey.net
 0.0.0.0 orgalso.com
 0.0.0.0 otefauks.link
+0.0.0.0 oukrocky.com
 0.0.0.0 ouloutso.net
 0.0.0.0 oupushee.com
 0.0.0.0 ousufauk.com
+0.0.0.0 padsdel.com
 0.0.0.0 partners.propellerads.com
 0.0.0.0 passback.propellerads.com
 0.0.0.0 pastoupt.com
@@ -949,6 +963,7 @@
 0.0.0.0 psadsoob.com
 0.0.0.0 psairurg.net
 0.0.0.0 psevaulr.net
+0.0.0.0 psoaghie.net
 0.0.0.0 psoapeez.click
 0.0.0.0 psoomeeg.com
 0.0.0.0 psourdat.com
@@ -978,6 +993,7 @@
 0.0.0.0 pushwhy.com
 0.0.0.0 pushzolo.com
 0.0.0.0 putessie.com
+0.0.0.0 ransefti.com
 0.0.0.0 rauceesh.com
 0.0.0.0 ravaynore.com
 0.0.0.0 redorange.website
@@ -987,6 +1003,7 @@
 0.0.0.0 roojouma.com
 0.0.0.0 rooptaup.com
 0.0.0.0 roupsouk.com
+0.0.0.0 rouvitoa.net
 0.0.0.0 rudsools.net
 0.0.0.0 rufadses.net
 0.0.0.0 rugreery.net
@@ -999,12 +1016,14 @@
 0.0.0.0 shailsie.net
 0.0.0.0 shaiptuk.net
 0.0.0.0 sheenami.net
+0.0.0.0 shepoart.com
 0.0.0.0 shifoagn.uk
 0.0.0.0 shihoult.com
 0.0.0.0 shoochie.net
 0.0.0.0 shoomsie.uk
 0.0.0.0 shootoax.com
 0.0.0.0 shuhahom.net
+0.0.0.0 shukaimp.com
 0.0.0.0 sifuglie.com
 0.0.0.0 sinwebads.com
 0.0.0.0 smartlink.propellerads.com
@@ -1054,6 +1073,7 @@
 0.0.0.0 trecurlik.com
 0.0.0.0 trufus.ovh
 0.0.0.0 ubeestis.net
+0.0.0.0 ucheephu.com
 0.0.0.0 udockoan.net
 0.0.0.0 ugrastes.uk
 0.0.0.0 uitopadxdo.com
@@ -1070,17 +1090,20 @@
 0.0.0.0 vidsizee.com
 0.0.0.0 voastauz.net
 0.0.0.0 voowephu.net
+0.0.0.0 vouceeco.com
 0.0.0.0 vutsoabs.net
 0.0.0.0 w4qnw4uw.cricket
 0.0.0.0 wachipho.net
 0.0.0.0 wanukree.net
 0.0.0.0 waubasou.com
+0.0.0.0 wawoalte.com
 0.0.0.0 wedeegut.net
 0.0.0.0 weedazou.net
 0.0.0.0 whaighem.net
 0.0.0.0 whardaih.net
 0.0.0.0 whatseet.net
 0.0.0.0 whegadry.com
+0.0.0.0 whehilru.com
 0.0.0.0 whiceega.com
 0.0.0.0 whickeen.net
 0.0.0.0 whoapoan.top
@@ -1091,6 +1114,7 @@
 0.0.0.0 woahizouty.com
 0.0.0.0 wootoozo.com
 0.0.0.0 woovaust.net
+0.0.0.0 wussucko.com
 0.0.0.0 www.ads.propellerads.com
 0.0.0.0 www.propellerads.com
 0.0.0.0 wynather.com
@@ -1101,6 +1125,7 @@
 0.0.0.0 yupidd.com
 0.0.0.0 z6naousb.com
 0.0.0.0 zaicouwy.net
+0.0.0.0 zeeleeni.com
 0.0.0.0 zereessa.com
 0.0.0.0 ziphoumt.net
 0.0.0.0 zoacaups.net
