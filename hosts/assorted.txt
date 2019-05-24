@@ -8,8 +8,43 @@
 # In order to use this list, please use the following address:
 # https://raw.githubusercontent.com/smed79/blacklist/master/hosts/assorted.txt
 #
-# Last modified: 2019-05-17 06:25 UTC
+# Last modified: 2019-05-24 05:50 UTC
 #
 # DOMAINS -------------------------------------------------------------------- #
 #
+0.0.0.0 7mu36somt5.com
+0.0.0.0 pti40qv5si.com
+0.0.0.0 vcfs6ip5h6.bid
+0.0.0.0 vg02h8z1ul.me
+0.0.0.0 vqcdjedt9q.com
+0.0.0.0 zgdfz6h7po.me
+#
+0.0.0.0 0gw7e6s3wrao9y3q.pro
+0.0.0.0 1b9cvfi0nwxqelxu.pro
+0.0.0.0 1zlyetcck7klyuy9.pro
+0.0.0.0 27vckaccbto7p761.pro
+0.0.0.0 327d49j2xt0nsr6o.pro
+0.0.0.0 4jpf0karrejn6yla.pro
+0.0.0.0 4y3vbu5bxql6177n.pro
+0.0.0.0 568vovhs6ekbupjo.pro
+0.0.0.0 6eez7ouig7gwguf6.pro
+0.0.0.0 6snjvxkawrtolv2x.pro
+0.0.0.0 8a8cq8c8yyqjs2xr.pro
+0.0.0.0 8weoaapw0hfvy6nz.pro
+0.0.0.0 a4eq4qvdh9x30d24.pro
+0.0.0.0 acrmbjkk6qc5utby.pro
+0.0.0.0 arda0hylt58g4wg0.pro
+0.0.0.0 bxgjpocfz1g1jiwb.pro
+0.0.0.0 clrpdhptoddatj49.pro
+0.0.0.0 gedmhqqipuz6wfon.pro
+0.0.0.0 gwa8i3rrf9mwozpi.pro
+0.0.0.0 iy8yhpmgrcpwkcvh.pro
+0.0.0.0 libraclick.pro
+0.0.0.0 oqn2ujcvgki0fgqy.pro
+0.0.0.0 vfl81ea28aztw7y3.pro
+0.0.0.0 vknrfwwxhxaxupqp.pro
+0.0.0.0 xbc8fsvo5w75wwx8.pro
+0.0.0.0 xonkmwvz7c0pp5lv.pro
+0.0.0.0 z6uc8er1mzx8n2qd.pro
+0.0.0.0 zcjvqfbl1toyemvm.pro
 #

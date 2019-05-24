@@ -59,6 +59,7 @@
 0.0.0.0 copicvarianuty.info
 0.0.0.0 countante.info
 0.0.0.0 credishe.com
+0.0.0.0 cultidifficient.info
 0.0.0.0 cutivecut.info
 0.0.0.0 dafford.info
 0.0.0.0 darrest.com
@@ -161,6 +162,7 @@
 0.0.0.0 newspolovb.info
 0.0.0.0 newsrouach.pro
 0.0.0.0 newsupdatedir.info
+0.0.0.0 newsushe.info
 0.0.0.0 nighting.info
 0.0.0.0 o12zs3u2n.com
 0.0.0.0 opertures.com

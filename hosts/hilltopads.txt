@@ -8,7 +8,7 @@
 # In order to use this list, please use the following address:
 # https://raw.githubusercontent.com/smed79/blacklist/master/hosts/hilltopads.txt
 #
-# Last modified: 2019-05-17 07:29 UTC
+# Last modified: 2019-05-24 05:50 UTC
 #
 # DOMAINS -------------------------------------------------------------------- #
 #
@@ -111,6 +111,7 @@
 0.0.0.0 gohillgo.com
 0.0.0.0 goupandhigher.com
 0.0.0.0 graphli.net
+0.0.0.0 greerlies.pro
 0.0.0.0 gxwoiiyfjiz.com
 0.0.0.0 happer.info
 0.0.0.0 hausly.info
@@ -158,7 +159,9 @@
 0.0.0.0 mystighty.info
 0.0.0.0 nastoverewess.pro
 0.0.0.0 niajmtjqexq.co
+0.0.0.0 notificationallow.com
 0.0.0.0 nottonic.com
+0.0.0.0 obelan.pro
 0.0.0.0 omoukkkj.stream
 0.0.0.0 operatedelivery.com
 0.0.0.0 ophistler.pro
@@ -221,6 +224,7 @@
 0.0.0.0 sticans.pro
 0.0.0.0 stimergeners.pro
 0.0.0.0 stoomeddert.info
+0.0.0.0 striticumber.pro
 0.0.0.0 substerrent.co
 0.0.0.0 succumbertson.pro
 0.0.0.0 suregauzi.info
