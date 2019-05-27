@@ -8,7 +8,7 @@
 # In order to use this list, please use the following address:
 # https://raw.githubusercontent.com/smed79/blacklist/master/hosts/admaven.txt
 #
-# Last modified: 2019-05-17 06:46 UTC
+# Last modified: 2019-05-27 06:01 UTC
 #
 # DOMAINS -------------------------------------------------------------------- #
 #
@@ -38,6 +38,7 @@
 0.0.0.0 beratent.info
 0.0.0.0 blot93nq.com
 0.0.0.0 bornate.info
+0.0.0.0 bouldrethedti.info
 0.0.0.0 brewindon.com
 0.0.0.0 brewindon.info
 0.0.0.0 butlachanna.info

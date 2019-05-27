@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201905240550
+! Version: 201905270601
 ! Title: smed79 BlackList
-! Last modified: 2019-05-24 05:50 UTC
+! Last modified: 2019-05-27 06:01 UTC
 ! Expires: 1 days
 !
 ! Description: BlackList of domains hosting advertisements & other nasty purposes.
@@ -181,6 +181,7 @@
 ||beratent.info^
 ||blot93nq.com^
 ||bornate.info^
+||bouldrethedti.info^
 ||brewindon.com^
 ||brewindon.info^
 ||butlachanna.info^
@@ -12464,4 +12465,48 @@
 ||xonkmwvz7c0pp5lv.pro^
 ||z6uc8er1mzx8n2qd.pro^
 ||zcjvqfbl1toyemvm.pro^
+!
+||arana.pw^
+||beiren.xyz^
+||daecan.xyz^
+||daethana.pw^
+||elabalar.pw^
+||elmenor.xyz^
+||farpeiros.pw^
+||galiowen.com^
+||galumbor.com^
+||gilzana.pw^
+||glynzumin.pw^
+||grebanise.pw^
+||ianhice.pw^
+||ianxalim.pw^
+||iarvyre.pw^
+||ilinan.xyz^
+||inaharice.pw^
+||inastina.pw^
+||keaven.pw^
+||kelris.pw^
+||liacyne.pw^
+||miakalyn.pw^
+||miastina.pw^
+||miracan.pw^
+||naetoris.pw^
+||nornelis.pw^
+||ololen.pw^
+||omaceran.pw^
+||omafaren.pw^
+||omaris.pw^
+||perkas.pw^
+||ralozorwyn.pw^
+||sarjor.pw^
+||thefaren.pw^
+||thenelis.pw^
+||urifiel.pw^
+||valkrana.xyz^
+||wysara.pw^
+||yinmyar.xyz^
+||yllanala.pw^
+||yllasatra.xyz^
+||zinlar.pw^
+||zumhice.pw^
 !

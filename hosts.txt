@@ -8,7 +8,7 @@
 # In order to use this list, please use the following address:
 # https://raw.githubusercontent.com/smed79/blacklist/master/hosts.txt
 #
-# Last modified: 2019-05-24 05:50 UTC
+# Last modified: 2019-05-27 06:01 UTC
 #
 # DOMAINS -------------------------------------------------------------------- #
 #
@@ -171,6 +171,7 @@
 0.0.0.0 beratent.info
 0.0.0.0 blot93nq.com
 0.0.0.0 bornate.info
+0.0.0.0 bouldrethedti.info
 0.0.0.0 brewindon.com
 0.0.0.0 brewindon.info
 0.0.0.0 butlachanna.info
@@ -12675,4 +12676,48 @@
 0.0.0.0 xonkmwvz7c0pp5lv.pro
 0.0.0.0 z6uc8er1mzx8n2qd.pro
 0.0.0.0 zcjvqfbl1toyemvm.pro
+#
+0.0.0.0 arana.pw
+0.0.0.0 beiren.xyz
+0.0.0.0 daecan.xyz
+0.0.0.0 daethana.pw
+0.0.0.0 elabalar.pw
+0.0.0.0 elmenor.xyz
+0.0.0.0 farpeiros.pw
+0.0.0.0 galiowen.com
+0.0.0.0 galumbor.com
+0.0.0.0 gilzana.pw
+0.0.0.0 glynzumin.pw
+0.0.0.0 grebanise.pw
+0.0.0.0 ianhice.pw
+0.0.0.0 ianxalim.pw
+0.0.0.0 iarvyre.pw
+0.0.0.0 ilinan.xyz
+0.0.0.0 inaharice.pw
+0.0.0.0 inastina.pw
+0.0.0.0 keaven.pw
+0.0.0.0 kelris.pw
+0.0.0.0 liacyne.pw
+0.0.0.0 miakalyn.pw
+0.0.0.0 miastina.pw
+0.0.0.0 miracan.pw
+0.0.0.0 naetoris.pw
+0.0.0.0 nornelis.pw
+0.0.0.0 ololen.pw
+0.0.0.0 omaceran.pw
+0.0.0.0 omafaren.pw
+0.0.0.0 omaris.pw
+0.0.0.0 perkas.pw
+0.0.0.0 ralozorwyn.pw
+0.0.0.0 sarjor.pw
+0.0.0.0 thefaren.pw
+0.0.0.0 thenelis.pw
+0.0.0.0 urifiel.pw
+0.0.0.0 valkrana.xyz
+0.0.0.0 wysara.pw
+0.0.0.0 yinmyar.xyz
+0.0.0.0 yllanala.pw
+0.0.0.0 yllasatra.xyz
+0.0.0.0 zinlar.pw
+0.0.0.0 zumhice.pw
 #
