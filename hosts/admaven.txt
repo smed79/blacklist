@@ -8,7 +8,7 @@
 # In order to use this list, please use the following address:
 # https://raw.githubusercontent.com/smed79/blacklist/master/hosts/admaven.txt
 #
-# Last modified: 2019-05-27 06:01 UTC
+# Last modified: 2019-05-30 23:15 UTC
 #
 # DOMAINS -------------------------------------------------------------------- #
 #
@@ -257,6 +257,7 @@
 0.0.0.0 wimprovideo.info
 0.0.0.0 winemation.info
 0.0.0.0 wirefined.com
+0.0.0.0 wisdementive.info
 0.0.0.0 withingol.info
 0.0.0.0 witholiced.info
 0.0.0.0 yestedun.info

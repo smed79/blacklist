@@ -8,7 +8,7 @@
 # In order to use this list, please use the following address:
 # https://raw.githubusercontent.com/smed79/blacklist/master/hosts.txt
 #
-# Last modified: 2019-05-27 06:01 UTC
+# Last modified: 2019-05-30 23:15 UTC
 #
 # DOMAINS -------------------------------------------------------------------- #
 #
@@ -390,6 +390,7 @@
 0.0.0.0 wimprovideo.info
 0.0.0.0 winemation.info
 0.0.0.0 wirefined.com
+0.0.0.0 wisdementive.info
 0.0.0.0 withingol.info
 0.0.0.0 witholiced.info
 0.0.0.0 yestedun.info
@@ -1961,6 +1962,7 @@
 0.0.0.0 d2izezc8ujpkba.cloudfront.net
 0.0.0.0 d2j3te7y7s8xxp.cloudfront.net
 0.0.0.0 d2jn12r3o7an7z.cloudfront.net
+0.0.0.0 d2k4es4l94a3cv.cloudfront.net
 0.0.0.0 d2k8yz7zlc0yyi.cloudfront.net
 0.0.0.0 d2kbaqwa2nt57l.cloudfront.net
 0.0.0.0 d2kmrmwhq7wkvs.cloudfront.net
@@ -3156,6 +3158,7 @@
 0.0.0.0 www.aorzglux.com
 0.0.0.0 www.aoshrcptugsjd.com
 0.0.0.0 www.aotrcqegtfhlaw.bid
+0.0.0.0 www.aovajfmsy.com
 0.0.0.0 www.aoxkyvcmgr.bid
 0.0.0.0 www.aoxntgxf.bid
 0.0.0.0 www.aoyfhtarolgemn.bid
@@ -3348,6 +3351,7 @@
 0.0.0.0 www.bcgcvepi.com
 0.0.0.0 www.bckmtidcnrobwh.bid
 0.0.0.0 www.bckwfsvdgfjw.com
+0.0.0.0 www.bclizbwet.com
 0.0.0.0 www.bcnhnekodmdniu.com
 0.0.0.0 www.bcnikicdi.bid
 0.0.0.0 www.bcoavtimgn.bid
@@ -3397,6 +3401,7 @@
 0.0.0.0 www.bfdihioj.com
 0.0.0.0 www.bfhlxjwc.com
 0.0.0.0 www.bfidvcsuazwy.com
+0.0.0.0 www.bfkpzjqpawfu.com
 0.0.0.0 www.bflcuvtyffao.bid
 0.0.0.0 www.bfmrffluuazwn.com
 0.0.0.0 www.bfpzhrzcvs.bid
@@ -3621,6 +3626,7 @@
 0.0.0.0 www.bvezznurwekr.com
 0.0.0.0 www.bvhzswlde.bid
 0.0.0.0 www.bvnekcpa.bid
+0.0.0.0 www.bvnmmdelarn.com
 0.0.0.0 www.bvqfuryhas.bid
 0.0.0.0 www.bvreosoejjt.bid
 0.0.0.0 www.bvrkzhtxlgono.com
@@ -3696,6 +3702,7 @@
 0.0.0.0 www.cbdjzemui.com
 0.0.0.0 www.cbehcazifywmro.bid
 0.0.0.0 www.cbhpiuopomc.com
+0.0.0.0 www.cbiapaofuviswf.com
 0.0.0.0 www.cbnrvzfvmd.com
 0.0.0.0 www.cbolsxvresvu.bid
 0.0.0.0 www.cbrqndeptsw.com
@@ -3870,6 +3877,7 @@
 0.0.0.0 www.cnuxnqgjkjqmky.bid
 0.0.0.0 www.cnyblliqyhcs.bid
 0.0.0.0 www.cnygzgurqpwop.bid
+0.0.0.0 www.coaincltxhw.com
 0.0.0.0 www.cofybuwuc.com
 0.0.0.0 www.cogxsnvqesph.com
 0.0.0.0 www.cohhcaahxxcf.com
@@ -4083,6 +4091,7 @@
 0.0.0.0 www.dcmhpbpdcsy.com
 0.0.0.0 www.dcqhbqwlcukxu.com
 0.0.0.0 www.dcqyyaprodclf.bid
+0.0.0.0 www.dcxitlzzmyxbwn.com
 0.0.0.0 www.dcybolsar.bid
 0.0.0.0 www.dcyeufoq.com
 0.0.0.0 www.dcznhkojghrl.com
@@ -4331,6 +4340,7 @@
 0.0.0.0 www.dvhznawcuacblo.com
 0.0.0.0 www.dviavwhykcdp.com
 0.0.0.0 www.dvlhwokr.bid
+0.0.0.0 www.dvokgydenwaksi.com
 0.0.0.0 www.dvpgijdm.com
 0.0.0.0 www.dvprcchlzke.bid
 0.0.0.0 www.dvsrlrnpyxwv.com
@@ -4367,6 +4377,7 @@
 0.0.0.0 www.dyjkbkpzxgpjfs.com
 0.0.0.0 www.dylsjsmqjbbcs.com
 0.0.0.0 www.dymaffzxk.com
+0.0.0.0 www.dymzcxgdvf.com
 0.0.0.0 www.dypmzetaj.com
 0.0.0.0 www.dywqwrtnhegyz.com
 0.0.0.0 www.dyykxositkqt.bid
@@ -5634,6 +5645,7 @@
 0.0.0.0 www.hkwzswzf.com
 0.0.0.0 www.hkyskqpsqwjq.bid
 0.0.0.0 www.hkyykkerrp.com
+0.0.0.0 www.hldsogaxfq.com
 0.0.0.0 www.hlekbinpgsuk.com
 0.0.0.0 www.hlgodnojfffhpc.bid
 0.0.0.0 www.hlicmukjz.bid
@@ -5653,6 +5665,7 @@
 0.0.0.0 www.hmjtutipevtmg.com
 0.0.0.0 www.hmkrfmtra.bid
 0.0.0.0 www.hmlghvujrve.com
+0.0.0.0 www.hmmmcjgho.com
 0.0.0.0 www.hmqzghfpl.bid
 0.0.0.0 www.hmwsaxnhc.com
 0.0.0.0 www.hmwxaldhioby.bid
@@ -5960,6 +5973,7 @@
 0.0.0.0 www.igutgembqnw.bid
 0.0.0.0 www.igvcpjsyk.bid
 0.0.0.0 www.igwzuwwtvnywx.com
+0.0.0.0 www.igycquuoypdiqx.com
 0.0.0.0 www.igyzmhqbihoi.com
 0.0.0.0 www.ihcamesgexiv.com
 0.0.0.0 www.ihcbfiqkp.com
@@ -7389,6 +7403,7 @@
 0.0.0.0 www.mcaybfrnrqpmv.com
 0.0.0.0 www.mcfdnvewqws.com
 0.0.0.0 www.mcgndenytmy.com
+0.0.0.0 www.mcirxbajhw.com
 0.0.0.0 www.mciyblxplucm.bid
 0.0.0.0 www.mclwrdzj.bid
 0.0.0.0 www.mcnklvsodqqa.com
@@ -7447,6 +7462,7 @@
 0.0.0.0 www.mfxxpyhzofbsg.com
 0.0.0.0 www.mgjoqdmjofl.bid
 0.0.0.0 www.mgojnezwuuxyv.com
+0.0.0.0 www.mgouoirpayddk.com
 0.0.0.0 www.mgpejafvxxn.com
 0.0.0.0 www.mgrutivnzs.com
 0.0.0.0 www.mgrxsztbcfeg.com
@@ -7556,6 +7572,7 @@
 0.0.0.0 www.mnvgyfpoir.bid
 0.0.0.0 www.mnvjibhehv.com
 0.0.0.0 www.mnyavixcddgx.com
+0.0.0.0 www.mnyawkpabrsv.com
 0.0.0.0 www.moadlbgojatn.com
 0.0.0.0 www.modkehkcihvzi.bid
 0.0.0.0 www.mofrupteeuqnvc.bid
@@ -7648,6 +7665,7 @@
 0.0.0.0 www.mtyqtczr.bid
 0.0.0.0 www.mtysahmkqqdo.com
 0.0.0.0 www.muasoctv.com
+0.0.0.0 www.muhexvakuawzo.com
 0.0.0.0 www.mukxblrkoaaa.com
 0.0.0.0 www.munqaasewcla.bid
 0.0.0.0 www.muoiuxfj.com
@@ -7723,6 +7741,7 @@
 0.0.0.0 www.naaifqdqsnxtsp.com
 0.0.0.0 www.naavxddd.com
 0.0.0.0 www.nahixtmnmpcz.com
+0.0.0.0 www.nahpewniig.com
 0.0.0.0 www.nahvyfyfpffm.com
 0.0.0.0 www.namjixxurjam.com
 0.0.0.0 www.naohofhbprtx.com
@@ -8054,6 +8073,7 @@
 0.0.0.0 www.nyskocbhfz.com
 0.0.0.0 www.nytqlenw.com
 0.0.0.0 www.nyvdouydkxmaws.bid
+0.0.0.0 www.nyvqazwtcwk.com
 0.0.0.0 www.nywpxugigwfzb.com
 0.0.0.0 www.nywuthdzdacoq.com
 0.0.0.0 www.nyzncfurdrdxfi.com
@@ -8185,6 +8205,7 @@
 0.0.0.0 www.oicbwkyjsyxjgj.bid
 0.0.0.0 www.oickwqmwerbnq.bid
 0.0.0.0 www.oieeezzld.com
+0.0.0.0 www.oiehcvpxfbnur.com
 0.0.0.0 www.oiffrtkdgoef.com
 0.0.0.0 www.oiftdobow.bid
 0.0.0.0 www.oijjptnwrg.com
@@ -8487,6 +8508,7 @@
 0.0.0.0 www.pgndlooirt.com
 0.0.0.0 www.pgnjgjiwomgdmn.com
 0.0.0.0 www.pgpfdravejq.com
+0.0.0.0 www.pgpszwldfpc.com
 0.0.0.0 www.pgubdmshfz.bid
 0.0.0.0 www.pguwtwcougzrc.bid
 0.0.0.0 www.pguxoochezkc.com
@@ -8508,6 +8530,7 @@
 0.0.0.0 www.piifwkvdil.com
 0.0.0.0 www.piljbvnykkt.bid
 0.0.0.0 www.pimygjumeyrtxe.com
+0.0.0.0 www.pipiryiqu.com
 0.0.0.0 www.piqvuvqc.com
 0.0.0.0 www.pismvlkq.com
 0.0.0.0 www.pitduougk.com
@@ -8948,6 +8971,7 @@
 0.0.0.0 www.qmjjvpoqhb.com
 0.0.0.0 www.qmmdvzsebi.com
 0.0.0.0 www.qmotkiltrim.com
+0.0.0.0 www.qmouzhzz.com
 0.0.0.0 www.qndqwtrwguhv.com
 0.0.0.0 www.qnfarzjp.bid
 0.0.0.0 www.qnfpskgtzkw.com
@@ -9191,6 +9215,7 @@
 0.0.0.0 www.rcqyocxmmkais.bid
 0.0.0.0 www.rcsumbkoyens.bid
 0.0.0.0 www.rctanilirwefr.bid
+0.0.0.0 www.rcudacimrqdlk.com
 0.0.0.0 www.rcumwyqkv.com
 0.0.0.0 www.rcvhzfcnja.com
 0.0.0.0 www.rcwczstm.com
@@ -9553,6 +9578,7 @@
 0.0.0.0 www.scofnjymyym.bid
 0.0.0.0 www.scrltyokacghvd.bid
 0.0.0.0 www.scsklzqwme.com
+0.0.0.0 www.scvdxxgbvoz.com
 0.0.0.0 www.scvonjdwad.bid
 0.0.0.0 www.scxxbyqjslyp.com
 0.0.0.0 www.sczcxmaizy.com
@@ -9618,6 +9644,7 @@
 0.0.0.0 www.shnoadlvpylf.com
 0.0.0.0 www.shohabiymgjxdb.com
 0.0.0.0 www.shthbopqoz.bid
+0.0.0.0 www.shtkybxv.com
 0.0.0.0 www.shvdvzydgryx.com
 0.0.0.0 www.shxbqzirzonks.bid
 0.0.0.0 www.shyyyxjw.com
@@ -9771,6 +9798,7 @@
 0.0.0.0 www.sufzmohljbgw.com
 0.0.0.0 www.suhprdfb.bid
 0.0.0.0 www.sukgtuksypr.com
+0.0.0.0 www.sumizxwhfsrke.com
 0.0.0.0 www.sumsmoxssy.com
 0.0.0.0 www.sumvztfze.com
 0.0.0.0 www.suonvyzivnfy.com
@@ -9783,6 +9811,7 @@
 0.0.0.0 www.svapqzplbwjx.com
 0.0.0.0 www.svbsvbwci.com
 0.0.0.0 www.svdmxetbyfyg.com
+0.0.0.0 www.svdnqszxgucgd.com
 0.0.0.0 www.svdsutdq.com
 0.0.0.0 www.svfqoztfopv.com
 0.0.0.0 www.svjloaomrher.com
@@ -10312,6 +10341,7 @@
 0.0.0.0 www.ugbmcjmpapeo.bid
 0.0.0.0 www.ugfxrrqz.bid
 0.0.0.0 www.ugkppchlelde.com
+0.0.0.0 www.ugobgzeiel.com
 0.0.0.0 www.ugoptxnm.com
 0.0.0.0 www.ugvcpwyplnj.bid
 0.0.0.0 www.ugvdjzysvfivy.com
@@ -10437,6 +10467,7 @@
 0.0.0.0 www.utuqrzwg.com
 0.0.0.0 www.utvxgpmcnaq.com
 0.0.0.0 www.utxatnjs.com
+0.0.0.0 www.utzhcsrzrlhhxn.com
 0.0.0.0 www.uuaajohul.com
 0.0.0.0 www.uubxhbwnwmfqp.com
 0.0.0.0 www.uuzjerqlmxnosw.com
@@ -10538,6 +10569,7 @@
 0.0.0.0 www.vntcxqxuqki.com
 0.0.0.0 www.voaalhaobdl.com
 0.0.0.0 www.vodbordnhhemq.com
+0.0.0.0 www.voqdswwgrheo.com
 0.0.0.0 www.voxnrvzwy.com
 0.0.0.0 www.vplvywqxsm.com
 0.0.0.0 www.vpndcpxavg.com
@@ -10570,6 +10602,7 @@
 0.0.0.0 www.vuaardbsbcppb.com
 0.0.0.0 www.vudbfsnvyzxo.com
 0.0.0.0 www.vuikvvkcdas.com
+0.0.0.0 www.vulbyhxsrxcdgo.com
 0.0.0.0 www.vuvcwrxn.com
 0.0.0.0 www.vuwojxgklca.com
 0.0.0.0 www.vvgttgprssiy.com
@@ -10681,6 +10714,7 @@
 0.0.0.0 www.wrmcfyzl.com
 0.0.0.0 www.wrrytjtsyhrnfg.com
 0.0.0.0 www.wrwwvymy.com
+0.0.0.0 www.wrxivlclw.com
 0.0.0.0 www.wssejwluqthda.com
 0.0.0.0 www.wstvcgfkvc.com
 0.0.0.0 www.wsucuzkmnd.com
@@ -10912,6 +10946,7 @@
 0.0.0.0 www.yllfdnftjo.com
 0.0.0.0 www.ylnmzwwc.com
 0.0.0.0 www.yloidlvfhpkq.com
+0.0.0.0 www.ylqbiljjlyq.com
 0.0.0.0 www.ymgjtzciu.com
 0.0.0.0 www.ymhqeelitngcr.com
 0.0.0.0 www.ympkaxpaf.com
@@ -10941,6 +10976,7 @@
 0.0.0.0 www.yqmmjmjxdigdak.com
 0.0.0.0 www.yqqxrfhtgcbxz.com
 0.0.0.0 www.yrbjfusd.com
+0.0.0.0 www.yrcpupgqtn.com
 0.0.0.0 www.yrgnouqinylg.com
 0.0.0.0 www.yrkozodemantj.com
 0.0.0.0 www.yrpjklwly.com
@@ -11013,6 +11049,7 @@
 0.0.0.0 www.zdydvjzexmp.com
 0.0.0.0 www.zeokfeyraxls.com
 0.0.0.0 www.zfcjtxosje.com
+0.0.0.0 www.zfmagxsjqypmya.com
 0.0.0.0 www.zfoeiywwiqo.com
 0.0.0.0 www.zfpsotrgboqp.com
 0.0.0.0 www.zfubrpobdf.bid
@@ -11057,6 +11094,7 @@
 0.0.0.0 www.znnabrxnotlm.com
 0.0.0.0 www.znoumvve.com
 0.0.0.0 www.znztvqgtaivf.com
+0.0.0.0 www.zobsibzczd.com
 0.0.0.0 www.zomsfhgj.com
 0.0.0.0 www.zonhpljclov.com
 0.0.0.0 www.zoszujvvlu.com
@@ -11118,6 +11156,7 @@
 0.0.0.0 www.zxwnolwaump.com
 0.0.0.0 www.zylokfmgrtzv.com
 0.0.0.0 www.zzmyypjedpfxck.com
+0.0.0.0 www.zzomiuob.com
 0.0.0.0 www.zzoxzkpqmklr.com
 0.0.0.0 www.zzrdvzryaiwsin.com
 0.0.0.0 www.zzwajufm.com
@@ -12025,6 +12064,7 @@
 0.0.0.0 ootcheey.net
 0.0.0.0 orgalso.com
 0.0.0.0 otefauks.link
+0.0.0.0 oukrocky.com
 0.0.0.0 ouloutso.net
 0.0.0.0 oupushee.com
 0.0.0.0 ousufauk.com
@@ -12204,6 +12244,7 @@
 0.0.0.0 woahizouty.com
 0.0.0.0 wootoozo.com
 0.0.0.0 woovaust.net
+0.0.0.0 wussucko.com
 0.0.0.0 www.ads.propellerads.com
 0.0.0.0 www.propellerads.com
 0.0.0.0 wynather.com

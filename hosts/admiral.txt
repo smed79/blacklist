@@ -8,7 +8,7 @@
 # In order to use this list, please use the following address:
 # https://raw.githubusercontent.com/smed79/blacklist/master/hosts/admiral.txt
 #
-# Last modified: 2019-05-24 05:50 UTC
+# Last modified: 2019-05-30 23:15 UTC
 #
 # DOMAINS -------------------------------------------------------------------- #
 #
@@ -544,6 +544,7 @@
 0.0.0.0 tritetongue.com
 0.0.0.0 truthfulhead.com
 0.0.0.0 truthfulturn.com
+0.0.0.0 ttauri.techradar.com
 0.0.0.0 typicalteeth.com
 0.0.0.0 tzwaw.pw
 0.0.0.0 ultraoranges.com
