@@ -8,7 +8,7 @@
 # In order to use this list, please use the following address:
 # https://raw.githubusercontent.com/smed79/blacklist/master/hosts.txt
 #
-# Last modified: 2019-05-30 23:15 UTC
+# Last modified: 2019-06-09 16:37 UTC
 #
 # DOMAINS -------------------------------------------------------------------- #
 #
@@ -87,6 +87,7 @@
 0.0.0.0 landing.adback.co
 0.0.0.0 lebokiln.wynnburgbottineau.com
 0.0.0.0 leckroneleewood.horshamoronoco.com
+0.0.0.0 lemingcasstown.lansdaleweare.com
 0.0.0.0 lestervillevaldese.bellevillelickingville.com
 0.0.0.0 lillieelkland.iliamnapalco.com
 0.0.0.0 lonaconinggretna.renovosartell.com
@@ -111,6 +112,7 @@
 0.0.0.0 oglethorpetobias.folkstonelizabethtown.com
 0.0.0.0 orleanvanzant.pembinecastana.com
 0.0.0.0 owyheerockhouse.onawaykeeline.com
+0.0.0.0 penascogerlach.lovilialaceyville.com
 0.0.0.0 pequeablockton.rosaliaarnett.com
 0.0.0.0 pilgerpurling.goldendalepremont.com
 0.0.0.0 prattsebensburg.owlsheadcoalwood.com

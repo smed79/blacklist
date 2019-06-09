@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201905302315
+! Version: 201906091637
 ! Title: smed79 BlackList
-! Last modified: 2019-05-27 23:15 UTC
+! Last modified: 2019-06-09 16:37 UTC
 ! Expires: 1 days
 !
 ! Description: BlackList of domains hosting advertisements & other nasty purposes.
@@ -89,6 +89,7 @@
 ||leclairesligo.com^
 ||lenoramanning.com^
 ||lothairhansboro.com^
+||lovilialaceyville.com^
 ||lynbrookoriska.com^
 ||malakoffrockholds.com^
 ||maloupperville.com^
