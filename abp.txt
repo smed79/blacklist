@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201906210119
+! Version: 201907031904
 ! Title: smed79 BlackList
-! Last modified: 2019-06-21 01:19 UTC
+! Last modified: 2019-07-03 19:04 UTC
 ! Expires: 1 days
 !
 ! Description: BlackList of domains hosting advertisements & other nasty purposes.
@@ -1337,6 +1337,7 @@
 ||facilitategrandfather.com^
 ||fadedprofit.com^
 ||falsefeet.com^
+||falseframe.com^
 ||famousquarter.com^
 ||farethief.com^
 ||farmergoldfish.com^
@@ -1579,6 +1580,7 @@
 ||ruthlessmilk.com^
 ||ruthlessrobin.com^
 ||sablesmile.com^
+||sailsuit.com^
 ||savorystructure.com^
 ||saysidewalk.com^
 ||scarcesign.com^

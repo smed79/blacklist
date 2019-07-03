@@ -8,7 +8,7 @@
 # In order to use this list, please use the following address:
 # https://raw.githubusercontent.com/smed79/blacklist/master/hosts/admiral.txt
 #
-# Last modified: 2019-06-10 12:50 UTC
+# Last modified: 2019-07-03 19:04 UTC
 #
 # DOMAINS -------------------------------------------------------------------- #
 #
@@ -227,6 +227,7 @@
 0.0.0.0 facilitategrandfather.com
 0.0.0.0 fadedprofit.com
 0.0.0.0 falsefeet.com
+0.0.0.0 falseframe.com
 0.0.0.0 famousquarter.com
 0.0.0.0 farethief.com
 0.0.0.0 farmergoldfish.com
@@ -472,6 +473,7 @@
 0.0.0.0 ruthlessmilk.com
 0.0.0.0 ruthlessrobin.com
 0.0.0.0 sablesmile.com
+0.0.0.0 sailsuit.com
 0.0.0.0 savorystructure.com
 0.0.0.0 saysidewalk.com
 0.0.0.0 scarcesign.com
