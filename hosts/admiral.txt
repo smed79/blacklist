@@ -8,7 +8,7 @@
 # In order to use this list, please use the following address:
 # https://raw.githubusercontent.com/smed79/blacklist/master/hosts/admiral.txt
 #
-# Last modified: 2019-07-03 19:04 UTC
+# Last modified: 2019-08-04 17:32 UTC
 #
 # DOMAINS -------------------------------------------------------------------- #
 #
@@ -132,7 +132,6 @@
 0.0.0.0 cloudsdestruction.com
 0.0.0.0 colorfulafterthought.com
 0.0.0.0 comfortablecheese.com
-0.0.0.0 commoncannon.com
 0.0.0.0 commonswing.com
 0.0.0.0 completecabbage.com
 0.0.0.0 complextoad.com
@@ -280,6 +279,7 @@
 0.0.0.0 greasysquare.com
 0.0.0.0 greetzebra.com
 0.0.0.0 greyinstrument.com
+0.0.0.0 guardedgovernor.com
 0.0.0.0 guardedschool.com
 0.0.0.0 h78xb.pw
 0.0.0.0 hammerhearing.com
@@ -309,6 +309,7 @@
 0.0.0.0 illustriousoatmeal.com
 0.0.0.0 immensehoney.com
 0.0.0.0 importedincrease.com
+0.0.0.0 importedplay.com
 0.0.0.0 importlocate.com
 0.0.0.0 impossibleexpansion.com
 0.0.0.0 impossiblemove.com
@@ -434,6 +435,7 @@
 0.0.0.0 quietknowledge.com
 0.0.0.0 quizzicalzephyr.com
 0.0.0.0 railwayrainstorm.com
+0.0.0.0 raintwig.com
 0.0.0.0 rainyhand.com
 0.0.0.0 rainystretch.com
 0.0.0.0 rapidkittens.com
@@ -538,7 +540,6 @@
 0.0.0.0 spidersboats.com
 0.0.0.0 spiffymachine.com
 0.0.0.0 spirebaboon.com
-0.0.0.0 splash.getadmiral.com
 0.0.0.0 spookyslope.com
 0.0.0.0 spottednoise.com
 0.0.0.0 spottedsnow.com
@@ -630,6 +631,7 @@
 0.0.0.0 tremendoustreatment.com
 0.0.0.0 trickycelery.com
 0.0.0.0 truckstomatoes.com
+0.0.0.0 truthfulturn.com
 0.0.0.0 ttauri.techradar.com
 0.0.0.0 typicalteeth.com
 0.0.0.0 tzwaw.pw

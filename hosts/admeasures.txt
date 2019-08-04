@@ -8,7 +8,7 @@
 # In order to use this list, please use the following address:
 # https://raw.githubusercontent.com/smed79/blacklist/master/hosts/admeasures.txt
 #
-# Last modified: 2019-05-24 05:50 UTC
+# Last modified: 2019-08-04 17:32 UTC
 #
 # DOMAINS -------------------------------------------------------------------- #
 #
@@ -23,13 +23,11 @@
 0.0.0.0 0pyn37dv3m.com
 0.0.0.0 0sntp7dnrr.com
 0.0.0.0 0sywjs4r1x.com
-0.0.0.0 1.fembed.com
 0.0.0.0 129ji7ymdw.com
 0.0.0.0 16yp1ji92a.com
 0.0.0.0 172ipkuobc.com
 0.0.0.0 19bk5lo5q2.com
 0.0.0.0 1bcde.com
-0.0.0.0 1paj4kmp.top
 0.0.0.0 1wkvvts8is.com
 0.0.0.0 1wvw2jgkca.com
 0.0.0.0 1x96klcdpn.com
@@ -41,13 +39,10 @@
 0.0.0.0 2hus8ekwlk.com
 0.0.0.0 2iiyrxk0.com
 0.0.0.0 2kl08cd74f.com
-0.0.0.0 2pxg8bcf.top
 0.0.0.0 2qgsjjy89k.com
 0.0.0.0 2taa9ib4ib.com
 0.0.0.0 2v1xq54yxm.com
-0.0.0.0 2xuyib43.top
 0.0.0.0 2ypmo2nhgf.com
-0.0.0.0 2z0a4r31.top
 0.0.0.0 3221dkf7m2.com
 0.0.0.0 34pavouhj7.com
 0.0.0.0 39irqwnzlv.com
@@ -68,7 +63,6 @@
 0.0.0.0 49oa3o49b6.com
 0.0.0.0 4aqi9vrzr2.com
 0.0.0.0 4bb6jls06l.com
-0.0.0.0 4cj5qu70.top
 0.0.0.0 4ij4g22t67.com
 0.0.0.0 4l7wg5kf3z.com
 0.0.0.0 4ojwnsgub2.com
@@ -80,7 +74,6 @@
 0.0.0.0 51nlno7cgy.com
 0.0.0.0 550b3ikb9j.com
 0.0.0.0 5bir9vuqcq.com
-0.0.0.0 5cripa2s.top
 0.0.0.0 5g65ymza39.com
 0.0.0.0 5h5d8lt8me.com
 0.0.0.0 5hmmm1mk.top
@@ -108,7 +101,6 @@
 0.0.0.0 746fyw2v.com
 0.0.0.0 74im4p7xq6.com
 0.0.0.0 7713gsefc0.com
-0.0.0.0 7937584337b8.com
 0.0.0.0 79ucic4ss8.com
 0.0.0.0 79zgycmr.com
 0.0.0.0 7cfmnf.top
@@ -120,7 +112,6 @@
 0.0.0.0 7lstw4cd.top
 0.0.0.0 7rjln8orgh.com
 0.0.0.0 7xc4n.com
-0.0.0.0 81p5b.top
 0.0.0.0 86a6b542l7.com
 0.0.0.0 88hb7evabd.com
 0.0.0.0 8br8gm2r15.com
@@ -131,7 +122,6 @@
 0.0.0.0 8s32e590un.com
 0.0.0.0 8v8afxt8lg.com
 0.0.0.0 8yopdqidj2.com
-0.0.0.0 91dyosn2.top
 0.0.0.0 93rrp02wqh.com
 0.0.0.0 9526s7bwd0.com
 0.0.0.0 95p5qep4aq.com
@@ -140,28 +130,22 @@
 0.0.0.0 993es3uxpz.com
 0.0.0.0 9amq5z4y1y.com
 0.0.0.0 9df4mz2kpm.com
-0.0.0.0 9jogo.top
-0.0.0.0 9jwas.top
 0.0.0.0 9lhc3x6whk.com
-0.0.0.0 9n2hupgl.top
 0.0.0.0 9n68b4.top
 0.0.0.0 9nwg9sib9e.com
 0.0.0.0 9purdfe9xg.com
 0.0.0.0 9ws3wutazo.com
 0.0.0.0 a63t9o1azf.com
 0.0.0.0 a9nf3hg5c2.com
-0.0.0.0 aagoop7.top
 0.0.0.0 aanqylta.com
 0.0.0.0 aaucwbe.com
 0.0.0.0 abodealley.com
 0.0.0.0 adcalm.com
 0.0.0.0 adqy6rzwcs.com
 0.0.0.0 adslop.com
-0.0.0.0 aeghie2.bid
 0.0.0.0 afcwyxnwl0.com
 0.0.0.0 ah8asl94hs.com
 0.0.0.0 ahwrin88tl.com
-0.0.0.0 aivae2o.top
 0.0.0.0 akiyvjiy1z.com
 0.0.0.0 allmygreatestlife.com
 0.0.0.0 allmygreatlife.com
@@ -172,7 +156,6 @@
 0.0.0.0 aud3g.com
 0.0.0.0 auiviilbp2.com
 0.0.0.0 aurbidpos.com
-0.0.0.0 avl9hvh0.top
 0.0.0.0 axmstw8mkn.com
 0.0.0.0 azj57rjy.com
 0.0.0.0 b1wb3fjea1.com
@@ -181,7 +164,6 @@
 0.0.0.0 bapuviralhain.com
 0.0.0.0 bcwdv5bsxi.com
 0.0.0.0 be2anywhere.com
-0.0.0.0 beyaek3.top
 0.0.0.0 biqle.ru
 0.0.0.0 bl0uxepb4o.com
 0.0.0.0 bncpm.com
@@ -198,7 +180,6 @@
 0.0.0.0 ccumhss.com
 0.0.0.0 cfqpxzx.com
 0.0.0.0 cfts1tifqr.com
-0.0.0.0 choov4fa.com
 0.0.0.0 cjl58f3agc.com
 0.0.0.0 ckk69drbro.com
 0.0.0.0 cl96rwprue.com
@@ -217,12 +198,10 @@
 0.0.0.0 customplus.top
 0.0.0.0 cvqgnkeqme.com
 0.0.0.0 d0p21g2fep.com
-0.0.0.0 d0v5g1vb.top
 0.0.0.0 d14emrg9.com
 0.0.0.0 d2ergeh3ul.com
 0.0.0.0 d4q8zgf756.com
 0.0.0.0 datadbs.com
-0.0.0.0 dd6d6d21a22e.com
 0.0.0.0 dessertcount.com
 0.0.0.0 df8li6at9c.com
 0.0.0.0 dgaytd37.com
@@ -231,9 +210,6 @@
 0.0.0.0 dl6q95zf.top
 0.0.0.0 dlxrlc2ni2.com
 0.0.0.0 dnckawxatc.com
-0.0.0.0 domaind2020.descargas2020.com
-0.0.0.0 domaintmt.tumejortorrent.com
-0.0.0.0 domaintrp.torrentrapid.com
 0.0.0.0 doublelimpup.com
 0.0.0.0 dpypzvjarj.com
 0.0.0.0 dt2xr6g2i5.com
@@ -244,7 +220,6 @@
 0.0.0.0 e2b9jbowv7.com
 0.0.0.0 e347bb14dc71778.com
 0.0.0.0 e4w50tqnqk.com
-0.0.0.0 e5a87pq.com
 0.0.0.0 e5omau19i7.com
 0.0.0.0 e6cfmdmo81.com
 0.0.0.0 e9geolgzk6.com
@@ -254,7 +229,6 @@
 0.0.0.0 ecpms.net
 0.0.0.0 edua29146y.com
 0.0.0.0 eecd179r3b.com
-0.0.0.0 eegoh7o.bid
 0.0.0.0 eeq1s8pqpk.com
 0.0.0.0 ejhrins16z.com
 0.0.0.0 ejurzsax.com
@@ -317,7 +291,6 @@
 0.0.0.0 highcpms.com
 0.0.0.0 hitcpm.com
 0.0.0.0 hiug862dj0.com
-0.0.0.0 hmv9mvx5.top
 0.0.0.0 hoo1luha.com
 0.0.0.0 hox0u3ea48.com
 0.0.0.0 hp7cjr78.com
@@ -335,11 +308,8 @@
 0.0.0.0 ie3wisa4.com
 0.0.0.0 iece1vi.top
 0.0.0.0 ielohga9.com
-0.0.0.0 ieru5xo.top
-0.0.0.0 ieve2ee.top
 0.0.0.0 ig0nr8hhhb.com
 0.0.0.0 ig8al3mkou.com
-0.0.0.0 ikoh6ie.top
 0.0.0.0 ikwauek.com
 0.0.0.0 ilo134ulih.com
 0.0.0.0 iloating.info
@@ -350,7 +320,6 @@
 0.0.0.0 iqcpm.com
 0.0.0.0 isanalyze.com
 0.0.0.0 isupopc.com
-0.0.0.0 j1vtm.top
 0.0.0.0 j4a73n7v5k.com
 0.0.0.0 j94kp2o.com
 0.0.0.0 j9j6l.top
@@ -377,12 +346,10 @@
 0.0.0.0 koo6myletj.com
 0.0.0.0 kt5850pjz0.com
 0.0.0.0 ktf5kbl2m4.com
-0.0.0.0 kuhls2ao.top
 0.0.0.0 kwnq4hg2n9.com
 0.0.0.0 kzws02uffs.com
 0.0.0.0 l6b587txj1.com
 0.0.0.0 l7wfu866ki.com
-0.0.0.0 l7xye.top
 0.0.0.0 l9kfxu1c5x.com
 0.0.0.0 l9tdhe6.com
 0.0.0.0 lacendhers.info
@@ -404,8 +371,6 @@
 0.0.0.0 mka8vaj2ru.com
 0.0.0.0 mnoa6ez1eq.com
 0.0.0.0 modulepush.com
-0.0.0.0 moo4ail.top
-0.0.0.0 moo9iez.top
 0.0.0.0 moomoopop.com
 0.0.0.0 movcpm.com
 0.0.0.0 mpqfzyh.com
@@ -445,7 +410,6 @@
 0.0.0.0 nfkd2ug8d9.com
 0.0.0.0 nhpfvdlbjg.com
 0.0.0.0 nlwy0.com
-0.0.0.0 nnt6dty4.top
 0.0.0.0 noqukjy.com
 0.0.0.0 np1t0bcj0n.com
 0.0.0.0 nqp0852y7r.com
@@ -459,15 +423,11 @@
 0.0.0.0 o4uxrk33.com
 0.0.0.0 o6ek91ag15.com
 0.0.0.0 o7coh5tlwb.com
-0.0.0.0 o8q80l1z.top
 0.0.0.0 oagwl3372h.com
 0.0.0.0 ocaeliek.com
 0.0.0.0 odufh13vjw.com
 0.0.0.0 ohqj2ygd4h.com
 0.0.0.0 oktpage.com
-0.0.0.0 omzdy.top
-0.0.0.0 oohaip3.top
-0.0.0.0 ooph7mu.top
 0.0.0.0 ootoh4c.top
 0.0.0.0 ornament-i.com
 0.0.0.0 osny2p7a0k.com
@@ -486,7 +446,6 @@
 0.0.0.0 phkutmddtm.com
 0.0.0.0 pixelsrvdmn.com
 0.0.0.0 playe.vidto.se
-0.0.0.0 pm48j.top
 0.0.0.0 popuexo.com
 0.0.0.0 ppcashpop.com
 0.0.0.0 preskalyn.com
@@ -524,12 +483,9 @@
 0.0.0.0 qnageoh3ns.com
 0.0.0.0 qpc3hunbn2.com
 0.0.0.0 quoashei.com
-0.0.0.0 quoo4ae.top
-0.0.0.0 qvjql3e.com
 0.0.0.0 qy1bx9an4j.com
 0.0.0.0 r4nwdude.com
 0.0.0.0 r66at6sf.com
-0.0.0.0 r8mxl.top
 0.0.0.0 r8oyegintx.com
 0.0.0.0 remarketingextra.com
 0.0.0.0 remarketingpixel.com
@@ -542,7 +498,6 @@
 0.0.0.0 rmawm7mw.top
 0.0.0.0 rrtcfwmvhs.com
 0.0.0.0 ru858am70x.com
-0.0.0.0 run2anywhere.com
 0.0.0.0 rupn6r2g.com
 0.0.0.0 ry1wnld.com
 0.0.0.0 s20dh7e9dh.com
@@ -551,7 +506,6 @@
 0.0.0.0 s7c66wkh8k.com
 0.0.0.0 s7kkpeo6e2.com
 0.0.0.0 s8j1e.com
-0.0.0.0 s94u13.top
 0.0.0.0 s9jp9xogfz.com
 0.0.0.0 sd5doozry8.com
 0.0.0.0 sdreif.com
@@ -559,7 +513,6 @@
 0.0.0.0 sfzhd.top
 0.0.0.0 shaexowi.com
 0.0.0.0 shiek1ph.com
-0.0.0.0 siphic5.top
 0.0.0.0 special-offers.online
 0.0.0.0 sprm4xcn.top
 0.0.0.0 ssa.1337x.to
@@ -567,11 +520,7 @@
 0.0.0.0 ssiapawz.com
 0.0.0.0 ssl2anyone2.com
 0.0.0.0 ssl4anyone2.com
-0.0.0.0 ssl4anyone3.com
 0.0.0.0 stream2.estream.to
-0.0.0.0 subdo.torrentlocura.com
-0.0.0.0 subdo.torrentrapid.com
-0.0.0.0 subdo.tumejortorrent.com
 0.0.0.0 susm0q6jys.com
 0.0.0.0 suxqsqlasc.com
 0.0.0.0 syndopop.com
@@ -607,7 +556,6 @@
 0.0.0.0 u39chju32a.com
 0.0.0.0 u595sebqih.com
 0.0.0.0 u8vysb7s2v.com
-0.0.0.0 udriveme2.com
 0.0.0.0 udrivemyr54.com
 0.0.0.0 uh3ye6ux.com
 0.0.0.0 uiru1ie.top
@@ -655,31 +603,23 @@
 0.0.0.0 ww2.imgwallet.com
 0.0.0.0 ww2.thepiratebay.rocks
 0.0.0.0 ww46.vidzi.tv
-0.0.0.0 www2.daclips.in
-0.0.0.0 www2.gorillavid.in
-0.0.0.0 www2.movpod.in
-0.0.0.0 wwwa.123movies.net
 0.0.0.0 wwznqib.com
 0.0.0.0 wx61m0tmvh.com
 0.0.0.0 x268dl0k.top
 0.0.0.0 x2d2m87csh.com
 0.0.0.0 x8rxr.top
-0.0.0.0 xep3gae.top
 0.0.0.0 xgrwjbui.top
 0.0.0.0 xijgedjgg5f55.com
 0.0.0.0 xilbalar.com
 0.0.0.0 xjuljbjlbb.com
 0.0.0.0 xmlterra.com
-0.0.0.0 xncb6.top
 0.0.0.0 xqkzsifxgv.com
 0.0.0.0 xts7fgss.com
 0.0.0.0 xv9xm6zxb8.com
 0.0.0.0 xzipy.com
 0.0.0.0 y1jxiqds7v.com
-0.0.0.0 y2rmo576.top
 0.0.0.0 y6a7tqyr.com
 0.0.0.0 y96q29a1fo.com
-0.0.0.0 ya7easob.top
 0.0.0.0 yahthahm.com
 0.0.0.0 ye185hcamw.com
 0.0.0.0 yeo1tfjz5f.com
@@ -708,7 +648,6 @@
 0.0.0.0 zd2i6k4qi1.com
 0.0.0.0 zha6ivnktt.com
 0.0.0.0 zhtlvag.com
-0.0.0.0 ziayi0e.top
 0.0.0.0 ziopemmjh3.com
 0.0.0.0 zkpkaqboez.com
 0.0.0.0 zme8o3l1c4.com

@@ -8,7 +8,7 @@
 # In order to use this list, please use the following address:
 # https://raw.githubusercontent.com/smed79/blacklist/master/hosts/admaven.txt
 #
-# Last modified: 2019-05-30 23:15 UTC
+# Last modified: 2019-08-04 17:32 UTC
 #
 # DOMAINS -------------------------------------------------------------------- #
 #
