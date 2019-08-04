@@ -1,0 +1,15 @@
+# [INFO] --------------------------------------------------------------------- #
+# smed79 NSFW HOSTS list
+# HOSTS file list, designed to block NSFW Adult domains
+#
+# Homepage: https://github.com/smed79/blacklist
+# Licence: (CC BY-NC-SA) http://creativecommons.org/licenses/by-nc-sa/3.0/
+#
+# In order to use this list, please use the following address:
+# https://raw.githubusercontent.com/smed79/blacklist/master/extra/nsfw.txt
+#
+# Last modified: 2019-08-04 18:49 UTC
+#
+# DOMAINS -------------------------------------------------------------------- #
+#
+#
