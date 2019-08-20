@@ -8,10 +8,14 @@
 # In order to use this list, please use the following address:
 # https://raw.githubusercontent.com/smed79/blacklist/master/hosts/cloudfront.txt
 #
-# Last modified: 2019-08-04 17:32 UTC
+# Last modified: 2019-08-20 21:01 UTC
 #
 # DOMAINS -------------------------------------------------------------------- #
 #
+0.0.0.0 d1k3dpebxhgqjc.cloudfront.net
+0.0.0.0 d1aqhv4sn5kxtx.cloudfront.net
+0.0.0.0 d1b0fk9ns6n0w9.cloudfront.net
+0.0.0.0 d2mq51fvs4qv44.cloudfront.net
 0.0.0.0 d10hxp21ljytsr.cloudfront.net
 0.0.0.0 d10lpsik1i8c69.cloudfront.net
 0.0.0.0 d10lumateci472.cloudfront.net

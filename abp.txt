@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201908041732
+! Version: 201908202101
 ! Title: smed79 BlackList
-! Last modified: 2019-08-04 17:32 UTC
+! Last modified: 2019-08-20 21:01 UTC
 ! Expires: 1 days
 !
 ! Description: BlackList of domains hosting advertisements & other nasty purposes.
@@ -1792,6 +1792,10 @@
 ||d10lumateci472.cloudfront.net^
 ||d10psrq44igbex.cloudfront.net^
 ||d10vy5gom1ed53.cloudfront.net^
+||d1k3dpebxhgqjc.cloudfront.net
+||d1aqhv4sn5kxtx.cloudfront.net
+||d1b0fk9ns6n0w9.cloudfront.net
+||d2mq51fvs4qv44.cloudfront.net
 ||d10zqflh5ol9cq.cloudfront.net^
 ||d11a2fzhgzqe7i.cloudfront.net^
 ||d11eq81k50lwgi.cloudfront.net^

@@ -8,7 +8,7 @@
 # In order to use this list, please use the following address:
 # https://raw.githubusercontent.com/smed79/blacklist/master/extra/nsfw.txt
 #
-# Last modified: 2019-08-05 15:07 UTC
+# Last modified: 2019-08-20 21:01 UTC
 #
 # DOMAINS -------------------------------------------------------------------- #
 #
@@ -917,7 +917,7 @@
 0.0.0.0 amateurblowjobporn.com
 0.0.0.0 amateurboard.net
 0.0.0.0 amateurbrozz.com
-0.0.0.0 amateurbusters.comen
+0.0.0.0 amateurbusters.com
 0.0.0.0 amateurcommunity.com
 0.0.0.0 amateurcool.com
 0.0.0.0 amateurcumshots.org
@@ -2158,7 +2158,6 @@
 0.0.0.0 bigporno.cz
 0.0.0.0 bigseekpro.com
 0.0.0.0 bigsex.tv
-0.0.0.0 bigsex.tv0
 0.0.0.0 bigsexlist.com
 0.0.0.0 bigsexytoons.com
 0.0.0.0 bigtitangels.com
@@ -3053,6 +3052,7 @@
 0.0.0.0 cdn.freepornz.com
 0.0.0.0 cdn.freepornzoom.com
 0.0.0.0 cdn.freevideo.cz
+0.0.0.0 cdn.ftl.pub
 0.0.0.0 cdn.ftvgirls.com
 0.0.0.0 cdn.fuck-the-milf.com
 0.0.0.0 cdn.g6hentai.com
@@ -4129,7 +4129,6 @@
 0.0.0.0 colegialasxvideos.com
 0.0.0.0 colette.com
 0.0.0.0 coliriodemacho.com.br
-0.0.0.0 collectionofbestporn
 0.0.0.0 collectionofbestporn.com
 0.0.0.0 college-rules.net
 0.0.0.0 college-teen-sex.com
@@ -5002,7 +5001,6 @@
 0.0.0.0 doujinshi.online
 0.0.0.0 doujinshi.rocks
 0.0.0.0 down90.com
-0.0.0.0 downblouseloving-com
 0.0.0.0 downblouseloving.com
 0.0.0.0 download.blogdefolie.com
 0.0.0.0 download.mazoneprivee.com
@@ -5510,7 +5508,6 @@
 0.0.0.0 eroticuhd.com
 0.0.0.0 eroticxa.com
 0.0.0.0 erotik-nrw.com
-0.0.0.0 erotik-nrw.combanner
 0.0.0.0 erotika.indavideo.hu
 0.0.0.0 erotikizle.org
 0.0.0.0 erotiktube.org
@@ -6630,6 +6627,7 @@
 0.0.0.0 freesex.mobi
 0.0.0.0 freesex.xxx
 0.0.0.0 freesexclips.eu
+0.0.0.0 freesexdating.net
 0.0.0.0 freesexdoor.com
 0.0.0.0 freesexgame.net
 0.0.0.0 freesexhd.org
@@ -7247,7 +7245,6 @@
 0.0.0.0 girlsoutwest.com
 0.0.0.0 girlspoppingballoons.com
 0.0.0.0 girlssexxxx.com
-0.0.0.0 girlssexxxx.coma
 0.0.0.0 girlsslots.top
 0.0.0.0 girlsuckers.com
 0.0.0.0 girlsway.com
@@ -9376,7 +9373,6 @@
 0.0.0.0 imgskull.xyz
 0.0.0.0 imgspice.com
 0.0.0.0 imgsrc.ru
-0.0.0.0 imgsrc.ru0
 0.0.0.0 imgstudio.org
 0.0.0.0 imgtaxi.com
 0.0.0.0 imgtiger.com
@@ -11174,6 +11170,7 @@
 0.0.0.0 media.realnakedgfs.com
 0.0.0.0 media.rencontreshard.com
 0.0.0.0 media.securesaferoute.com
+0.0.0.0 media.sexdating.no
 0.0.0.0 media.sextv2424.com
 0.0.0.0 media.sexyandfunny.com
 0.0.0.0 media.shemaletubevideos.com
@@ -12474,6 +12471,7 @@
 0.0.0.0 onionbooty.com
 0.0.0.0 onionbootypics.com
 0.0.0.0 online-recorded.com
+0.0.0.0 online-sexdating.nl
 0.0.0.0 online-xxxmovies.com
 0.0.0.0 onlineangels.com
 0.0.0.0 onlinefreechat.com
@@ -13855,7 +13853,6 @@
 0.0.0.0 porntubeup.com
 0.0.0.0 porntubevidz.com
 0.0.0.0 porntui.com
-0.0.0.0 porntui.comen
 0.0.0.0 pornuploaded.net
 0.0.0.0 pornurl.pw
 0.0.0.0 pornusha.com
@@ -14168,7 +14165,6 @@
 0.0.0.0 pyteens.com
 0.0.0.0 q.hatena.ne.jp
 0.0.0.0 qahkurm.angelfire.com
-0.0.0.0 qdcdn.m
 0.0.0.0 qeebe.com
 0.0.0.0 qkp2p.com
 0.0.0.0 qoqoz.com
@@ -15195,6 +15191,7 @@
 0.0.0.0 sexdatecash.com
 0.0.0.0 sexdateprofiles.com
 0.0.0.0 sexdating.com
+0.0.0.0 sexdating.cz
 0.0.0.0 sexdatingz.live
 0.0.0.0 sexdelivery.com
 0.0.0.0 sexdildoking.com
@@ -21424,9 +21421,7 @@
 0.0.0.0 www.coldhardcash.com
 0.0.0.0 www.colegialasdesvirgadas.com
 0.0.0.0 www.colegialasdeverdad.com
-0.0.0.0 www.collectionofbestporn
 0.0.0.0 www.collectionofbestporn.com
-0.0.0.0 www.collectionofbestporn.comvideoashlyn-rae-loves-her-sweet-pussy-fucked.html
 0.0.0.0 www.collector-web.com
 0.0.0.0 www.college-teen-sex.com
 0.0.0.0 www.college-webcams.com
@@ -24108,7 +24103,6 @@
 0.0.0.0 www.hqonlinemovies.com
 0.0.0.0 www.hqporn247.com
 0.0.0.0 www.hqporner.com
-0.0.0.0 www.hqporner.comstudiowow-girls
 0.0.0.0 www.hqpornlinks.com
 0.0.0.0 www.hqpornweb.com
 0.0.0.0 www.hqprn.com
@@ -24916,7 +24910,6 @@
 0.0.0.0 www.larasplayground.com
 0.0.0.0 www.largecamtube.com
 0.0.0.0 www.largehdtube.com
-0.0.0.0 www.largehdtube.comen
 0.0.0.0 www.largepornfilms.com
 0.0.0.0 www.largeporntube.com
 0.0.0.0 www.largesexyvideos.com
@@ -25215,7 +25208,6 @@
 0.0.0.0 www.loli18.com
 0.0.0.0 www.lollypopeauthor.tumblr.com
 0.0.0.0 www.lolshock.com
-0.0.0.0 www.lolteen
 0.0.0.0 www.lolterest.com
 0.0.0.0 www.londonescortguide.com
 0.0.0.0 www.londonescortslist.net
@@ -27111,7 +27103,6 @@
 0.0.0.0 www.pornbilly.com
 0.0.0.0 www.pornbits.net
 0.0.0.0 www.pornblade.com
-0.0.0.0 www.pornblade.comcategoryanal-porn
 0.0.0.0 www.pornbox.ch
 0.0.0.0 www.pornbox.org
 0.0.0.0 www.pornbraze.com
@@ -27143,7 +27134,6 @@
 0.0.0.0 www.pornditos.com
 0.0.0.0 www.porndoe.com
 0.0.0.0 www.porndoepremium.com
-0.0.0.0 www.porndoepremium.comcategories
 0.0.0.0 www.porndrake.com
 0.0.0.0 www.porndreamer.com
 0.0.0.0 www.porndroids.com
@@ -28443,7 +28433,7 @@
 0.0.0.0 www.sexdateguide.com
 0.0.0.0 www.sexdatelocate.com
 0.0.0.0 www.sexdateprofiles.com
-0.0.0.0 www.sexdating
+0.0.0.0 www.sexdating.no
 0.0.0.0 www.sexdeals.xxx
 0.0.0.0 www.sexdelivery.com
 0.0.0.0 www.sexdildoking.com
@@ -29048,7 +29038,6 @@
 0.0.0.0 www.soyoungteens.com
 0.0.0.0 www.spamfreeforums.com
 0.0.0.0 www.spank-otk.com
-0.0.0.0 www.spankbang
 0.0.0.0 www.spankbang.com
 0.0.0.0 www.spankingtube.com
 0.0.0.0 www.spankoff-the-smoke.tumblr.com
@@ -31973,7 +31962,6 @@
 0.0.0.0 xnxxtube.pw
 0.0.0.0 xnxxtubes.com
 0.0.0.0 xnxxvideoporn.com
-0.0.0.0 xnxxvideoporn.comen
 0.0.0.0 xnxxx.cc
 0.0.0.0 xnxxxnxx.info
 0.0.0.0 xogisele.com
@@ -32675,3 +32663,4 @@
 0.0.0.0 zztube.com
 0.0.0.0 zzztube.com
 #
+
