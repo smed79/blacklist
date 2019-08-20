@@ -4706,9 +4706,7 @@
 0.0.0.0 deals.adultshowbiz.com
 0.0.0.0 deals.amenpics.com
 0.0.0.0 deals.avn.com
-0.0.0.0 deals.avn.com 
 0.0.0.0 deals.punishbox.com
-0.0.0.0 deals.punishbox.com 
 0.0.0.0 deauxmalive.com
 0.0.0.0 debbieteen.com
 0.0.0.0 deboj.club
@@ -5223,7 +5221,6 @@
 0.0.0.0 emb.orgyxxxhub.com
 0.0.0.0 emb.sextubelife.com
 0.0.0.0 emb.voyeurspyporn.com
-0.0.0.0 emb.voyeurspyporn.com 
 0.0.0.0 emb.y-porn.com
 0.0.0.0 emb2.fuck-cams.com
 0.0.0.0 emb2.fuckmonstercock.com
@@ -5233,10 +5230,8 @@
 0.0.0.0 emb3.fuckmonstercock.com
 0.0.0.0 emb3.modelsxxxtube.com
 0.0.0.0 emb3.voyeurspyporn.com
-0.0.0.0 emb3.voyeurspyporn.com 
 0.0.0.0 emb4.fuckmonstercock.com
 0.0.0.0 emb4.voyeurspyporn.com
-0.0.0.0 emb4.voyeurspyporn.com 
 0.0.0.0 emb5.fuckmonstercock.com
 0.0.0.0 emb6.fuckmonstercock.com
 0.0.0.0 embed.badorno.xxx
@@ -11190,7 +11185,6 @@
 0.0.0.0 media.xtwisted.com
 0.0.0.0 media.xvicious.com
 0.0.0.0 media.xxxity.com
-0.0.0.0 media.xxxity.com 
 0.0.0.0 media.xxxkingtube.com
 0.0.0.0 media.yalla.msiclonee.info
 0.0.0.0 media.yalladownload.com
@@ -14973,7 +14967,6 @@
 0.0.0.0 screenshots.mylust.com
 0.0.0.0 screenshots.yourlust.com
 0.0.0.0 script.hentaicdn.com
-0.0.0.0 script.hentaicdn.com 
 0.0.0.0 script.hqpass.com
 0.0.0.0 scripts.adultcheck.com
 0.0.0.0 scripts.amateurpin.com
@@ -18952,7 +18945,6 @@
 0.0.0.0 www.18porno.tv
 0.0.0.0 www.18pornsex.com
 0.0.0.0 www.18qt.com
-0.0.0.0 www.18qt.com	
 0.0.0.0 www.18schoolgirlz.me
 0.0.0.0 www.18stream.com
 0.0.0.0 www.18teenporno.tv
@@ -19335,7 +19327,6 @@
 0.0.0.0 www.adultemotion.com
 0.0.0.0 www.adultempire.com
 0.0.0.0 www.adultempiredeals.com
-0.0.0.0 www.adultempiredeals.com 
 0.0.0.0 www.adulterfree.com
 0.0.0.0 www.adultfairground.com
 0.0.0.0 www.adultforce.com
@@ -27474,7 +27465,6 @@
 0.0.0.0 www.pornroxxx.com
 0.0.0.0 www.porns.mobi
 0.0.0.0 www.pornsale.com
-0.0.0.0 www.pornsale.com 
 0.0.0.0 www.pornsavant.com
 0.0.0.0 www.pornsblr.tumblr.com
 0.0.0.0 www.pornscrape.com
@@ -28306,7 +28296,6 @@
 0.0.0.0 www.securitetotale.com
 0.0.0.0 www.seducedangel.com
 0.0.0.0 www.seductiveamateurs.com
-0.0.0.0 www.seductiveamateurs.com	
 0.0.0.0 www.seductivetease.com
 0.0.0.0 www.seekbang.com
 0.0.0.0 www.seekeo.com
@@ -32663,4 +32652,3 @@
 0.0.0.0 zztube.com
 0.0.0.0 zzztube.com
 #
-
