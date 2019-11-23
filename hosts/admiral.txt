@@ -8,7 +8,7 @@
 # In order to use this list, please use the following address:
 # https://raw.githubusercontent.com/smed79/blacklist/master/hosts/admiral.txt
 #
-# Last modified: 2019-08-04 17:32 UTC
+# Last modified: 2019-10-04 11:11 UTC
 #
 # DOMAINS -------------------------------------------------------------------- #
 #
@@ -26,6 +26,7 @@
 0.0.0.0 abruptroad.com
 0.0.0.0 absentstream.com
 0.0.0.0 absorbingband.com
+0.0.0.0 absorbingcorn.com
 0.0.0.0 absurdapple.com
 0.0.0.0 absurdwater.com
 0.0.0.0 acquireattention.com
@@ -37,9 +38,11 @@
 0.0.0.0 agreeablestew.com
 0.0.0.0 agreeabletouch.com
 0.0.0.0 aheadday.com
+0.0.0.0 ajaralarm.com
 0.0.0.0 ak0gsh40.com
 0.0.0.0 alertafterthought.com
 0.0.0.0 alikearm.com
+0.0.0.0 alleyarm.com
 0.0.0.0 aloofmetal.com
 0.0.0.0 ambiguousquilt.com
 0.0.0.0 ambitiousagreement.com
@@ -110,10 +113,12 @@
 0.0.0.0 cannontwin.com
 0.0.0.0 capablecows.com
 0.0.0.0 capablecup.com
+0.0.0.0 capriciouscorn.com
 0.0.0.0 caringzinc.com
 0.0.0.0 carriagecan.com
 0.0.0.0 carscannon.com
 0.0.0.0 catschickens.com
+0.0.0.0 causecherry.com
 0.0.0.0 cautiouscredit.com
 0.0.0.0 chairscrack.com
 0.0.0.0 channelcamp.com
@@ -130,6 +135,7 @@
 0.0.0.0 cloisteredhydrant.com
 0.0.0.0 cloudflarewh.getadmiral.com
 0.0.0.0 cloudsdestruction.com
+0.0.0.0 coachquartz.com
 0.0.0.0 colorfulafterthought.com
 0.0.0.0 comfortablecheese.com
 0.0.0.0 commonswing.com
@@ -140,6 +146,7 @@
 0.0.0.0 consciouschairs.com
 0.0.0.0 consciousdirt.com
 0.0.0.0 consistpotato.com
+0.0.0.0 controlswim.com
 0.0.0.0 coordinatedbedroom.com
 0.0.0.0 coordinatedcub.com
 0.0.0.0 copperchickens.com
@@ -179,6 +186,7 @@
 0.0.0.0 desiredirt.com
 0.0.0.0 detailedglue.com
 0.0.0.0 detailedgovernment.com
+0.0.0.0 detailedkitten.com
 0.0.0.0 detectdinner.com
 0.0.0.0 detectdiscovery.com
 0.0.0.0 discreetfield.com
@@ -198,6 +206,7 @@
 0.0.0.0 driverequest.com
 0.0.0.0 drivingdirt.com
 0.0.0.0 drydrum.com
+0.0.0.0 dustywave.com
 0.0.0.0 earthquakescarf.com
 0.0.0.0 earthycopy.com
 0.0.0.0 economicpizzas.com
@@ -209,6 +218,7 @@
 0.0.0.0 elderlytown.com
 0.0.0.0 elephantqueue.com
 0.0.0.0 eliminateeffect.com
+0.0.0.0 enchantedtop.com
 0.0.0.0 encourageidea.com
 0.0.0.0 encouragingwilderness.com
 0.0.0.0 endurablecrayon.com
@@ -301,6 +311,7 @@
 0.0.0.0 honeygoldfish.com
 0.0.0.0 honorableland.com
 0.0.0.0 humdrumhat.com
+0.0.0.0 hurtgrape.com
 0.0.0.0 hurtteeth.com
 0.0.0.0 hystericalhelp.com
 0.0.0.0 i9w8p.pw
@@ -357,6 +368,7 @@
 0.0.0.0 materialisticfan.com
 0.0.0.0 materialmoon.com
 0.0.0.0 medusasailor.com
+0.0.0.0 memopilot.com
 0.0.0.0 memorizeneck.com
 0.0.0.0 memorycobweb.com
 0.0.0.0 meremark.com
@@ -371,6 +383,7 @@
 0.0.0.0 motionlessbag.com
 0.0.0.0 mountainouspear.com
 0.0.0.0 mowfruit.com
+0.0.0.0 murkymeeting.com
 0.0.0.0 mysteriousmonth.com
 0.0.0.0 necessarywax.com
 0.0.0.0 neighborlywatch.com
@@ -406,6 +419,7 @@
 0.0.0.0 penspade.com
 0.0.0.0 perceivequarter.com
 0.0.0.0 perpetualpail.com
+0.0.0.0 persuadesock.com
 0.0.0.0 petiteumbrella.com
 0.0.0.0 photographpan.com
 0.0.0.0 pietexture.com
@@ -413,8 +427,11 @@
 0.0.0.0 piquantpigs.com
 0.0.0.0 piquantstove.com
 0.0.0.0 pizzasnut.com
+0.0.0.0 plainplayground.com
+0.0.0.0 plantpotato.com
 0.0.0.0 possessivebucket.com
 0.0.0.0 possibleboats.com
+0.0.0.0 preciousyoke.com
 0.0.0.0 prefixpatriot.com
 0.0.0.0 presetrabbits.com
 0.0.0.0 presssensor.com
@@ -493,6 +510,7 @@
 0.0.0.0 scrubswim.com
 0.0.0.0 secretivecub.com
 0.0.0.0 secretspiders.com
+0.0.0.0 seedscissors.com
 0.0.0.0 selectionship.com
 0.0.0.0 selectionsugar.com
 0.0.0.0 selectivesummer.com
@@ -520,9 +538,11 @@
 0.0.0.0 sizesidewalk.com
 0.0.0.0 slaysweater.com
 0.0.0.0 sleepcartoon.com
+0.0.0.0 slimopinion.com
 0.0.0.0 slimyscarf.com
 0.0.0.0 slipperysack.com
 0.0.0.0 smashsurprise.com
+0.0.0.0 smilingshake.com
 0.0.0.0 smilingwaves.com
 0.0.0.0 smoggysnakes.com
 0.0.0.0 snakemineral.com
@@ -535,6 +555,7 @@
 0.0.0.0 soresneeze.com
 0.0.0.0 sorethunder.com
 0.0.0.0 sortsummer.com
+0.0.0.0 sparklesleet.com
 0.0.0.0 sparklingnumber.com
 0.0.0.0 spendpest.com
 0.0.0.0 spidersboats.com
@@ -571,6 +592,7 @@
 0.0.0.0 stoveseashore.com
 0.0.0.0 straightnest.com
 0.0.0.0 straightschool.com
+0.0.0.0 strangesink.com
 0.0.0.0 stripedburst.com
 0.0.0.0 stripewh.getadmiral.com
 0.0.0.0 strivesidewalk.com
@@ -626,6 +648,7 @@
 0.0.0.0 tranquilside.com
 0.0.0.0 translateoatmeal.com
 0.0.0.0 trappush.com
+0.0.0.0 treadbun.com
 0.0.0.0 tremendousplastic.com
 0.0.0.0 tremendoustime.com
 0.0.0.0 tremendoustreatment.com
@@ -633,6 +656,7 @@
 0.0.0.0 truckstomatoes.com
 0.0.0.0 truthfulturn.com
 0.0.0.0 ttauri.techradar.com
+0.0.0.0 tumblebirds.com
 0.0.0.0 typicalteeth.com
 0.0.0.0 tzwaw.pw
 0.0.0.0 ubiquitousyard.com
@@ -669,6 +693,7 @@
 0.0.0.0 wigglyindustry.com
 0.0.0.0 wildernesscamera.com
 0.0.0.0 wirecomic.com
+0.0.0.0 wistfulflight.com
 0.0.0.0 womanear.com
 0.0.0.0 workableachiever.com
 0.0.0.0 workoperation.com

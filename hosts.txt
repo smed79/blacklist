@@ -8,16 +8,19 @@
 # In order to use this list, please use the following address:
 # https://raw.githubusercontent.com/smed79/blacklist/master/hosts.txt
 #
-# Last modified: 2019-08-20 21:01 UTC
+# Last modified: 2019-11-23 14:40 UTC
 #
 # DOMAINS -------------------------------------------------------------------- #
 #
 # AdBack
 # https://raw.githubusercontent.com/smed79/blacklist/master/hosts/adback.txt
 0.0.0.0 abramsrentiesville.yaucoplumerville.com
+0.0.0.0 accovillebenicia.sunlandspivey.com
 0.0.0.0 adback.co
 0.0.0.0 angiervirgie.hawifallon.com
 0.0.0.0 aniakoakes.glenoldencedarburg.com
+0.0.0.0 arjaylangtry.benkelmantimberville.com
+0.0.0.0 arnettluckey.hunkersummit.com
 0.0.0.0 avantmickleton.tylertonedwardsport.com
 0.0.0.0 awendawslaughters.rickettsharrell.com
 0.0.0.0 barnesvillemedina.wanchesegarvin.com
@@ -26,6 +29,7 @@
 0.0.0.0 bolckowwoodfield.oakfordshiro.com
 0.0.0.0 bolingbroke.werringtonlasborough.com
 0.0.0.0 bonfieldkeshena.wilburnkeithsburg.com
+0.0.0.0 braymertatums.shortervilleaimwell.com
 0.0.0.0 breedenjolon.hibbingnakina.com
 0.0.0.0 briggsvillebroadwater.wetmoremottville.com
 0.0.0.0 brinkleykendleton.maloupperville.com
@@ -33,6 +37,7 @@
 0.0.0.0 bueyerosseibert.lenoramanning.com
 0.0.0.0 bunaruna.daisettagreybull.com
 0.0.0.0 caliongeary.etoileironton.com
+0.0.0.0 capemaycahone.jeromesvillerockfall.com
 0.0.0.0 carnarvonrichey.hazelcrestcoxsackie.com
 0.0.0.0 celinawolfforth.rutheronwenonah.com
 0.0.0.0 charlestownlocustville.mokaneroxton.com
@@ -56,6 +61,7 @@
 0.0.0.0 eustislueders.hurlinesswhitchurch.com
 0.0.0.0 fennvillebandana.sedalianoctor.com
 0.0.0.0 ferrellsburgprattsburg.janesvillelykens.com
+0.0.0.0 florisbrookings.mecostasenath.com
 0.0.0.0 follettchanhassen.pepeekeosummershade.com
 0.0.0.0 fouroakseatonville.kahlotuswoodmere.com
 0.0.0.0 freemanspurhaydenville.tougaloocolerain.com
@@ -66,6 +72,7 @@
 0.0.0.0 goldbarescalante.watkinsvillesilerton.com
 0.0.0.0 greenwayreasnor.springtownwahiawa.com
 0.0.0.0 gulfhammockwaipahu.bascomdeary.com
+0.0.0.0 hamerhelenwood.lovevilleyulan.com
 0.0.0.0 hartwellleesville.dunsmuirdeferiet.com
 0.0.0.0 heartwellperryton.pinckardpyote.com
 0.0.0.0 hibbslovell.kulpsvillerochdale.com
@@ -90,9 +97,12 @@
 0.0.0.0 lemingcasstown.lansdaleweare.com
 0.0.0.0 lestervillevaldese.bellevillelickingville.com
 0.0.0.0 lillieelkland.iliamnapalco.com
+0.0.0.0 lindenhurstsneads.doyondeville.com
 0.0.0.0 lonaconinggretna.renovosartell.com
+0.0.0.0 lottadna.kernvilleuniontown.com
 0.0.0.0 loysburgcorinne.mayaguezyerington.com
 0.0.0.0 lurganhornitos.medonohley.com
+0.0.0.0 mahtorexburg.rulevillemantador.com
 0.0.0.0 malibuwolftown.glorietapedricktown.com
 0.0.0.0 manillawellsboro.murrietaullin.com
 0.0.0.0 marcelinechacon.trimontbrewer.com
@@ -112,6 +122,7 @@
 0.0.0.0 oglethorpetobias.folkstonelizabethtown.com
 0.0.0.0 orleanvanzant.pembinecastana.com
 0.0.0.0 owyheerockhouse.onawaykeeline.com
+0.0.0.0 parkhallivel.scarbrotoivola.com
 0.0.0.0 penascogerlach.lovilialaceyville.com
 0.0.0.0 pequeablockton.rosaliaarnett.com
 0.0.0.0 pilgerpurling.goldendalepremont.com
@@ -127,19 +138,24 @@
 0.0.0.0 schellsburgrushford.menomonierolette.com
 0.0.0.0 sherburnerantoul.waleskamekinock.com
 0.0.0.0 skamokawamarquand.peterboroughapalachicola.com
+0.0.0.0 skandialightfoot.diabloweissert.com
 0.0.0.0 slidelllenhartsville.toomsborogreycliff.com
 0.0.0.0 somerdalebainville.eppingtoluca.com
+0.0.0.0 spottswoodcassoday.eekmarchand.com
 0.0.0.0 talcolerose.dunfermlinemulkeytown.com
 0.0.0.0 talihinabonaire.rodantheamory.com
 0.0.0.0 tavaresnielsville.enolatekoa.com
+0.0.0.0 thomasvilletingley.greenlawnmantador.com
 0.0.0.0 tonalearuskin.wynnewoodmacdoel.com
 0.0.0.0 torreybradleyville.franksvillereddick.com
 0.0.0.0 trevortonmanheim.whitesboromcbee.com
 0.0.0.0 valatiemanderson.elmoswanville.com
+0.0.0.0 venturatolley.pawpawheidrick.com
 0.0.0.0 venturiamendota.romneypaauilo.com
 0.0.0.0 webbervillemamers.hagarstowndilworth.com
 0.0.0.0 websocket.adback.co
 0.0.0.0 wiborgwaynesfield.ridgedaletecopa.com
+0.0.0.0 willseyvillefingerville.polaccafaison.com
 0.0.0.0 wittmannknightstown.lothairhansboro.com
 0.0.0.0 www.adback.co
 0.0.0.0 yabucoavarysburg.owensborowaltonville.com
@@ -381,6 +397,7 @@
 0.0.0.0 unveterms.online
 0.0.0.0 ursorsee.pro
 0.0.0.0 utilistom.info
+0.0.0.0 vaipsona.com
 0.0.0.0 veningew.info
 0.0.0.0 vetermsu.info
 0.0.0.0 webcompon.info
@@ -1064,6 +1081,7 @@
 0.0.0.0 abruptroad.com
 0.0.0.0 absentstream.com
 0.0.0.0 absorbingband.com
+0.0.0.0 absorbingcorn.com
 0.0.0.0 absurdapple.com
 0.0.0.0 absurdwater.com
 0.0.0.0 acquireattention.com
@@ -1075,9 +1093,11 @@
 0.0.0.0 agreeablestew.com
 0.0.0.0 agreeabletouch.com
 0.0.0.0 aheadday.com
+0.0.0.0 ajaralarm.com
 0.0.0.0 ak0gsh40.com
 0.0.0.0 alertafterthought.com
 0.0.0.0 alikearm.com
+0.0.0.0 alleyarm.com
 0.0.0.0 aloofmetal.com
 0.0.0.0 ambiguousquilt.com
 0.0.0.0 ambitiousagreement.com
@@ -1148,10 +1168,12 @@
 0.0.0.0 cannontwin.com
 0.0.0.0 capablecows.com
 0.0.0.0 capablecup.com
+0.0.0.0 capriciouscorn.com
 0.0.0.0 caringzinc.com
 0.0.0.0 carriagecan.com
 0.0.0.0 carscannon.com
 0.0.0.0 catschickens.com
+0.0.0.0 causecherry.com
 0.0.0.0 cautiouscredit.com
 0.0.0.0 chairscrack.com
 0.0.0.0 channelcamp.com
@@ -1168,6 +1190,7 @@
 0.0.0.0 cloisteredhydrant.com
 0.0.0.0 cloudflarewh.getadmiral.com
 0.0.0.0 cloudsdestruction.com
+0.0.0.0 coachquartz.com
 0.0.0.0 colorfulafterthought.com
 0.0.0.0 comfortablecheese.com
 0.0.0.0 commonswing.com
@@ -1178,6 +1201,7 @@
 0.0.0.0 consciouschairs.com
 0.0.0.0 consciousdirt.com
 0.0.0.0 consistpotato.com
+0.0.0.0 controlswim.com
 0.0.0.0 coordinatedbedroom.com
 0.0.0.0 coordinatedcub.com
 0.0.0.0 copperchickens.com
@@ -1217,6 +1241,7 @@
 0.0.0.0 desiredirt.com
 0.0.0.0 detailedglue.com
 0.0.0.0 detailedgovernment.com
+0.0.0.0 detailedkitten.com
 0.0.0.0 detectdinner.com
 0.0.0.0 detectdiscovery.com
 0.0.0.0 discreetfield.com
@@ -1236,6 +1261,7 @@
 0.0.0.0 driverequest.com
 0.0.0.0 drivingdirt.com
 0.0.0.0 drydrum.com
+0.0.0.0 dustywave.com
 0.0.0.0 earthquakescarf.com
 0.0.0.0 earthycopy.com
 0.0.0.0 economicpizzas.com
@@ -1247,6 +1273,7 @@
 0.0.0.0 elderlytown.com
 0.0.0.0 elephantqueue.com
 0.0.0.0 eliminateeffect.com
+0.0.0.0 enchantedtop.com
 0.0.0.0 encourageidea.com
 0.0.0.0 encouragingwilderness.com
 0.0.0.0 endurablecrayon.com
@@ -1339,6 +1366,7 @@
 0.0.0.0 honeygoldfish.com
 0.0.0.0 honorableland.com
 0.0.0.0 humdrumhat.com
+0.0.0.0 hurtgrape.com
 0.0.0.0 hurtteeth.com
 0.0.0.0 hystericalhelp.com
 0.0.0.0 i9w8p.pw
@@ -1395,6 +1423,7 @@
 0.0.0.0 materialisticfan.com
 0.0.0.0 materialmoon.com
 0.0.0.0 medusasailor.com
+0.0.0.0 memopilot.com
 0.0.0.0 memorizeneck.com
 0.0.0.0 memorycobweb.com
 0.0.0.0 meremark.com
@@ -1409,6 +1438,7 @@
 0.0.0.0 motionlessbag.com
 0.0.0.0 mountainouspear.com
 0.0.0.0 mowfruit.com
+0.0.0.0 murkymeeting.com
 0.0.0.0 mysteriousmonth.com
 0.0.0.0 necessarywax.com
 0.0.0.0 neighborlywatch.com
@@ -1444,6 +1474,7 @@
 0.0.0.0 penspade.com
 0.0.0.0 perceivequarter.com
 0.0.0.0 perpetualpail.com
+0.0.0.0 persuadesock.com
 0.0.0.0 petiteumbrella.com
 0.0.0.0 photographpan.com
 0.0.0.0 pietexture.com
@@ -1451,8 +1482,11 @@
 0.0.0.0 piquantpigs.com
 0.0.0.0 piquantstove.com
 0.0.0.0 pizzasnut.com
+0.0.0.0 plainplayground.com
+0.0.0.0 plantpotato.com
 0.0.0.0 possessivebucket.com
 0.0.0.0 possibleboats.com
+0.0.0.0 preciousyoke.com
 0.0.0.0 prefixpatriot.com
 0.0.0.0 presetrabbits.com
 0.0.0.0 presssensor.com
@@ -1531,6 +1565,7 @@
 0.0.0.0 scrubswim.com
 0.0.0.0 secretivecub.com
 0.0.0.0 secretspiders.com
+0.0.0.0 seedscissors.com
 0.0.0.0 selectionship.com
 0.0.0.0 selectionsugar.com
 0.0.0.0 selectivesummer.com
@@ -1558,9 +1593,11 @@
 0.0.0.0 sizesidewalk.com
 0.0.0.0 slaysweater.com
 0.0.0.0 sleepcartoon.com
+0.0.0.0 slimopinion.com
 0.0.0.0 slimyscarf.com
 0.0.0.0 slipperysack.com
 0.0.0.0 smashsurprise.com
+0.0.0.0 smilingshake.com
 0.0.0.0 smilingwaves.com
 0.0.0.0 smoggysnakes.com
 0.0.0.0 snakemineral.com
@@ -1573,6 +1610,7 @@
 0.0.0.0 soresneeze.com
 0.0.0.0 sorethunder.com
 0.0.0.0 sortsummer.com
+0.0.0.0 sparklesleet.com
 0.0.0.0 sparklingnumber.com
 0.0.0.0 spendpest.com
 0.0.0.0 spidersboats.com
@@ -1609,6 +1647,7 @@
 0.0.0.0 stoveseashore.com
 0.0.0.0 straightnest.com
 0.0.0.0 straightschool.com
+0.0.0.0 strangesink.com
 0.0.0.0 stripedburst.com
 0.0.0.0 stripewh.getadmiral.com
 0.0.0.0 strivesidewalk.com
@@ -1664,6 +1703,7 @@
 0.0.0.0 tranquilside.com
 0.0.0.0 translateoatmeal.com
 0.0.0.0 trappush.com
+0.0.0.0 treadbun.com
 0.0.0.0 tremendousplastic.com
 0.0.0.0 tremendoustime.com
 0.0.0.0 tremendoustreatment.com
@@ -1671,6 +1711,7 @@
 0.0.0.0 truckstomatoes.com
 0.0.0.0 truthfulturn.com
 0.0.0.0 ttauri.techradar.com
+0.0.0.0 tumblebirds.com
 0.0.0.0 typicalteeth.com
 0.0.0.0 tzwaw.pw
 0.0.0.0 ubiquitousyard.com
@@ -1707,6 +1748,7 @@
 0.0.0.0 wigglyindustry.com
 0.0.0.0 wildernesscamera.com
 0.0.0.0 wirecomic.com
+0.0.0.0 wistfulflight.com
 0.0.0.0 womanear.com
 0.0.0.0 workableachiever.com
 0.0.0.0 workoperation.com
@@ -1762,6 +1804,7 @@
 0.0.0.0 d16dqaga5j0fjm.cloudfront.net
 0.0.0.0 d16fk4ms6rqz1v.cloudfront.net
 0.0.0.0 d16s8pqtk4uodx.cloudfront.net
+0.0.0.0 d179kwmlpc4o47.cloudfront.net
 0.0.0.0 d17f2fxw547952.cloudfront.net
 0.0.0.0 d17ialcoirdn28.cloudfront.net
 0.0.0.0 d17m68fovwmgxj.cloudfront.net
@@ -1820,6 +1863,7 @@
 0.0.0.0 d1gp9nlx229wzz.cloudfront.net
 0.0.0.0 d1grtyyel8f1mh.cloudfront.net
 0.0.0.0 d1gyluhoxet66h.cloudfront.net
+0.0.0.0 d1hi41nc56pmug.cloudfront.net
 0.0.0.0 d1hl7ya5ggieq0.cloudfront.net
 0.0.0.0 d1hm0uxglt4t41.cloudfront.net
 0.0.0.0 d1i2v9a8xom2hy.cloudfront.net
@@ -1829,6 +1873,7 @@
 0.0.0.0 d1jikhx1ssl81z.cloudfront.net
 0.0.0.0 d1jl096lp4cce0.cloudfront.net
 0.0.0.0 d1jq9nooxeft24.cloudfront.net
+0.0.0.0 d1jwpcr0q4pcq0.cloudfront.net
 0.0.0.0 d1k0glcmk0b5rb.cloudfront.net
 0.0.0.0 d1k29rhvz38kg5.cloudfront.net
 0.0.0.0 d1k3dpebxhgqjc.cloudfront.net
@@ -1858,6 +1903,7 @@
 0.0.0.0 d1noellhv8fksc.cloudfront.net
 0.0.0.0 d1nu2rn22elx8m.cloudfront.net
 0.0.0.0 d1o3ws1znr0uv8.cloudfront.net
+0.0.0.0 d1oxlq5h9kq8q5.cloudfront.net
 0.0.0.0 d1p7elpjrt6qav.cloudfront.net
 0.0.0.0 d1pcttwib15k25.cloudfront.net
 0.0.0.0 d1pdpbxj733bb1.cloudfront.net
@@ -2003,6 +2049,7 @@
 0.0.0.0 d2ggw6du5pulet.cloudfront.net
 0.0.0.0 d2ghscazvn398x.cloudfront.net
 0.0.0.0 d2gi7ultltnc2u.cloudfront.net
+0.0.0.0 d2glav2919q4cw.cloudfront.net
 0.0.0.0 d2gpgaupalra1d.cloudfront.net
 0.0.0.0 d2gqmq0lf9q8i2.cloudfront.net
 0.0.0.0 d2gt9oovykfp1z.cloudfront.net
@@ -2086,6 +2133,7 @@
 0.0.0.0 d2tgev5wuprbqq.cloudfront.net
 0.0.0.0 d2tgfbvjf3q6hn.cloudfront.net
 0.0.0.0 d2tnimpzlb191i.cloudfront.net
+0.0.0.0 d2tnx644ijgq6i.cloudfront.net
 0.0.0.0 d2tycn7nnoiglw.cloudfront.net
 0.0.0.0 d2ubicnllnnszy.cloudfront.net
 0.0.0.0 d2ue9k1rhsumed.cloudfront.net
@@ -2169,6 +2217,7 @@
 0.0.0.0 d37dzu39aqhuxu.cloudfront.net
 0.0.0.0 d37f9khcllt32v.cloudfront.net
 0.0.0.0 d37gvrvc0wt4s1.cloudfront.net
+0.0.0.0 d37ju0xanoz6gh.cloudfront.net
 0.0.0.0 d37kzqe5knnh6t.cloudfront.net
 0.0.0.0 d37s9vd5t6mov7.cloudfront.net
 0.0.0.0 d38hmgjgf0kofx.cloudfront.net
@@ -2202,6 +2251,7 @@
 0.0.0.0 d3cknv5e7a99jg.cloudfront.net
 0.0.0.0 d3cl7ldsgbm5qu.cloudfront.net
 0.0.0.0 d3cxv97fi8q177.cloudfront.net
+0.0.0.0 d3d52lhoy0sh2w.cloudfront.net
 0.0.0.0 d3d5har4hmweni.cloudfront.net
 0.0.0.0 d3dcugpvnepf41.cloudfront.net
 0.0.0.0 d3ddidv77grh0f.cloudfront.net
@@ -2248,6 +2298,7 @@
 0.0.0.0 d3m41swuqq4sv5.cloudfront.net
 0.0.0.0 d3m79ugzs2d8im.cloudfront.net
 0.0.0.0 d3mcf0n3hvvfk4.cloudfront.net
+0.0.0.0 d3mjsomixevyw7.cloudfront.net
 0.0.0.0 d3mskfhorhi2fb.cloudfront.net
 0.0.0.0 d3n6i6eorggdxk.cloudfront.net
 0.0.0.0 d3ncat0syb6rim.cloudfront.net
@@ -2459,6 +2510,7 @@
 0.0.0.0 duct5ntjian71.cloudfront.net
 0.0.0.0 dufue2m4sondk.cloudfront.net
 0.0.0.0 duu8lzqdm8tsz.cloudfront.net
+0.0.0.0 duzt6rhr7wo8p.cloudfront.net
 0.0.0.0 dv0uonokej56p.cloudfront.net
 0.0.0.0 dv2m1uumnsgtu.cloudfront.net
 0.0.0.0 dv7t7qyvgyrt5.cloudfront.net

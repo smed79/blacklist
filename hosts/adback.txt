@@ -8,14 +8,17 @@
 # In order to use this list, please use the following address:
 # https://raw.githubusercontent.com/smed79/blacklist/master/hosts/adback.txt
 #
-# Last modified: 2019-08-04 17:32 UTC
+# Last modified: 2019-11-23 14:40 UTC
 #
 # DOMAINS -------------------------------------------------------------------- #
 #
 0.0.0.0 abramsrentiesville.yaucoplumerville.com
+0.0.0.0 accovillebenicia.sunlandspivey.com
 0.0.0.0 adback.co
 0.0.0.0 angiervirgie.hawifallon.com
 0.0.0.0 aniakoakes.glenoldencedarburg.com
+0.0.0.0 arjaylangtry.benkelmantimberville.com
+0.0.0.0 arnettluckey.hunkersummit.com
 0.0.0.0 avantmickleton.tylertonedwardsport.com
 0.0.0.0 awendawslaughters.rickettsharrell.com
 0.0.0.0 barnesvillemedina.wanchesegarvin.com
@@ -24,6 +27,7 @@
 0.0.0.0 bolckowwoodfield.oakfordshiro.com
 0.0.0.0 bolingbroke.werringtonlasborough.com
 0.0.0.0 bonfieldkeshena.wilburnkeithsburg.com
+0.0.0.0 braymertatums.shortervilleaimwell.com
 0.0.0.0 breedenjolon.hibbingnakina.com
 0.0.0.0 briggsvillebroadwater.wetmoremottville.com
 0.0.0.0 brinkleykendleton.maloupperville.com
@@ -31,6 +35,7 @@
 0.0.0.0 bueyerosseibert.lenoramanning.com
 0.0.0.0 bunaruna.daisettagreybull.com
 0.0.0.0 caliongeary.etoileironton.com
+0.0.0.0 capemaycahone.jeromesvillerockfall.com
 0.0.0.0 carnarvonrichey.hazelcrestcoxsackie.com
 0.0.0.0 celinawolfforth.rutheronwenonah.com
 0.0.0.0 charlestownlocustville.mokaneroxton.com
@@ -54,6 +59,7 @@
 0.0.0.0 eustislueders.hurlinesswhitchurch.com
 0.0.0.0 fennvillebandana.sedalianoctor.com
 0.0.0.0 ferrellsburgprattsburg.janesvillelykens.com
+0.0.0.0 florisbrookings.mecostasenath.com
 0.0.0.0 follettchanhassen.pepeekeosummershade.com
 0.0.0.0 fouroakseatonville.kahlotuswoodmere.com
 0.0.0.0 freemanspurhaydenville.tougaloocolerain.com
@@ -64,6 +70,7 @@
 0.0.0.0 goldbarescalante.watkinsvillesilerton.com
 0.0.0.0 greenwayreasnor.springtownwahiawa.com
 0.0.0.0 gulfhammockwaipahu.bascomdeary.com
+0.0.0.0 hamerhelenwood.lovevilleyulan.com
 0.0.0.0 hartwellleesville.dunsmuirdeferiet.com
 0.0.0.0 heartwellperryton.pinckardpyote.com
 0.0.0.0 hibbslovell.kulpsvillerochdale.com
@@ -88,9 +95,12 @@
 0.0.0.0 lemingcasstown.lansdaleweare.com
 0.0.0.0 lestervillevaldese.bellevillelickingville.com
 0.0.0.0 lillieelkland.iliamnapalco.com
+0.0.0.0 lindenhurstsneads.doyondeville.com
 0.0.0.0 lonaconinggretna.renovosartell.com
+0.0.0.0 lottadna.kernvilleuniontown.com
 0.0.0.0 loysburgcorinne.mayaguezyerington.com
 0.0.0.0 lurganhornitos.medonohley.com
+0.0.0.0 mahtorexburg.rulevillemantador.com
 0.0.0.0 malibuwolftown.glorietapedricktown.com
 0.0.0.0 manillawellsboro.murrietaullin.com
 0.0.0.0 marcelinechacon.trimontbrewer.com
@@ -110,6 +120,7 @@
 0.0.0.0 oglethorpetobias.folkstonelizabethtown.com
 0.0.0.0 orleanvanzant.pembinecastana.com
 0.0.0.0 owyheerockhouse.onawaykeeline.com
+0.0.0.0 parkhallivel.scarbrotoivola.com
 0.0.0.0 penascogerlach.lovilialaceyville.com
 0.0.0.0 pequeablockton.rosaliaarnett.com
 0.0.0.0 pilgerpurling.goldendalepremont.com
@@ -125,19 +136,24 @@
 0.0.0.0 schellsburgrushford.menomonierolette.com
 0.0.0.0 sherburnerantoul.waleskamekinock.com
 0.0.0.0 skamokawamarquand.peterboroughapalachicola.com
+0.0.0.0 skandialightfoot.diabloweissert.com
 0.0.0.0 slidelllenhartsville.toomsborogreycliff.com
 0.0.0.0 somerdalebainville.eppingtoluca.com
+0.0.0.0 spottswoodcassoday.eekmarchand.com
 0.0.0.0 talcolerose.dunfermlinemulkeytown.com
 0.0.0.0 talihinabonaire.rodantheamory.com
 0.0.0.0 tavaresnielsville.enolatekoa.com
+0.0.0.0 thomasvilletingley.greenlawnmantador.com
 0.0.0.0 tonalearuskin.wynnewoodmacdoel.com
 0.0.0.0 torreybradleyville.franksvillereddick.com
 0.0.0.0 trevortonmanheim.whitesboromcbee.com
 0.0.0.0 valatiemanderson.elmoswanville.com
+0.0.0.0 venturatolley.pawpawheidrick.com
 0.0.0.0 venturiamendota.romneypaauilo.com
 0.0.0.0 webbervillemamers.hagarstowndilworth.com
 0.0.0.0 websocket.adback.co
 0.0.0.0 wiborgwaynesfield.ridgedaletecopa.com
+0.0.0.0 willseyvillefingerville.polaccafaison.com
 0.0.0.0 wittmannknightstown.lothairhansboro.com
 0.0.0.0 www.adback.co
 0.0.0.0 yabucoavarysburg.owensborowaltonville.com

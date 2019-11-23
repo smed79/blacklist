@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201908202101
+! Version: 201911231440
 ! Title: smed79 BlackList
-! Last modified: 2019-08-20 21:01 UTC
+! Last modified: 2019-11-23 14:40 UTC
 ! Expires: 1 days
 !
 ! Description: BlackList of domains hosting advertisements & other nasty purposes.
@@ -18,10 +18,14 @@
 !
 ! AdBack
 ! https://raw.githubusercontent.com/smed79/blacklist/master/hosts/adback.txt
+||accovillebenicia.sunlandspivey.com^
 ||adback.co^
 ||albertsonmendocino.com^
 ||algomalillie.com^
+||arjaylangtry.benkelmantimberville.com^
+||arnettluckey.hunkersummit.com^
 ||attleboroarchcape.com^
+||avantmickleton.tylertonedwardsport.com^
 ||avingtonkinoulton.com^
 ||babblenorah.com^
 ||bascomdeary.com^
@@ -29,16 +33,24 @@
 ||bayfieldharleysville.com^
 ||baysidethorntown.com^
 ||bellevillelickingville.com^
+||bellwoodconejos.buttonwillowbroseley.com^
 ||bonnymansabanaseca.com^
+||braymertatums.shortervilleaimwell.com^
 ||buttonwillowbroseley.com^
+||caliongeary.etoileironton.com^
+||capemaycahone.jeromesvillerockfall.com^
 ||cedarlaneblackshear.com^
 ||chaumontbalko.com^
 ||cleelumyards.com^
 ||colerainefaunsdale.com^
+||crankscastella.dieterichtaylorville.com^
+||curticetomball.tidiouteburket.com^
 ||daisettagreybull.com^
+||damariscottalickingville.hollinsmcalpin.com^
 ||delcomeyersdale.com^
 ||depauvillepinson.com^
 ||dieterichtaylorville.com^
+||duchesneowendale.emeighglenellen.com^
 ||dunfermlinemulkeytown.com^
 ||dunsmuirdeferiet.com^
 ||earltonmolena.com^
@@ -51,7 +63,9 @@
 ||enolatekoa.com^
 ||eppingtoluca.com^
 ||etoileironton.com^
+||florisbrookings.mecostasenath.com^
 ||folkstonelizabethtown.com^
+||follettchanhassen.pepeekeosummershade.com^
 ||fonddulacstewartsville.com^
 ||foyilhardburly.com^
 ||franksvillereddick.com^
@@ -65,6 +79,7 @@
 ||graylandmosier.com^
 ||hagarstowndilworth.com^
 ||haileyhebert.com^
+||hamerhelenwood.lovevilleyulan.com^
 ||hawifallon.com^
 ||hazelcrestcoxsackie.com^
 ||heatonnikolski.com^
@@ -74,23 +89,36 @@
 ||hollinsmcalpin.com^
 ||horshamoronoco.com^
 ||hosmermurdock.com^
+||hunkersummit.com^
 ||hurlinesswhitchurch.com^
+||hyshamcuyama.fonddulacstewartsville.com^
 ||iliamnapalco.com^
+||incheliumashford.graylandmosier.com^
+||iukamanheim.glenviewexcello.com^
 ||janesvillelykens.com^
 ||johnsburgclarksville.com^
 ||kahlotuswoodmere.com^
 ||keaaudarrington.com^
 ||killawogkanosh.com^
 ||kulpsvillerochdale.com^
+||kylertownheaters.gilfordboyers.com^
 ||lampeleoti.com^
 ||langtrydelaplaine.com^
 ||lansdaleweare.com^
 ||laqueyimmaculata.com^
+||lebokiln.wynnburgbottineau.com^
 ||leclairesligo.com^
+||lemingcasstown.lansdaleweare.com^
 ||lenoramanning.com^
+||lillieelkland.iliamnapalco.com^
+||lindenhurstsneads.doyondeville.com^
 ||lothairhansboro.com^
+||lottadna.kernvilleuniontown.com^
+||lovevilleyulan.com^
 ||lovilialaceyville.com^
+||loysburgcorinne.mayaguezyerington.com^
 ||lynbrookoriska.com^
+||mahtorexburg.rulevillemantador.com^
 ||malakoffrockholds.com^
 ||maloupperville.com^
 ||markhamglascote.com^
@@ -98,16 +126,20 @@
 ||mayaguezyerington.com^
 ||mayodanorem.com^
 ||medonohley.com^
+||mellensmolan.colerainefaunsdale.com^
 ||menomonierolette.com^
 ||miquonearlham.com^
 ||mokaneroxton.com^
 ||monettapawhuska.com^
+||morrowvilleemington.mauckportcynwyd.com^
 ||moshervillethawville.com^
 ||mulvaneruston.com^
 ||murrietaullin.com^
 ||narkadarfur.com^
+||nooksackbamberg.earltonmolena.com^
 ||oakfordshiro.com^
 ||onawaykeeline.com^
+||orleanvanzant.pembinecastana.com^
 ||oswegocanastota.com^
 ||owensborowaltonville.com^
 ||owlsheadcoalwood.com^
@@ -116,8 +148,10 @@
 ||pembinecastana.com^
 ||pennvillemuscoda.com^
 ||pepeekeosummershade.com^
+||pequeablockton.rosaliaarnett.com^
 ||peterboroughapalachicola.com^
 ||pinckardpyote.com^
+||reesvillelambric.killawogkanosh.com^
 ||renovosartell.com^
 ||rhinecliffstarkville.com^
 ||rickettsharrell.com^
@@ -129,17 +163,25 @@
 ||rutheronwenonah.com^
 ||saranacwillows.com^
 ||scappoosebirds.com^
+||scarbrotoivola.com^
 ||sedalianoctor.com^
+||sherburnerantoul.waleskamekinock.com^
+||skandialightfoot.diabloweissert.com^
 ||slckhmhphm.com^
+||spottswoodcassoday.eekmarchand.com^
 ||springtownwahiawa.com^
 ||stinnettjarratt.com^
+||talcolerose.dunfermlinemulkeytown.com^
+||thomasvilletingley.greenlawnmantador.com^
 ||tidiouteburket.com^
+||tonalearuskin.wynnewoodmacdoel.com^
 ||toomsborogreycliff.com^
 ||torringtonguion.com^
 ||tougaloocolerain.com^
 ||trimontbrewer.com^
 ||troutdalebrooks.com^
 ||tylertonedwardsport.com^
+||venturatolley.pawpawheidrick.com^
 ||waleskamekinock.com^
 ||wanchesegarvin.com^
 ||watkinsvillesilerton.com^
@@ -149,9 +191,11 @@
 ||wetmoremottville.com^
 ||whitesboromcbee.com^
 ||wilburnkeithsburg.com^
+||willseyvillefingerville.polaccafaison.com^
 ||wynnburgbottineau.com^
 ||wynnewoodmacdoel.com^
 ||yaucoplumerville.com^
+||yawkeyconshohocken.pennvillemuscoda.com^
 ||zelienopleprattsville.com^
 !
 ! AdMaven
@@ -390,6 +434,7 @@
 ||unveterms.online^
 ||ursorsee.pro^
 ||utilistom.info^
+||vaipsona.com^
 ||veningew.info^
 ||vetermsu.info^
 ||webcompon.info^
@@ -1138,6 +1183,7 @@
 ||abruptroad.com^
 ||absentstream.com^
 ||absorbingband.com^
+||absorbingcorn.com^
 ||absurdapple.com^
 ||absurdwater.com^
 ||acquireattention.com^
@@ -1149,9 +1195,11 @@
 ||agreeablestew.com^
 ||agreeabletouch.com^
 ||aheadday.com^
+||ajaralarm.com^
 ||ak0gsh40.com^
 ||alertafterthought.com^
 ||alikearm.com^
+||alleyarm.com^
 ||aloofmetal.com^
 ||ambiguousquilt.com^
 ||ambitiousagreement.com^
@@ -1222,10 +1270,12 @@
 ||cannontwin.com^
 ||capablecows.com^
 ||capablecup.com^
+||capriciouscorn.com^
 ||caringzinc.com^
 ||carriagecan.com^
 ||carscannon.com^
 ||catschickens.com^
+||causecherry.com^
 ||cautiouscredit.com^
 ||chairscrack.com^
 ||channelcamp.com^
@@ -1241,6 +1291,7 @@
 ||clearcomb.com^
 ||cloisteredhydrant.com^
 ||cloudsdestruction.com^
+||coachquartz.com^
 ||colorfulafterthought.com^
 ||comfortablecheese.com^
 ||commoncannon.com^
@@ -1252,6 +1303,7 @@
 ||consciouschairs.com^
 ||consciousdirt.com^
 ||consistpotato.com^
+||controlswim.com^
 ||coordinatedbedroom.com^
 ||coordinatedcub.com^
 ||copperchickens.com^
@@ -1290,6 +1342,7 @@
 ||desiredirt.com^
 ||detailedglue.com^
 ||detailedgovernment.com^
+||detailedkitten.com^
 ||detectdinner.com^
 ||detectdiscovery.com^
 ||discreetfield.com^
@@ -1309,6 +1362,7 @@
 ||driverequest.com^
 ||drivingdirt.com^
 ||drydrum.com^
+||dustywave.com^
 ||earthquakescarf.com^
 ||earthycopy.com^
 ||economicpizzas.com^
@@ -1320,6 +1374,7 @@
 ||elderlytown.com^
 ||elephantqueue.com^
 ||eliminateeffect.com^
+||enchantedtop.com^
 ||encourageidea.com^
 ||encouragingwilderness.com^
 ||endurablecrayon.com^
@@ -1412,6 +1467,7 @@
 ||honeygoldfish.com^
 ||honorableland.com^
 ||humdrumhat.com^
+||hurtgrape.com^
 ||hurtteeth.com^
 ||hystericalhelp.com^
 ||i9w8p.pw^
@@ -1466,6 +1522,7 @@
 ||materialisticfan.com^
 ||materialmoon.com^
 ||medusasailor.com^
+||memopilot.com^
 ||memorizeneck.com^
 ||memorycobweb.com^
 ||meremark.com^
@@ -1480,6 +1537,7 @@
 ||motionlessbag.com^
 ||mountainouspear.com^
 ||mowfruit.com^
+||murkymeeting.com^
 ||mysteriousmonth.com^
 ||necessarywax.com^
 ||neighborlywatch.com^
@@ -1514,6 +1572,7 @@
 ||penspade.com^
 ||perceivequarter.com^
 ||perpetualpail.com^
+||persuadesock.com^
 ||petiteumbrella.com^
 ||photographpan.com^
 ||pietexture.com^
@@ -1521,8 +1580,11 @@
 ||piquantpigs.com^
 ||piquantstove.com^
 ||pizzasnut.com^
+||plainplayground.com^
+||plantpotato.com^
 ||possessivebucket.com^
 ||possibleboats.com^
+||preciousyoke.com^
 ||prefixpatriot.com^
 ||presetrabbits.com^
 ||presssensor.com^
@@ -1601,6 +1663,7 @@
 ||scrubswim.com^
 ||secretivecub.com^
 ||secretspiders.com^
+||seedscissors.com^
 ||selectionship.com^
 ||selectionsugar.com^
 ||selectivesummer.com^
@@ -1626,9 +1689,11 @@
 ||sizesidewalk.com^
 ||slaysweater.com^
 ||sleepcartoon.com^
+||slimopinion.com^
 ||slimyscarf.com^
 ||slipperysack.com^
 ||smashsurprise.com^
+||smilingshake.com^
 ||smilingwaves.com^
 ||smoggysnakes.com^
 ||snakemineral.com^
@@ -1641,6 +1706,7 @@
 ||soresneeze.com^
 ||sorethunder.com^
 ||sortsummer.com^
+||sparklesleet.com^
 ||sparklingnumber.com^
 ||spendpest.com^
 ||spidersboats.com^
@@ -1675,6 +1741,7 @@
 ||stoveseashore.com^
 ||straightnest.com^
 ||straightschool.com^
+||strangesink.com^
 ||stripedburst.com^
 ||strivesidewalk.com^
 ||structurerod.com^
@@ -1729,6 +1796,7 @@
 ||tranquilside.com^
 ||translateoatmeal.com^
 ||trappush.com^
+||treadbun.com^
 ||tremendousplastic.com^
 ||tremendoustime.com^
 ||tremendoustreatment.com^
@@ -1736,6 +1804,7 @@
 ||truckstomatoes.com^
 ||truthfulturn.com^
 ||ttauri.techradar.com^
+||tumblebirds.com^
 ||typicalteeth.com^
 ||tzwaw.pw^
 ||ubiquitousyard.com^
@@ -1771,6 +1840,7 @@
 ||wigglyindustry.com^
 ||wildernesscamera.com^
 ||wirecomic.com^
+||wistfulflight.com^
 ||womanear.com^
 ||workableachiever.com^
 ||workoperation.com^
@@ -1825,6 +1895,7 @@
 ||d16dqaga5j0fjm.cloudfront.net^
 ||d16fk4ms6rqz1v.cloudfront.net^
 ||d16s8pqtk4uodx.cloudfront.net^
+||d179kwmlpc4o47.cloudfront.net^
 ||d17f2fxw547952.cloudfront.net^
 ||d17ialcoirdn28.cloudfront.net^
 ||d17m68fovwmgxj.cloudfront.net^
@@ -1883,6 +1954,7 @@
 ||d1gp9nlx229wzz.cloudfront.net^
 ||d1grtyyel8f1mh.cloudfront.net^
 ||d1gyluhoxet66h.cloudfront.net^
+||d1hi41nc56pmug.cloudfront.net^
 ||d1hl7ya5ggieq0.cloudfront.net^
 ||d1hm0uxglt4t41.cloudfront.net^
 ||d1i2v9a8xom2hy.cloudfront.net^
@@ -1892,6 +1964,7 @@
 ||d1jikhx1ssl81z.cloudfront.net^
 ||d1jl096lp4cce0.cloudfront.net^
 ||d1jq9nooxeft24.cloudfront.net^
+||d1jwpcr0q4pcq0.cloudfront.net^
 ||d1k0glcmk0b5rb.cloudfront.net^
 ||d1k29rhvz38kg5.cloudfront.net^
 ||d1k3dpebxhgqjc.cloudfront.net^
@@ -1921,6 +1994,7 @@
 ||d1noellhv8fksc.cloudfront.net^
 ||d1nu2rn22elx8m.cloudfront.net^
 ||d1o3ws1znr0uv8.cloudfront.net^
+||d1oxlq5h9kq8q5.cloudfront.net^
 ||d1p7elpjrt6qav.cloudfront.net^
 ||d1pcttwib15k25.cloudfront.net^
 ||d1pdpbxj733bb1.cloudfront.net^
@@ -2067,6 +2141,7 @@
 ||d2ggw6du5pulet.cloudfront.net^
 ||d2ghscazvn398x.cloudfront.net^
 ||d2gi7ultltnc2u.cloudfront.net^
+||d2glav2919q4cw.cloudfront.net^
 ||d2gpgaupalra1d.cloudfront.net^
 ||d2gqmq0lf9q8i2.cloudfront.net^
 ||d2gt9oovykfp1z.cloudfront.net^
@@ -2150,6 +2225,7 @@
 ||d2tgev5wuprbqq.cloudfront.net^
 ||d2tgfbvjf3q6hn.cloudfront.net^
 ||d2tnimpzlb191i.cloudfront.net^
+||d2tnx644ijgq6i.cloudfront.net^
 ||d2tycn7nnoiglw.cloudfront.net^
 ||d2ubicnllnnszy.cloudfront.net^
 ||d2ue9k1rhsumed.cloudfront.net^
@@ -2233,6 +2309,7 @@
 ||d37dzu39aqhuxu.cloudfront.net^
 ||d37f9khcllt32v.cloudfront.net^
 ||d37gvrvc0wt4s1.cloudfront.net^
+||d37ju0xanoz6gh.cloudfront.net^
 ||d37kzqe5knnh6t.cloudfront.net^
 ||d37s9vd5t6mov7.cloudfront.net^
 ||d38hmgjgf0kofx.cloudfront.net^
@@ -2266,6 +2343,7 @@
 ||d3cknv5e7a99jg.cloudfront.net^
 ||d3cl7ldsgbm5qu.cloudfront.net^
 ||d3cxv97fi8q177.cloudfront.net^
+||d3d52lhoy0sh2w.cloudfront.net^
 ||d3d5har4hmweni.cloudfront.net^
 ||d3dcugpvnepf41.cloudfront.net^
 ||d3ddidv77grh0f.cloudfront.net^
@@ -2313,6 +2391,7 @@
 ||d3m41swuqq4sv5.cloudfront.net^
 ||d3m79ugzs2d8im.cloudfront.net^
 ||d3mcf0n3hvvfk4.cloudfront.net^
+||d3mjsomixevyw7.cloudfront.net^
 ||d3mskfhorhi2fb.cloudfront.net^
 ||d3n6i6eorggdxk.cloudfront.net^
 ||d3ncat0syb6rim.cloudfront.net^
@@ -2524,6 +2603,7 @@
 ||duct5ntjian71.cloudfront.net^
 ||dufue2m4sondk.cloudfront.net^
 ||duu8lzqdm8tsz.cloudfront.net^
+||duzt6rhr7wo8p.cloudfront.net^
 ||dv0uonokej56p.cloudfront.net^
 ||dv2m1uumnsgtu.cloudfront.net^
 ||dv7t7qyvgyrt5.cloudfront.net^

@@ -50,6 +50,7 @@
 0.0.0.0 d16dqaga5j0fjm.cloudfront.net
 0.0.0.0 d16fk4ms6rqz1v.cloudfront.net
 0.0.0.0 d16s8pqtk4uodx.cloudfront.net
+0.0.0.0 d179kwmlpc4o47.cloudfront.net
 0.0.0.0 d17f2fxw547952.cloudfront.net
 0.0.0.0 d17ialcoirdn28.cloudfront.net
 0.0.0.0 d17m68fovwmgxj.cloudfront.net
@@ -108,6 +109,7 @@
 0.0.0.0 d1gp9nlx229wzz.cloudfront.net
 0.0.0.0 d1grtyyel8f1mh.cloudfront.net
 0.0.0.0 d1gyluhoxet66h.cloudfront.net
+0.0.0.0 d1hi41nc56pmug.cloudfront.net
 0.0.0.0 d1hl7ya5ggieq0.cloudfront.net
 0.0.0.0 d1hm0uxglt4t41.cloudfront.net
 0.0.0.0 d1i2v9a8xom2hy.cloudfront.net
@@ -117,6 +119,7 @@
 0.0.0.0 d1jikhx1ssl81z.cloudfront.net
 0.0.0.0 d1jl096lp4cce0.cloudfront.net
 0.0.0.0 d1jq9nooxeft24.cloudfront.net
+0.0.0.0 d1jwpcr0q4pcq0.cloudfront.net
 0.0.0.0 d1k0glcmk0b5rb.cloudfront.net
 0.0.0.0 d1k29rhvz38kg5.cloudfront.net
 0.0.0.0 d1k3dpebxhgqjc.cloudfront.net
@@ -146,6 +149,7 @@
 0.0.0.0 d1noellhv8fksc.cloudfront.net
 0.0.0.0 d1nu2rn22elx8m.cloudfront.net
 0.0.0.0 d1o3ws1znr0uv8.cloudfront.net
+0.0.0.0 d1oxlq5h9kq8q5.cloudfront.net
 0.0.0.0 d1p7elpjrt6qav.cloudfront.net
 0.0.0.0 d1pcttwib15k25.cloudfront.net
 0.0.0.0 d1pdpbxj733bb1.cloudfront.net
@@ -291,6 +295,7 @@
 0.0.0.0 d2ggw6du5pulet.cloudfront.net
 0.0.0.0 d2ghscazvn398x.cloudfront.net
 0.0.0.0 d2gi7ultltnc2u.cloudfront.net
+0.0.0.0 d2glav2919q4cw.cloudfront.net
 0.0.0.0 d2gpgaupalra1d.cloudfront.net
 0.0.0.0 d2gqmq0lf9q8i2.cloudfront.net
 0.0.0.0 d2gt9oovykfp1z.cloudfront.net
@@ -374,6 +379,7 @@
 0.0.0.0 d2tgev5wuprbqq.cloudfront.net
 0.0.0.0 d2tgfbvjf3q6hn.cloudfront.net
 0.0.0.0 d2tnimpzlb191i.cloudfront.net
+0.0.0.0 d2tnx644ijgq6i.cloudfront.net
 0.0.0.0 d2tycn7nnoiglw.cloudfront.net
 0.0.0.0 d2ubicnllnnszy.cloudfront.net
 0.0.0.0 d2ue9k1rhsumed.cloudfront.net
@@ -457,6 +463,7 @@
 0.0.0.0 d37dzu39aqhuxu.cloudfront.net
 0.0.0.0 d37f9khcllt32v.cloudfront.net
 0.0.0.0 d37gvrvc0wt4s1.cloudfront.net
+0.0.0.0 d37ju0xanoz6gh.cloudfront.net
 0.0.0.0 d37kzqe5knnh6t.cloudfront.net
 0.0.0.0 d37s9vd5t6mov7.cloudfront.net
 0.0.0.0 d38hmgjgf0kofx.cloudfront.net
@@ -490,6 +497,7 @@
 0.0.0.0 d3cknv5e7a99jg.cloudfront.net
 0.0.0.0 d3cl7ldsgbm5qu.cloudfront.net
 0.0.0.0 d3cxv97fi8q177.cloudfront.net
+0.0.0.0 d3d52lhoy0sh2w.cloudfront.net
 0.0.0.0 d3d5har4hmweni.cloudfront.net
 0.0.0.0 d3dcugpvnepf41.cloudfront.net
 0.0.0.0 d3ddidv77grh0f.cloudfront.net
@@ -536,6 +544,7 @@
 0.0.0.0 d3m41swuqq4sv5.cloudfront.net
 0.0.0.0 d3m79ugzs2d8im.cloudfront.net
 0.0.0.0 d3mcf0n3hvvfk4.cloudfront.net
+0.0.0.0 d3mjsomixevyw7.cloudfront.net
 0.0.0.0 d3mskfhorhi2fb.cloudfront.net
 0.0.0.0 d3n6i6eorggdxk.cloudfront.net
 0.0.0.0 d3ncat0syb6rim.cloudfront.net
@@ -747,6 +756,7 @@
 0.0.0.0 duct5ntjian71.cloudfront.net
 0.0.0.0 dufue2m4sondk.cloudfront.net
 0.0.0.0 duu8lzqdm8tsz.cloudfront.net
+0.0.0.0 duzt6rhr7wo8p.cloudfront.net
 0.0.0.0 dv0uonokej56p.cloudfront.net
 0.0.0.0 dv2m1uumnsgtu.cloudfront.net
 0.0.0.0 dv7t7qyvgyrt5.cloudfront.net
