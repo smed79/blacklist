@@ -8,7 +8,7 @@
 # In order to use this list, please use the following address:
 # https://raw.githubusercontent.com/smed79/blacklist/master/hosts.txt
 #
-# Last modified: 2019-11-23 14:40 UTC
+# Last modified: 2020-01-26 17:20 UTC
 #
 # DOMAINS -------------------------------------------------------------------- #
 #
@@ -1912,6 +1912,7 @@
 0.0.0.0 d1pv6e37nco3b2.cloudfront.net
 0.0.0.0 d1q247yvaifpkc.cloudfront.net
 0.0.0.0 d1qc76gneygidm.cloudfront.net
+0.0.0.0 d1qggq1at2gusn.cloudfront.net
 0.0.0.0 d1qk9ujrmkucbl.cloudfront.net
 0.0.0.0 d1qpxk1wfeh8v1.cloudfront.net
 0.0.0.0 d1qtf1avwa1wvl.cloudfront.net
@@ -2098,6 +2099,7 @@
 0.0.0.0 d2o307dm5mqftz.cloudfront.net
 0.0.0.0 d2o5idwacg3gyw.cloudfront.net
 0.0.0.0 d2o67tzzxkqap2.cloudfront.net
+0.0.0.0 d2oa97wrxvxm7y.cloudfront.net
 0.0.0.0 d2oallm7wrqvmi.cloudfront.net
 0.0.0.0 d2od2b2huvmzuj.cloudfront.net
 0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
@@ -2193,6 +2195,7 @@
 0.0.0.0 d33im0067v833a.cloudfront.net
 0.0.0.0 d33otidwg56k90.cloudfront.net
 0.0.0.0 d33t3vvu2t2yu5.cloudfront.net
+0.0.0.0 d33wubrfki0l68.cloudfront.net
 0.0.0.0 d33z8jzg2xbwjp.cloudfront.net
 0.0.0.0 d342r80tvdrdhm.cloudfront.net
 0.0.0.0 d34cznyf2woj3o.cloudfront.net
@@ -2231,6 +2234,7 @@
 0.0.0.0 d39hdzmeufnl50.cloudfront.net
 0.0.0.0 d39iocnrk5rxnb.cloudfront.net
 0.0.0.0 d39xqloz8t5a6x.cloudfront.net
+0.0.0.0 d39yds8oe4n4jq.cloudfront.net
 0.0.0.0 d3a152d8cojds7.cloudfront.net
 0.0.0.0 d3a2okcloueqyx.cloudfront.net
 0.0.0.0 d3a42c7xs4vn3.cloudfront.net
@@ -2285,6 +2289,7 @@
 0.0.0.0 d3jw53rnbzs7gr.cloudfront.net
 0.0.0.0 d3k5fl0ycdyj0l.cloudfront.net
 0.0.0.0 d3k68ig7ckr3r6.cloudfront.net
+0.0.0.0 d3kacx5v2eocxa.cloudfront.net
 0.0.0.0 d3kyk5bao1crtw.cloudfront.net
 0.0.0.0 d3l320urli0p1u.cloudfront.net
 0.0.0.0 d3l3lkinz3f56t.cloudfront.net
@@ -2323,6 +2328,7 @@
 0.0.0.0 d3pvcolmug0tz6.cloudfront.net
 0.0.0.0 d3q2dpprdsteo.cloudfront.net
 0.0.0.0 d3q33rbmdkxzj.cloudfront.net
+0.0.0.0 d3q7vxy7usqoub.cloudfront.net
 0.0.0.0 d3qk9u6c2k2cid.cloudfront.net
 0.0.0.0 d3qszud4qdthr8.cloudfront.net
 0.0.0.0 d3qxwzhswv93jk.cloudfront.net
@@ -2396,6 +2402,7 @@
 0.0.0.0 dc08i221b0n8a.cloudfront.net
 0.0.0.0 dc44qjwal3p07.cloudfront.net
 0.0.0.0 dc5ig2fc8lg83.cloudfront.net
+0.0.0.0 dc5k8fg5ioc8s.cloudfront.net
 0.0.0.0 dc8na2hxrj29i.cloudfront.net
 0.0.0.0 dc8xl0ndzn2cb.cloudfront.net
 0.0.0.0 dcdevtzxo4bb0.cloudfront.net
@@ -2428,6 +2435,7 @@
 0.0.0.0 dfzenk6ej1plw.cloudfront.net
 0.0.0.0 dgkytklfjrqkb.cloudfront.net
 0.0.0.0 dgpp7fq3iorb.cloudfront.net
+0.0.0.0 dgw7ae5vrovs7.cloudfront.net
 0.0.0.0 dh0uktvqfaomb.cloudfront.net
 0.0.0.0 dhc0r49tu1cem.cloudfront.net
 0.0.0.0 dhdtk67w1eua6.cloudfront.net
@@ -2520,6 +2528,7 @@
 0.0.0.0 dviixeyykyqjv.cloudfront.net
 0.0.0.0 dvnafl0qtqz9k.cloudfront.net
 0.0.0.0 dvt4pepo9om3r.cloudfront.net
+0.0.0.0 dvzuqh0qci8dn.cloudfront.net
 0.0.0.0 dwf6crl4raal7.cloudfront.net
 0.0.0.0 dwq4do82y8xi7.cloudfront.net
 0.0.0.0 dwqe0j5428eu5.cloudfront.net
