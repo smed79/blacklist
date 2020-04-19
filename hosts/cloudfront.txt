@@ -509,7 +509,6 @@
 0.0.0.0 d3dphmosjk9rot.cloudfront.net
 0.0.0.0 d3dxsjwcn85hgy.cloudfront.net
 0.0.0.0 d3dytsf4vrjn5x.cloudfront.net
-0.0.0.0 d3e1078hs60k37.cloudfront.net
 0.0.0.0 d3edizycpjjo07.cloudfront.net
 0.0.0.0 d3elm8wezzwg42.cloudfront.net
 0.0.0.0 d3em0905j9y6sm.cloudfront.net
