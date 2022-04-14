@@ -8,12 +8,10 @@
 # In order to use this list, please use the following address:
 # https://raw.githubusercontent.com/smed79/blacklist/master/hosts.txt
 #
-# Last modified: 2020-10-15 05:10 UTC
+# Last modified: 2022-04-14 05:30 UTC
 #
 # DOMAINS -------------------------------------------------------------------- #
 #
-# AdBack
-# https://raw.githubusercontent.com/smed79/blacklist/master/hosts/adback.txt
 0.0.0.0 abramsrentiesville.yaucoplumerville.com
 0.0.0.0 accovillebenicia.sunlandspivey.com
 0.0.0.0 adback.co
@@ -160,9 +158,6 @@
 0.0.0.0 www.adback.co
 0.0.0.0 yabucoavarysburg.owensborowaltonville.com
 0.0.0.0 yawkeyconshohocken.pennvillemuscoda.com
-#
-# AdMaven
-# https://raw.githubusercontent.com/smed79/blacklist/master/hosts/admaven.txt
 0.0.0.0 abarrange.info
 0.0.0.0 abourself.com
 0.0.0.0 achiname.info
@@ -416,9 +411,6 @@
 0.0.0.0 yoursesdecretary.info
 0.0.0.0 yoursinfo.info
 0.0.0.0 zeliteral.info
-#
-# Admeasures
-# https://raw.githubusercontent.com/smed79/blacklist/master/hosts/admeasures.txt
 0.0.0.0 01jud3v55z.com
 0.0.0.0 080jxrab.top
 0.0.0.0 0azx1.com
@@ -1064,9 +1056,6 @@
 0.0.0.0 zvhuevqkmv.com
 0.0.0.0 zxwiejfbyr.com
 0.0.0.0 zy16eoat1w.com
-#
-# Admiral
-# https://raw.githubusercontent.com/smed79/blacklist/master/hosts/admiral.txt
 0.0.0.0 2znp09oa.com
 0.0.0.0 4jnzhl0d0.com
 0.0.0.0 5mcwl.pw
@@ -1763,9 +1752,6 @@
 0.0.0.0 zbwp6ghm.com
 0.0.0.0 zealousfield.com
 0.0.0.0 zlp6s.pw
-#
-# CloudFront
-# https://raw.githubusercontent.com/smed79/blacklist/master/hosts/cloudfront.txt
 0.0.0.0 d10hxp21ljytsr.cloudfront.net
 0.0.0.0 d10lpsik1i8c69.cloudfront.net
 0.0.0.0 d10lumateci472.cloudfront.net
@@ -2662,8 +2648,6 @@
 0.0.0.0 dzs55b7slwyx.cloudfront.net
 0.0.0.0 dzt3uyxd69um2.cloudfront.net
 0.0.0.0 dzxxxg6ij9u99.cloudfront.net
-#
-# DoublePimp
 0.0.0.0 1el-1el-fie.com
 0.0.0.0 1elllwrite.com
 0.0.0.0 1han-rit-ten.com
@@ -2790,9 +2774,6 @@
 0.0.0.0 zip-zip-swan.com
 0.0.0.0 zlacraft.com
 0.0.0.0 zorango.com
-#
-# HilltopAds
-# https://raw.githubusercontent.com/smed79/blacklist/master/hosts/hilltopads.txt
 0.0.0.0 affroba.net
 0.0.0.0 afriflatry.co
 0.0.0.0 ageodortair.info
@@ -2960,9 +2941,6 @@
 0.0.0.0 xleebhxalb.com
 0.0.0.0 xvika.com
 0.0.0.0 zbwttofskjnc.com
-#
-# MobileOffers
-# https://raw.githubusercontent.com/smed79/blacklist/master/hosts/mobileoffers.txt
 0.0.0.0 js.mobileoffers-a-download.com
 0.0.0.0 js.mobileoffers-aa-download.com
 0.0.0.0 js.mobileoffers-ab-download.com
@@ -3111,9 +3089,6 @@
 0.0.0.0 mobileoffers-x-download.com
 0.0.0.0 mobileoffers-y-download.com
 0.0.0.0 mobileoffers-z-download.com
-#
-# PopAds
-# https://raw.githubusercontent.com/smed79/blacklist/master/hosts/popads.txt
 0.0.0.0 anycast.popads.net
 0.0.0.0 banners.popads.net
 0.0.0.0 c1.popads.net
@@ -6597,9 +6572,6 @@
 0.0.0.0 www.zzqnkezokbegc.bid
 0.0.0.0 www.zzvjaqnkq.bid
 0.0.0.0 www.zzwzjidz.bid
-#
-# PropellerAds
-# https://raw.githubusercontent.com/smed79/blacklist/master/hosts/propellerads.txt
 0.0.0.0 0026645142c89aeb1.com
 0.0.0.0 006a039c957c142bb.com
 0.0.0.0 0073dd485d46d930dd9.com
@@ -7618,9 +7590,6 @@
 0.0.0.0 zukxd6fkxqn.com
 0.0.0.0 zuxestou.com
 0.0.0.0 zuzodoad.com
-#
-# Uponit
-# https://raw.githubusercontent.com/smed79/blacklist/master/hosts/uponit.txt
 0.0.0.0 a.acrabakasaka.com
 0.0.0.0 a.ajkelra.com
 0.0.0.0 a.akailoparzapi.com
@@ -7891,17 +7860,12 @@
 0.0.0.0 xhr.zilzolachi.com
 0.0.0.0 xhr.zonolali.com
 0.0.0.0 xhr.zortinah.com
-#
-# Assorted
-# https://raw.githubusercontent.com/smed79/blacklist/master/hosts/assorted.txt
-#
 0.0.0.0 7mu36somt5.com
 0.0.0.0 pti40qv5si.com
 0.0.0.0 vcfs6ip5h6.bid
 0.0.0.0 vg02h8z1ul.me
 0.0.0.0 vqcdjedt9q.com
 0.0.0.0 zgdfz6h7po.me
-#
 0.0.0.0 0gw7e6s3wrao9y3q.pro
 0.0.0.0 1b9cvfi0nwxqelxu.pro
 0.0.0.0 1zlyetcck7klyuy9.pro
@@ -7930,7 +7894,6 @@
 0.0.0.0 xonkmwvz7c0pp5lv.pro
 0.0.0.0 z6uc8er1mzx8n2qd.pro
 0.0.0.0 zcjvqfbl1toyemvm.pro
-#
 0.0.0.0 arana.pw
 0.0.0.0 beiren.xyz
 0.0.0.0 daecan.xyz

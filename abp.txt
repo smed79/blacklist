@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202010150510
+! Version: 202204140601
 ! Title: smed79 BlackList
-! Last modified: 2020-10-15 05:10 UTC
+! Last modified: 2022-04-14 06:01 UTC
 ! Expires: 1 days
 !
 ! Description: BlackList of domains hosting advertisements & other nasty purposes.
@@ -16,8 +16,6 @@
 !
 ! ---------------------------------------------------------------------------- !
 !
-! AdBack
-! https://raw.githubusercontent.com/smed79/blacklist/master/hosts/adback.txt
 ||accovillebenicia.sunlandspivey.com^
 ||adback.co^
 ||albertsonmendocino.com^
@@ -197,9 +195,6 @@
 ||yaucoplumerville.com^
 ||yawkeyconshohocken.pennvillemuscoda.com^
 ||zelienopleprattsville.com^
-!
-! AdMaven
-! https://raw.githubusercontent.com/smed79/blacklist/master/hosts/admaven.txt
 ||abarrange.info^
 ||abourself.com^
 ||achiname.info^
@@ -453,9 +448,6 @@
 ||yoursesdecretary.info^
 ||yoursinfo.info^
 ||zeliteral.info^
-!
-! Admeasures
-! https://raw.githubusercontent.com/smed79/blacklist/master/hosts/admeasures.txt
 ||01jud3v55z.com^
 ||080jxrab.top^
 ||0azx1.com^
@@ -1162,9 +1154,6 @@
 ||zvhuevqkmv.com^
 ||zxwiejfbyr.com^
 ||zy16eoat1w.com^
-!
-! Admiral
-! https://raw.githubusercontent.com/smed79/blacklist/master/hosts/admiral.txt
 ||2znp09oa.com^
 ||35.186.249.84^
 ||35.190.91.111^
@@ -1854,9 +1843,6 @@
 ||zbwp6ghm.com^
 ||zealousfield.com^
 ||zlp6s.pw^
-!
-! CloudFront
-! https://raw.githubusercontent.com/smed79/blacklist/master/hosts/cloudfront.txt
 ||d10hxp21ljytsr.cloudfront.net^
 ||d10lpsik1i8c69.cloudfront.net^
 ||d10lumateci472.cloudfront.net^
@@ -2754,8 +2740,6 @@
 ||dzs55b7slwyx.cloudfront.net^
 ||dzt3uyxd69um2.cloudfront.net^
 ||dzxxxg6ij9u99.cloudfront.net^
-!
-! DoublePimp
 ||1el-1el-fie.com^
 ||1elllwrite.com^
 ||1han-rit-ten.com^
@@ -2882,9 +2866,6 @@
 ||zip-zip-swan.com^
 ||zlacraft.com^
 ||zorango.com^
-!
-! HilltopAds
-! https://raw.githubusercontent.com/smed79/blacklist/master/hosts/hilltopads.txt
 ||adglob.asia^
 ||affroba.net^
 ||afriflatry.co^
@@ -3130,9 +3111,6 @@
 ||xvika.com^
 ||ywtjdckysve.com^
 ||zbwttofskjnc.com^
-!
-! MobileOffers
-! https://raw.githubusercontent.com/smed79/blacklist/master/hosts/mobileoffers.txt
 ||mobileoffers-*-download.com^
 ||mobileoffers-5-a-download.com^
 ||mobileoffers-5-b-download.com^
@@ -3269,9 +3247,6 @@
 ||mobileoffers-x-download.com^
 ||mobileoffers-y-download.com^
 ||mobileoffers-z-download.com^
-!
-! PopAds
-! https://raw.githubusercontent.com/smed79/blacklist/master/hosts/popads.txt
 ||aadbobwqgmzi.com^
 ||aasopqgmzywa.com^
 ||aatmytrykqhi.com^
@@ -6747,9 +6722,6 @@
 ||zzqnkezokbegc.bid^
 ||zzvjaqnkq.bid^
 ||zzwzjidz.bid^
-!
-! PropellerAds
-! https://raw.githubusercontent.com/smed79/blacklist/master/hosts/propellerads.txt
 ||0026645142c89aeb1.com^
 ||006a039c957c142bb.com^
 ||0073dd485d46d930dd9.com^
@@ -7785,9 +7757,6 @@
 ||zukxd6fkxqn.com^
 ||zuxestou.com^
 ||zuzodoad.com^
-!
-! Uponit
-! https://raw.githubusercontent.com/smed79/blacklist/master/hosts/uponit.txt
 ||acrabakasaka.com^
 ||acrabakasakxhr.com^
 ||ajkelra.com^
@@ -8071,17 +8040,12 @@
 ||zozolillxhr.com^
 ||zukabota.com^
 ||zukabotxhr.com^
-!
-! Assorted
-! https://raw.githubusercontent.com/smed79/blacklist/master/hosts/assorted.txt
-!
 ||7mu36somt5.com^
 ||pti40qv5si.com^
 ||vcfs6ip5h6.bid^
 ||vg02h8z1ul.me^
 ||vqcdjedt9q.com^
 ||zgdfz6h7po.me^
-!
 ||0gw7e6s3wrao9y3q.pro^
 ||1b9cvfi0nwxqelxu.pro^
 ||1zlyetcck7klyuy9.pro^
@@ -8110,7 +8074,6 @@
 ||xonkmwvz7c0pp5lv.pro^
 ||z6uc8er1mzx8n2qd.pro^
 ||zcjvqfbl1toyemvm.pro^
-!
 ||arana.pw^
 ||beiren.xyz^
 ||daecan.xyz^
