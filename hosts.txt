@@ -8,7 +8,7 @@
 # In order to use this list, please use the following address:
 # https://raw.githubusercontent.com/smed79/blacklist/master/hosts.txt
 #
-# Last modified: 2022-04-14 07:14 UTC
+# Last modified: 2022-04-14 07:19 UTC
 #
 # DOMAINS -------------------------------------------------------------------- #
 #
@@ -7773,7 +7773,6 @@
 0.0.0.0 collarchefrage.com
 0.0.0.0 collect-ap2.attraqt.io
 0.0.0.0 collect-eu.attraqt.io
-0.0.0.0 collect.*.miui.com
 0.0.0.0 collect.adback.co
 0.0.0.0 collect.alipay.com
 0.0.0.0 collect.helsana.ch
@@ -7785,8 +7784,6 @@
 0.0.0.0 collect.usefathom.com
 0.0.0.0 collectbladders.com
 0.0.0.0 collection-day.com
-0.0.0.0 collector-*.px-client.net
-0.0.0.0 collector-*.tvsquared.com
 0.0.0.0 collector-api.99designs.com
 0.0.0.0 collector-px0py5pczn.octopart.com
 0.0.0.0 collector.automote.co.nz
@@ -19842,8 +19839,6 @@
 0.0.0.0 lodlww.carcon.co.jp
 0.0.0.0 loeingroost.com
 0.0.0.0 lofv.xyz
-0.0.0.0 log*.ku6.com
-0.0.0.0 log-*.previewnetworks.com
 0.0.0.0 log-api.newrelic.com
 0.0.0.0 log-manager.propellerads.com
 0.0.0.0 log.51cto.com
@@ -20984,7 +20979,6 @@
 0.0.0.0 mcdmetrics.aaa.com
 0.0.0.0 mcdncoiw.com
 0.0.0.0 mcdnmv.com
-0.0.0.0 mcdp-*.outbrain.com
 0.0.0.0 mcemifdploi.xyz
 0.0.0.0 mcfcwiudiwywqll.com
 0.0.0.0 mchpowtyj.com
@@ -32004,7 +31998,6 @@
 0.0.0.0 stat-ssl.sumaity.com
 0.0.0.0 stat-ssl.tabelog.com
 0.0.0.0 stat-ssl.tasclap.jp
-0.0.0.0 stat.*.v-56.com
 0.0.0.0 stat.1688.com
 0.0.0.0 stat.5-tv.ru
 0.0.0.0 stat.altalex.com
@@ -33289,7 +33282,6 @@
 0.0.0.0 target.nejm.org
 0.0.0.0 target.ukr.net
 0.0.0.0 targetan.com
-0.0.0.0 targeting.*.arcpublishing.com
 0.0.0.0 targeting.voxus.tv
 0.0.0.0 targeting.washpost.nile.works
 0.0.0.0 targetingnow.com
@@ -34794,7 +34786,6 @@
 0.0.0.0 trackerapi.truste.com
 0.0.0.0 trackerx.ru
 0.0.0.0 tracking-explore.agilent.com
-0.0.0.0 tracking.*.miui.com
 0.0.0.0 tracking.aapa.org
 0.0.0.0 tracking.about.bgov.com
 0.0.0.0 tracking.academicyear.org

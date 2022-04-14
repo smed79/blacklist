@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202204140704
+! Version: 202204140719
 ! Title: smed79 BlackList
-! Last modified: 2022-04-14 07:04 UTC
+! Last modified: 2022-04-14 07:19 UTC
 ! Expires: 1 days
 !
 ! Description: BlackList of domains hosting advertisements & other nasty purposes.
@@ -16,16 +16,6 @@
 !
 ! ---------------------------------------------------------------------------- !
 !
-
-! ||cart.matsuzaka-steak.com^
-! ||clickmail.stubhub.com^
-! ||contactforms.53.com^
-! ||form.ict-toshiba.jp^
-! ||go.fvtc.edu^
-! ||links.strava.com^
-|http://r.i.ua^
-|http://x.o2.pl^
-|https://r.i.ua^
 ||00261bc6d5.com^
 ||0026645142c89aeb1.com^
 ||006a039c957c142bb.com^
@@ -4072,7 +4062,6 @@
 ||apeartalb.site^
 ||apenterprise.io^
 ||aperio.leicabiosystems.com^
-||apester.com/event^
 ||apexwantstar.com^
 ||apgjczhgjrka.com^
 ||apglinks.net^
@@ -7788,7 +7777,6 @@
 ||collarchefrage.com^
 ||collect-ap2.attraqt.io^
 ||collect-eu.attraqt.io^
-||collect.*.miui.com^
 ||collect.adback.co^
 ||collect.alipay.com^
 ||collect.helsana.ch^
@@ -7800,8 +7788,6 @@
 ||collect.usefathom.com^
 ||collectbladders.com^
 ||collection-day.com^
-||collector-*.px-client.net^
-||collector-*.tvsquared.com^
 ||collector-api.99designs.com^
 ||collector-px0py5pczn.octopart.com^
 ||collector.automote.co.nz^
@@ -15836,7 +15822,6 @@
 ||hgzopbyhidre.com^
 ||hgzuqrtzt.com^
 ||hh-btr.com^
-||hh.ru/analytics^
 ||hhgvacopegqbxiu.xyz^
 ||hhit.xyz^
 ||hhllryxtfgypz.com^
@@ -19860,8 +19845,6 @@
 ||lodlww.carcon.co.jp^
 ||loeingroost.com^
 ||lofv.xyz^
-||log*.ku6.com^
-||log-*.previewnetworks.com^
 ||log-api.newrelic.com^
 ||log-manager.propellerads.com^
 ||log.51cto.com^
@@ -21002,7 +20985,6 @@
 ||mcdmetrics.aaa.com^
 ||mcdncoiw.com^
 ||mcdnmv.com^
-||mcdp-*.outbrain.com^
 ||mcemifdploi.xyz^
 ||mcfcwiudiwywqll.com^
 ||mchpowtyj.com^
@@ -21335,7 +21317,6 @@
 ||meproductive.com^
 ||meratsignons.com^
 ||mercadeo.promerica.fi.cr^
-||mercadolibre.com/tracks^
 ||merchenta.com^
 ||mercialtaver.club^
 ||merciselyancies.site^
@@ -27309,7 +27290,6 @@
 ||qzfrmewdbzkcsf.com^
 ||qzgbhuelut.com^
 ||qzlglizfy.com^
-||qzone.qq.com/wspeed.qq.com^
 ||qzvlbjatsgzgn.com^
 ||qzwhzahnieipgz.com^
 ||qzwktr.world-fusigi.net^
@@ -32026,7 +32006,6 @@
 ||stat-ssl.sumaity.com^
 ||stat-ssl.tabelog.com^
 ||stat-ssl.tasclap.jp^
-||stat.*.v-56.com^
 ||stat.1688.com^
 ||stat.5-tv.ru^
 ||stat.altalex.com^
@@ -33311,7 +33290,6 @@
 ||target.nejm.org^
 ||target.ukr.net^
 ||targetan.com^
-||targeting.*.arcpublishing.com^
 ||targeting.voxus.tv^
 ||targeting.washpost.nile.works^
 ||targetingnow.com^
@@ -34817,7 +34795,6 @@
 ||trackerapi.truste.com^
 ||trackerx.ru^
 ||tracking-explore.agilent.com^
-||tracking.*.miui.com^
 ||tracking.aapa.org^
 ||tracking.about.bgov.com^
 ||tracking.academicyear.org^
