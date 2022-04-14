@@ -10,9 +10,32 @@
 # In order to use this list, please use the following address:
 # https://raw.githubusercontent.com/smed79/blacklist/master/extra/fonts.txt
 #
-# Last modified: 2022-04-14 07:35 UTC
+# Last modified: 2022-04-14 07:38 UTC
 #
 # DOMAINS -------------------------------------------------------------------- #
 #
-
+0.0.0.0 cloud.typography.com
+0.0.0.0 cloud.webtype.com
+0.0.0.0 edgefonts.net
+0.0.0.0 fast.fonts.com
+0.0.0.0 fast.fonts.net
+0.0.0.0 fontawesome.com
+0.0.0.0 fontdeck.com
+0.0.0.0 fonts.advance.net
+0.0.0.0 fonts.bauernet.me
+0.0.0.0 fonts.condenast.com
+0.0.0.0 fonts.googleapis.com
+0.0.0.0 fonts.gotraffic.net
+0.0.0.0 fonts.gstatic.com
+0.0.0.0 fonts.nymag.com
+0.0.0.0 fonts.staticworld.net
+0.0.0.0 fonts.timeinc.net
+0.0.0.0 fonts.voxmedia.com
+0.0.0.0 myfontastic.com
+0.0.0.0 myfonts.net
+0.0.0.0 typefront.com
+0.0.0.0 typekit.com
+0.0.0.0 typekit.net
+0.0.0.0 use.fonticons.com
+0.0.0.0 webfonts.creativecloud.com
 #
