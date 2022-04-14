@@ -1,0 +1,18 @@
+# [INFO] --------------------------------------------------------------------- #
+# smed79 HOSTS Anti fonts CDNs
+# HOSTS file list, designed to block fonts CDNs domains
+#
+# /!\ Warning: will break the look and design of some websites.
+#
+# Homepage: https://github.com/smed79/blacklist
+# Licence: (CC BY-NC-SA) http://creativecommons.org/licenses/by-nc-sa/3.0/
+#
+# In order to use this list, please use the following address:
+# https://raw.githubusercontent.com/smed79/blacklist/master/extra/fonts.txt
+#
+# Last modified: 2022-04-14 07:35 UTC
+#
+# DOMAINS -------------------------------------------------------------------- #
+#
+
+#
