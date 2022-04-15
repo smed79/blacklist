@@ -10,7 +10,7 @@
 # In order to use this list, please use the following address:
 # https://raw.githubusercontent.com/smed79/blacklist/master/extra/fonts.txt
 #
-# Last modified: 2022-04-14 07:38 UTC
+# Last modified: 2022-04-15 00:03 UTC
 #
 # DOMAINS -------------------------------------------------------------------- #
 #
@@ -31,6 +31,8 @@
 0.0.0.0 fonts.staticworld.net
 0.0.0.0 fonts.timeinc.net
 0.0.0.0 fonts.voxmedia.com
+0.0.0.0 kit.fontawesome.com
+0.0.0.0 kit.fontawesome.com.cdn.cloudflare.net
 0.0.0.0 myfontastic.com
 0.0.0.0 myfonts.net
 0.0.0.0 typefront.com
