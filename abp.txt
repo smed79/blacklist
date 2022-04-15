@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202204140719
+! Version: 202204150209
 ! Title: smed79 BlackList
-! Last modified: 2022-04-14 07:19 UTC
+! Last modified: 2022-04-15 02:09 UTC
 ! Expires: 1 days
 !
 ! Description: BlackList of domains hosting advertisements & other nasty purposes.
@@ -66,7 +66,6 @@
 ||0926a687679d337e9d.com^
 ||0956228a2df97a.com^
 ||09b950280b055.com^
-||09fee6914d1b6450885.com^
 ||0azx1.com^
 ||0b6e714203b6797e8d4.com^
 ||0b9d84d93f1b.com^
@@ -82,7 +81,6 @@
 ||0ea0e010f8.com^
 ||0eijh8996i.com^
 ||0emn.com^
-||0f12ec21041307c4ddd.com^
 ||0f461325bf56c3e1b9.com^
 ||0ff42a1771d8.com^
 ||0fmm.com^
@@ -107,7 +105,6 @@
 ||0w1rqq69fi0e.com^
 ||0x01n2ptpuz3.com^
 ||0x1f4b0.com^
-||1.fembed.com^
 ||101m3.com^
 ||102c3607fc.com^
 ||103092804.com^
@@ -159,7 +156,6 @@
 ||16ao.mathon.fr^
 ||16e2ae8f200d975b.com^
 ||16yp1ji92a.com^
-||17105392a65.com^
 ||171a60540b.com^
 ||172ipkuobc.com^
 ||1740f665a91b68.com^
@@ -179,7 +175,6 @@
 ||19035955.loyalty.tajawal.com^
 ||19035955.mktg.tajawal.com^
 ||1904fa460e12a2.com^
-||19980ad7c3fa568e092.com^
 ||199a4ae627.com^
 ||199b8977fc.com^
 ||19b45a16170729.com^
@@ -227,7 +222,6 @@
 ||1nimo.com^
 ||1nzm7kwgsxxjz90a.com^
 ||1p1eqpotato.com^
-||1paj4kmp.top^
 ||1phads.com^
 ||1r8435gsqldr.com^
 ||1re.re^
@@ -249,14 +243,12 @@
 ||1wzfew7a.site^
 ||1x96klcdpn.com^
 ||1xdtscudjemp.com^
-||1xpers99.com^
 ||1xroom.com^
 ||1zlyetcck7klyuy9.pro^
 ||1zv9jakhux.com^
 ||1zzs6w25i8n.tube.inflatevids.xyz^
 ||2.biqle.ru^
 ||2020mustang.com^
-||2060d16de8167ebba1f.com^
 ||206ads.com^
 ||20a840a14a0ef7d6.com^
 ||20afcc1f257.com^
@@ -294,6 +286,7 @@
 ||25381bfc0c.com^
 ||25391ebf69.com^
 ||254a.com^
+||255925943c.com^
 ||2559a303164ddde96.com^
 ||25a2143174.com^
 ||26554a376a71735.com^
@@ -319,7 +312,6 @@
 ||2a12be6140880286.com^
 ||2an-hit-ren.com^
 ||2aus34sie6po5m.com^
-||2b044210171c93629ae.com^
 ||2b815136jjjv.com^
 ||2bbb1fdde3f864152.com^
 ||2bbb379103988619ef.com^
@@ -336,7 +328,6 @@
 ||2cnjuh34jbman.com^
 ||2cnjuh34jbpoint.com^
 ||2cnjuh34jbstar.com^
-||2d5072d5732ab.com^
 ||2d52156c065481.com^
 ||2d56d0483a.com^
 ||2delllwrite.com^
@@ -374,9 +365,7 @@
 ||2tpwcqot22mb.com^
 ||2tty.overstappen.nl^
 ||2v1xq54yxm.com^
-||2xuyib43.top^
 ||2ypmo2nhgf.com^
-||2z0a4r31.top^
 ||2znp09oa.com^
 ||3000f4e548.com^
 ||300b4a934f.com^
@@ -411,7 +400,6 @@
 ||33e429d29e.com^
 ||340ca72733c9e46fb1.com^
 ||341073be6e9db7d2.com^
-||3412bf88fc05a986e55.com^
 ||342151ed6e.com^
 ||344dea1d6d130a7e8e.com^
 ||348wd7etbann.com^
@@ -439,7 +427,6 @@
 ||38486e2886986.com^
 ||386704cb2300cf1a.com^
 ||3878896c72ed218.com^
-||38f30081974c52.com^
 ||3901da0f4a.com^
 ||391e04933a.com^
 ||392a50219df6.com^
@@ -467,19 +454,15 @@
 ||3c5f0e501db37.com^
 ||3c76eee2407c7c1.com^
 ||3ca28642b714623b2.com^
-||3cb06e7a174a55da.com^
 ||3cba8b24a1.com^
 ||3cd99930e27056f89.com^
 ||3cdafa6f67.com^
 ||3d0da2373af57.com^
-||3d1504306f119f192.com^
 ||3d55eccf56053ff2e8.com^
 ||3d643f542787c62a7.com^
-||3d745b2a9ce52.com^
 ||3delllwrite.com^
 ||3e35c218b3d623dde.com^
 ||3e41501a36.com^
-||3e612a08c1e4ad1c7.com^
 ||3e61gdwn1r.com^
 ||3e787c93af8de.com^
 ||3ec9b1217d.com^
@@ -538,9 +521,7 @@
 ||45d2bbfb2a.com^
 ||45eijvhgj2.com^
 ||45f2373b26b8e2.com^
-||46186911.vtt^
 ||4690y10pvpq8.com^
-||46b77243fb11e8b5.com^
 ||46d845a455.com^
 ||4702fb341ddf276d.com^
 ||470d2b0f462.com^
@@ -558,9 +539,7 @@
 ||493b0eda03.com^
 ||493b98cce8bc1a2dd.com^
 ||494d36630eae682b20.com^
-||496eecb186a6635c.com^
 ||49863d99e314a.com^
-||49be233434d0.com^
 ||49cf142c45.com^
 ||49cgvg0fx0.com^
 ||49oa3o49b6.com^
@@ -618,14 +597,12 @@
 ||508ec56533e3937e.com^
 ||50h6v79p.top^
 ||50trk.com^
-||512226d4c3039765.com^
 ||5150ab4aa5.com^
 ||51628bcde4.com^
 ||51b05be022.com^
 ||51nlno7cgy.com^
 ||5206a9500e.com^
 ||520886.xyz^
-||528cc328842e5f54c.com^
 ||52b7d78514f3cb9d.com^
 ||52ddc254575a.com^
 ||53229de00c41609ce.com^
@@ -660,6 +637,7 @@
 ||58b291f917728a2.com^
 ||58c036d100.com^
 ||59151d56e9.com^
+||592eb4ef33.com^
 ||595fb25f30.com^
 ||597437c124.com^
 ||59cn7.com^
@@ -670,18 +648,15 @@
 ||5b5a93686577c13.com^
 ||5b80b2be21.com^
 ||5bir9vuqcq.com^
-||5c1deabe3202c11c1.com^
 ||5c577fc74618431b.com^
 ||5c904214ff.com^
 ||5cb9a301ae.com^
-||5cripa2s.top^
 ||5cwr93yyd4lf.com^
 ||5d02977f6511aa.com^
 ||5dabf928ad9ad4.com^
 ||5df48854b1.com^
 ||5dimes.com^
 ||5e01f27136.com^
-||5e148a69a8c.com^
 ||5e1d3c4097.com^
 ||5e1fcb75b6d662d.com^
 ||5e8bba5e95ec.com^
@@ -692,7 +667,6 @@
 ||5f6dmzflgqso.com^
 ||5f8fbbfc2244adc9.com^
 ||5faad595f4.com^
-||5ff794f4b80.com^
 ||5fm.985fm.ca^
 ||5g65ymza39.com^
 ||5h5d8lt8me.com^
@@ -703,7 +677,6 @@
 ||5nt1gx7o57.com^
 ||5odjin7ipi.com^
 ||5ovrmmmoubi71efvatfd.com^
-||5p0utbv2mjq1.www.earthclassmail.com^
 ||5pcm42ka7r.com^
 ||5qg9ibt1a6.com^
 ||5s19lmhktu.com^
@@ -723,8 +696,6 @@
 ||615b68cc9c8528e.com^
 ||61739011039d41a.com^
 ||6198399e4910e66-ovc.com^
-||6198399e4910e66-ovc.net^
-||6198399e4910e66.com^
 ||61b2a5278e6383b.com^
 ||61b50f2b935cbb6.com^
 ||6200a50af8e3.com^
@@ -906,6 +877,7 @@
 ||7b0beeacad.com^
 ||7b48b71367a1b6c1.com^
 ||7b532401e9.com^
+||7baa2e17f3.com^
 ||7c060ad96a.com^
 ||7c0616849b.com^
 ||7c48ae90bb0f229cbd.com^
