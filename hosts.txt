@@ -8,7 +8,7 @@
 # In order to use this list, please use the following address:
 # https://raw.githubusercontent.com/smed79/blacklist/master/hosts.txt
 #
-# Last modified: 2022-04-14 07:19 UTC
+# Last modified: 2022-04-15 02:11 UTC
 #
 # DOMAINS -------------------------------------------------------------------- #
 #
@@ -114,6 +114,8 @@
 0.0.0.0 1100i.com
 0.0.0.0 110380d053f716c4.com
 0.0.0.0 110d6dc54b.com
+0.0.0.0 110d6dc54b.com
+0.0.0.0 110d6dc54b.com
 0.0.0.0 117d0d6899.com
 0.0.0.0 118aa629a7968e75e.com
 0.0.0.0 118bfe5b01.com
@@ -145,10 +147,13 @@
 0.0.0.0 14b41d7ec7766122d.com
 0.0.0.0 14nuzznszbdp.com
 0.0.0.0 1506527e41.com
+0.0.0.0 1506527e41.com
+0.0.0.0 1506527e41.com
 0.0.0.0 151c1501b0fa.com
 0.0.0.0 153105c2f9564.com
 0.0.0.0 153250f052d.com
 0.0.0.0 1543b1db8a0825760.com
+0.0.0.0 15ba8a8998.com
 0.0.0.0 15ba8a8998.com
 0.0.0.0 15cacaospice63nhdk.com
 0.0.0.0 165a7c15380874ef3.com
@@ -177,6 +182,8 @@
 0.0.0.0 1904fa460e12a2.com
 0.0.0.0 19980ad7c3fa568e092.com
 0.0.0.0 199a4ae627.com
+0.0.0.0 199a4ae627.com
+0.0.0.0 199a4ae627.com
 0.0.0.0 199b8977fc.com
 0.0.0.0 19b45a16170729.com
 0.0.0.0 19beda38dc2ce42.com
@@ -198,6 +205,8 @@
 0.0.0.0 1da19a918c.com
 0.0.0.0 1dece427d89.com
 0.0.0.0 1e122c580cf.com
+0.0.0.0 1e46e721dc.com
+0.0.0.0 1e46e721dc.com
 0.0.0.0 1e46e721dc.com
 0.0.0.0 1e546a4cc5.com
 0.0.0.0 1ea1sley.com
@@ -268,6 +277,7 @@
 0.0.0.0 21sexturycash.com
 0.0.0.0 225c34aba07.com
 0.0.0.0 2276bf7413.com
+0.0.0.0 2276bf7413.com
 0.0.0.0 22a12efe35e3c2f.com
 0.0.0.0 22b765488021d482280.com
 0.0.0.0 22f9ab9c23fb9073.com
@@ -276,6 +286,8 @@
 0.0.0.0 2334ea708ab6d79.com
 0.0.0.0 233fa9221f.com
 0.0.0.0 235630618b.com
+0.0.0.0 235630618b.com
+0.0.0.0 235630618b.com
 0.0.0.0 23a6b8b0afb.com
 0.0.0.0 24-sportnews.com
 0.0.0.0 2444efc8cd8e.com
@@ -283,6 +295,10 @@
 0.0.0.0 24ad89fc2690ed9369.com
 0.0.0.0 24affiliates.com
 0.0.0.0 24df420ec6.com
+0.0.0.0 24df420ec6.com
+0.0.0.0 24df420ec6.com
+0.0.0.0 24fa533251.com
+0.0.0.0 24fa533251.com
 0.0.0.0 24fa533251.com
 0.0.0.0 24newstech.com
 0.0.0.0 24vunvrv.com
@@ -290,6 +306,8 @@
 0.0.0.0 25381bfc0c.com
 0.0.0.0 25391ebf69.com
 0.0.0.0 254a.com
+0.0.0.0 255925943c.com
+0.0.0.0 255925943c.com
 0.0.0.0 2559a303164ddde96.com
 0.0.0.0 25a2143174.com
 0.0.0.0 26554a376a71735.com
@@ -343,6 +361,7 @@
 0.0.0.0 2el-2el-fie.com
 0.0.0.0 2f5a1f1fab21a56.com
 0.0.0.0 2fe913d83a.com
+0.0.0.0 2fe913d83a.com
 0.0.0.0 2g6gj3aojcrj.com
 0.0.0.0 2go7v1nes8.com
 0.0.0.0 2gok8g15p2.com
@@ -383,7 +402,11 @@
 0.0.0.0 309d5f826829f8c6.com
 0.0.0.0 30b9e3a7d7e2b.com
 0.0.0.0 30bb2e98be.com
+0.0.0.0 30bb2e98be.com
+0.0.0.0 30bb2e98be.com
 0.0.0.0 30daychange.co
+0.0.0.0 30ee074897.com
+0.0.0.0 30ee074897.com
 0.0.0.0 30ee074897.com
 0.0.0.0 3160f607c5.com
 0.0.0.0 3163c69273.com
@@ -401,6 +424,7 @@
 0.0.0.0 3347.wolf-gordon.com
 0.0.0.0 3381e74f70adfb59.com
 0.0.0.0 338f4d497f.com
+0.0.0.0 338f4d497f.com
 0.0.0.0 3393.com
 0.0.0.0 33ae985c0ea917.com
 0.0.0.0 33ceaea337.cfd
@@ -408,6 +432,8 @@
 0.0.0.0 340ca72733c9e46fb1.com
 0.0.0.0 341073be6e9db7d2.com
 0.0.0.0 3412bf88fc05a986e55.com
+0.0.0.0 342151ed6e.com
+0.0.0.0 342151ed6e.com
 0.0.0.0 342151ed6e.com
 0.0.0.0 344dea1d6d130a7e8e.com
 0.0.0.0 348wd7etbann.com
@@ -445,8 +471,10 @@
 0.0.0.0 39785fe3f1.com
 0.0.0.0 399a240ee2.com
 0.0.0.0 39bace7344.com
+0.0.0.0 39bace7344.com
 0.0.0.0 39d1d397c97730.com
 0.0.0.0 39irqwnzlv.com
+0.0.0.0 3a57c13de7.com
 0.0.0.0 3a57c13de7.com
 0.0.0.0 3a64ddc048d277.com
 0.0.0.0 3a8c9b0ca405b5.com
@@ -479,6 +507,7 @@
 0.0.0.0 3e61gdwn1r.com
 0.0.0.0 3e787c93af8de.com
 0.0.0.0 3ec9b1217d.com
+0.0.0.0 3ec9b1217d.com
 0.0.0.0 3el-3el-fie.com
 0.0.0.0 3f32172d509aeb0.com
 0.0.0.0 3fp43qvh.trade
@@ -502,13 +531,16 @@
 0.0.0.0 3wr110.xyz
 0.0.0.0 3z6hirxo24.com
 0.0.0.0 4022cfe7d9.com
+0.0.0.0 4022cfe7d9.com
 0.0.0.0 407433bfc441.com
 0.0.0.0 40798d4cf5.com
 0.0.0.0 40ceexln7929.com
 0.0.0.0 4113705a84.com
+0.0.0.0 4113705a84.com
 0.0.0.0 4141d006e4f4dd17ab9.com
 0.0.0.0 414a048c3b.com
 0.0.0.0 41df76c67812005c.com
+0.0.0.0 41ee789d61.com
 0.0.0.0 41ee789d61.com
 0.0.0.0 41ef19c0f0794e058c.com
 0.0.0.0 421npyd4nd.com
@@ -532,9 +564,9 @@
 0.0.0.0 452428e4ea.com
 0.0.0.0 45a3fe976c.com
 0.0.0.0 45d2bbfb2a.com
+0.0.0.0 45d2bbfb2a.com
 0.0.0.0 45eijvhgj2.com
 0.0.0.0 45f2373b26b8e2.com
-0.0.0.0 46186911.vtt
 0.0.0.0 4690y10pvpq8.com
 0.0.0.0 46b77243fb11e8b5.com
 0.0.0.0 46d845a455.com
@@ -589,6 +621,8 @@
 0.0.0.0 4f6c963f07f67bd.com
 0.0.0.0 4fb0a3bf4a3d38.com
 0.0.0.0 4fde9983d9.com
+0.0.0.0 4fde9983d9.com
+0.0.0.0 4fde9983d9.com
 0.0.0.0 4hfchest5kdnfnut.com
 0.0.0.0 4ij4g22t67.com
 0.0.0.0 4jnzhl0d0.com
@@ -619,6 +653,8 @@
 0.0.0.0 51628bcde4.com
 0.0.0.0 51b05be022.com
 0.0.0.0 51nlno7cgy.com
+0.0.0.0 5206a9500e.com
+0.0.0.0 5206a9500e.com
 0.0.0.0 5206a9500e.com
 0.0.0.0 520886.xyz
 0.0.0.0 528cc328842e5f54c.com
@@ -656,6 +692,9 @@
 0.0.0.0 58b291f917728a2.com
 0.0.0.0 58c036d100.com
 0.0.0.0 59151d56e9.com
+0.0.0.0 592eb4ef33.com
+0.0.0.0 592eb4ef33.com
+0.0.0.0 595fb25f30.com
 0.0.0.0 595fb25f30.com
 0.0.0.0 597437c124.com
 0.0.0.0 59cn7.com
@@ -664,6 +703,8 @@
 0.0.0.0 5advertise.com
 0.0.0.0 5b564b0f61.com
 0.0.0.0 5b5a93686577c13.com
+0.0.0.0 5b80b2be21.com
+0.0.0.0 5b80b2be21.com
 0.0.0.0 5b80b2be21.com
 0.0.0.0 5bir9vuqcq.com
 0.0.0.0 5c1deabe3202c11c1.com
@@ -682,6 +723,7 @@
 0.0.0.0 5e1fcb75b6d662d.com
 0.0.0.0 5e8bba5e95ec.com
 0.0.0.0 5edb123fa3329.com
+0.0.0.0 5ef80ae889.com
 0.0.0.0 5ef80ae889.com
 0.0.0.0 5f12bc6600.com
 0.0.0.0 5f2eafd708.com
@@ -787,6 +829,7 @@
 0.0.0.0 6bd9a2ea1a1801e55.com
 0.0.0.0 6bgaput9ullc.com
 0.0.0.0 6c25910c97.com
+0.0.0.0 6c25910c97.com
 0.0.0.0 6c37f8a12dede103bf7.com
 0.0.0.0 6c6a4ec4e8b80d4.com
 0.0.0.0 6d1f34578fc7cc70.com
@@ -800,6 +843,8 @@
 0.0.0.0 6f793cc9999.com
 0.0.0.0 6fa5633abf4b53a1.com
 0.0.0.0 6fbcee81318.com
+0.0.0.0 6fd3bbada2.com
+0.0.0.0 6fd3bbada2.com
 0.0.0.0 6fd3bbada2.com
 0.0.0.0 6feb9e3f20.com
 0.0.0.0 6ff2f7bf3d.com
@@ -832,6 +877,7 @@
 0.0.0.0 70fd25cf5a7b1c57.com
 0.0.0.0 712e2a170bb3.com
 0.0.0.0 713d79e3192eb21c.com
+0.0.0.0 7148a2c4fd.com
 0.0.0.0 7148a2c4fd.com
 0.0.0.0 71692fai4cc0.com
 0.0.0.0 71a30cae934e.com
@@ -897,15 +943,21 @@
 0.0.0.0 7a864ece03.com
 0.0.0.0 7ac5bed8bea5.com
 0.0.0.0 7adea8620f.com
+0.0.0.0 7adea8620f.com
 0.0.0.0 7aecd4ee5edfbb703be.com
 0.0.0.0 7anfpatlo8lwmb.com
 0.0.0.0 7b0beeacad.com
 0.0.0.0 7b48b71367a1b6c1.com
 0.0.0.0 7b532401e9.com
+0.0.0.0 7baa2e17f3.com
+0.0.0.0 7baa2e17f3.com
+0.0.0.0 7c060ad96a.com
 0.0.0.0 7c060ad96a.com
 0.0.0.0 7c0616849b.com
 0.0.0.0 7c48ae90bb0f229cbd.com
 0.0.0.0 7c617f8a7e.com
+0.0.0.0 7c85cc55b9.com
+0.0.0.0 7c85cc55b9.com
 0.0.0.0 7c85cc55b9.com
 0.0.0.0 7ca78m3csgbrid7ge.com
 0.0.0.0 7cbb237b705ae9361.com
@@ -926,6 +978,7 @@
 0.0.0.0 7f011d5e07db.com
 0.0.0.0 7f19b1713b43f7db.com
 0.0.0.0 7f3adt.com
+0.0.0.0 7f59b515a6.com
 0.0.0.0 7f59b515a6.com
 0.0.0.0 7f83ae5830.com
 0.0.0.0 7f8e91975bdc9c5f1c.com
@@ -978,6 +1031,7 @@
 0.0.0.0 833e4c13ecc.com
 0.0.0.0 8387334b12ae7d.com
 0.0.0.0 840df00e08.com
+0.0.0.0 840df00e08.com
 0.0.0.0 84544232a4185d6.com
 0.0.0.0 8462d0b3cc90c90.com
 0.0.0.0 8467d2688e4a4.com
@@ -989,15 +1043,19 @@
 0.0.0.0 8574b6a733f1de.com
 0.0.0.0 85b333a64c.com
 0.0.0.0 85e954452d.com
+0.0.0.0 85e954452d.com
 0.0.0.0 85eaf2df880b162.com
 0.0.0.0 86240336d5604d7.com
 0.0.0.0 86402d8a7f2aa0.com
 0.0.0.0 864db374c6.com
+0.0.0.0 864db374c6.com
 0.0.0.0 864feb57ruary.com
+0.0.0.0 866e69bc8e.com
 0.0.0.0 866e69bc8e.com
 0.0.0.0 8672.site
 0.0.0.0 86a6b542l7.com
 0.0.0.0 86a7149f2c.com
+0.0.0.0 86b16730f8.com
 0.0.0.0 86b16730f8.com
 0.0.0.0 86cb1dcb13ba5a1a.com
 0.0.0.0 86f4fd3b507f774.com
@@ -1012,11 +1070,15 @@
 0.0.0.0 88hb7evabd.com
 0.0.0.0 891904ed87.com
 0.0.0.0 8a080862f3.com
+0.0.0.0 8a080862f3.com
+0.0.0.0 8a080862f3.com
 0.0.0.0 8a78031439.com
 0.0.0.0 8a8cq8c8yyqjs2xr.pro
 0.0.0.0 8a90f9d6e4.com
 0.0.0.0 8aa29258e4.com
 0.0.0.0 8b0b17dc1f9f8010.com
+0.0.0.0 8b1f93b707.com
+0.0.0.0 8b1f93b707.com
 0.0.0.0 8b1f93b707.com
 0.0.0.0 8b2228fecb.com
 0.0.0.0 8b4b041006.com
@@ -1059,6 +1121,7 @@
 0.0.0.0 900bets10.com
 0.0.0.0 9053fe03868ab.com
 0.0.0.0 90cd7fb7ca.com
+0.0.0.0 90cd7fb7ca.com
 0.0.0.0 9104cecde1c32cb25f5.com
 0.0.0.0 91475d578d.com
 0.0.0.0 91aa46b949d20.com
@@ -1066,9 +1129,15 @@
 0.0.0.0 91effa509f8f15a.com
 0.0.0.0 921ce2aa2264.com
 0.0.0.0 92291944cd.com
+0.0.0.0 92291944cd.com
+0.0.0.0 92291944cd.com
 0.0.0.0 924e60106cd9d0e.com
 0.0.0.0 927a8dd1afec73.com
 0.0.0.0 93348ef7f0.com
+0.0.0.0 93348ef7f0.com
+0.0.0.0 93348ef7f0.com
+0.0.0.0 934a46b417.com
+0.0.0.0 934a46b417.com
 0.0.0.0 934a46b417.com
 0.0.0.0 9376ec23d50b1.com
 0.0.0.0 939237cdc62078.com
@@ -1086,6 +1155,7 @@
 0.0.0.0 967rett6fzaf.com
 0.0.0.0 9688aae6a392f42.com
 0.0.0.0 969ad027f0.com
+0.0.0.0 96e0993c2f.com
 0.0.0.0 96e0993c2f.com
 0.0.0.0 96e8abd9c4.com
 0.0.0.0 96f2473b9ba9244f.com
@@ -1440,6 +1510,8 @@
 0.0.0.0 a23-trk.xyz
 0.0.0.0 a23509.actonservice.com
 0.0.0.0 a23e391b84.com
+0.0.0.0 a23e391b84.com
+0.0.0.0 a23e391b84.com
 0.0.0.0 a24273.actonservice.com
 0.0.0.0 a24335001.actonservice.com
 0.0.0.0 a24336001.actonservice.com
@@ -1584,6 +1656,8 @@
 0.0.0.0 a2af4f04914ed298.com
 0.0.0.0 a2ba3784cb354807d.com
 0.0.0.0 a2c653c4d145fa5f96a.com
+0.0.0.0 a2da1e1184.com
+0.0.0.0 a2da1e1184.com
 0.0.0.0 a2da1e1184.com
 0.0.0.0 a2fcb07a505c.com
 0.0.0.0 a2nn5eri7ce.com
@@ -1814,6 +1888,7 @@
 0.0.0.0 a5e2ef28b5.com
 0.0.0.0 a5ee094155.com
 0.0.0.0 a615d4c326.com
+0.0.0.0 a615d4c326.com
 0.0.0.0 a63t9o1azf.com
 0.0.0.0 a66675b6ab.com
 0.0.0.0 a67z.com
@@ -1863,6 +1938,7 @@
 0.0.0.0 a882299d44.com
 0.0.0.0 a8aspconv.xn--biglobe-kc9k.com
 0.0.0.0 a8aspconv.xn--ocn-ws1e.jp
+0.0.0.0 a8c171db33.com
 0.0.0.0 a8c171db33.com
 0.0.0.0 a8c37822e110e3.com
 0.0.0.0 a8click.you-up.com
@@ -4856,6 +4932,8 @@
 0.0.0.0 b370db8cb7.com
 0.0.0.0 b3ad0c7867.com
 0.0.0.0 b3fb511da0.com
+0.0.0.0 b3fb511da0.com
+0.0.0.0 b3fb511da0.com
 0.0.0.0 b3ff2cfeb6f49e.com
 0.0.0.0 b3ra6hmstrioek54er.com
 0.0.0.0 b3stcond1tions.com
@@ -4875,6 +4953,8 @@
 0.0.0.0 b5bb2ecc8e.com
 0.0.0.0 b5e75c56.com
 0.0.0.0 b62c8d1a6b.com
+0.0.0.0 b62c8d1a6b.com
+0.0.0.0 b6852c8ea5.com
 0.0.0.0 b6852c8ea5.com
 0.0.0.0 b6aa6257a22451c.com
 0.0.0.0 b6b4rhsbdawj.com
@@ -5467,6 +5547,9 @@
 0.0.0.0 bfc70a51929fff2d7fe.com
 0.0.0.0 bfe4e6d364be199.com
 0.0.0.0 bfeb247ed9.com
+0.0.0.0 bfeb247ed9.com
+0.0.0.0 bfeb247ed9.com
+0.0.0.0 bff6b409f7.com
 0.0.0.0 bff6b409f7.com
 0.0.0.0 bff76ca63a.com
 0.0.0.0 bffcjwhnbppxmh.com
@@ -6501,6 +6584,8 @@
 0.0.0.0 c7486c5c0a.com
 0.0.0.0 c75b9ac5103e5d125b8.com
 0.0.0.0 c785e43db1.com
+0.0.0.0 c785e43db1.com
+0.0.0.0 c785e43db1.com
 0.0.0.0 c7d470df880b1d0.com
 0.0.0.0 c7e4d34b2afc3.com
 0.0.0.0 c810b4e386a121f20.com
@@ -6513,12 +6598,14 @@
 0.0.0.0 c9e5089374.com
 0.0.0.0 c9emgwai66zi.com
 0.0.0.0 c9fdfce120.com
+0.0.0.0 c9fdfce120.com
 0.0.0.0 ca.creditacceptance.com
 0.0.0.0 ca.mattamyhomes.com
 0.0.0.0 ca4363f2035eb8674cc42e2787ffb3bb.bar
 0.0.0.0 ca4ec6874a33a13.com
 0.0.0.0 ca58d94915.com
 0.0.0.0 ca638b6c5a45059.com
+0.0.0.0 ca65b1531c.com
 0.0.0.0 ca65b1531c.com
 0.0.0.0 ca72472d7aee.com
 0.0.0.0 ca867c69a5d34.com
@@ -6529,6 +6616,8 @@
 0.0.0.0 cabineteen.club
 0.0.0.0 cabirm.com
 0.0.0.0 cabnnr.com
+0.0.0.0 cacb0fa258.com
+0.0.0.0 cacb0fa258.com
 0.0.0.0 cacb0fa258.com
 0.0.0.0 cacfbf85ad2005e4c31.com
 0.0.0.0 cache2.delvenetworks.com
@@ -9514,6 +9603,8 @@
 0.0.0.0 d4110b7044.com
 0.0.0.0 d42tbok7l2bg1.cloudfront.net
 0.0.0.0 d44a6fef5a.com
+0.0.0.0 d44a6fef5a.com
+0.0.0.0 d44a6fef5a.com
 0.0.0.0 d4624d2bc2.com
 0.0.0.0 d49z64r3ud4kq.cloudfront.net
 0.0.0.0 d4ax0r5detcsu.cloudfront.net
@@ -9561,7 +9652,9 @@
 0.0.0.0 d830x8j3o1b2k.cloudfront.net
 0.0.0.0 d869381a42af33b.com
 0.0.0.0 d870bc20cc.com
+0.0.0.0 d870bc20cc.com
 0.0.0.0 d87c82a1da.com
+0.0.0.0 d8af4fb8c1.com
 0.0.0.0 d8af4fb8c1.com
 0.0.0.0 d8b440faa110b.com
 0.0.0.0 d8d4ab7673.com
@@ -9870,6 +9963,7 @@
 0.0.0.0 dd6d6d21a22e.com
 0.0.0.0 dd6zx4ibq538k.cloudfront.net
 0.0.0.0 ddaac98f67e384d8a9.com
+0.0.0.0 ddc08eb47c.com
 0.0.0.0 ddc08eb47c.com
 0.0.0.0 dddgndcqajr.com
 0.0.0.0 dddomainccc.com
@@ -11286,6 +11380,7 @@
 0.0.0.0 e53ecb6bf4460898b.com
 0.0.0.0 e5a87pq.com
 0.0.0.0 e5asyhilodice.com
+0.0.0.0 e5bbd2cdb0.com
 0.0.0.0 e5bbd2cdb0.com
 0.0.0.0 e5obq1v261.www.lurkit.com
 0.0.0.0 e5omau19i7.com
