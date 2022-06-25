@@ -8,7 +8,7 @@
 # In order to use this list, please use the following address:
 # https://raw.githubusercontent.com/smed79/blacklist/master/hosts.txt
 #
-# Last modified: 2022-06-25 06:22 UTC
+# Last modified: 2022-06-25 06:36 UTC
 #
 # DOMAINS -------------------------------------------------------------------- #
 #
