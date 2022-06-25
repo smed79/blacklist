@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202206181818
+! Version: 202206250622
 ! Title: smed79 BlackList
-! Last modified: 2022-06-18 18:18 UTC
+! Last modified: 2022-06-25 06:22 UTC
 ! Expires: 1 days
 !
 ! Description: BlackList of domains hosting advertisements & other nasty purposes.
@@ -23530,7 +23530,6 @@
 ||monijorb.com^
 ||moninosa.com^
 ||moninosxhr.com^
-||monitor.azure.com^
 ||monitor.channel4.com^
 ||monitor.music.qq.com^
 ||monkeybroker.net^

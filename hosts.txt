@@ -8,7 +8,7 @@
 # In order to use this list, please use the following address:
 # https://raw.githubusercontent.com/smed79/blacklist/master/hosts.txt
 #
-# Last modified: 2022-05-18 18:30 UTC
+# Last modified: 2022-06-25 06:22 UTC
 #
 # DOMAINS -------------------------------------------------------------------- #
 #
@@ -23524,7 +23524,6 @@
 0.0.0.0 monijorb.com
 0.0.0.0 moninosa.com
 0.0.0.0 moninosxhr.com
-0.0.0.0 monitor.azure.com
 0.0.0.0 monitor.channel4.com
 0.0.0.0 monitor.music.qq.com
 0.0.0.0 monkeybroker.net
