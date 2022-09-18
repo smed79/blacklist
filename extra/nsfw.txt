@@ -8,7 +8,7 @@
 # In order to use this list, please use the following address:
 # https://raw.githubusercontent.com/smed79/blacklist/master/extra/nsfw.txt
 #
-# Last modified: 2022-09-18 08:38 UTC
+# Last modified: 2022-09-18 09:10 UTC
 #
 # DOMAINS -------------------------------------------------------------------- #
 #
