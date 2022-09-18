@@ -8,7 +8,7 @@
 # In order to use this list, please use the following address:
 # https://raw.githubusercontent.com/smed79/blacklist/master/extra/facebook.txt
 #
-# Last modified: 2020-03-15 16:03 UTC
+# Last modified: 2022-09-18 08:38 UTC
 #
 # DOMAINS -------------------------------------------------------------------- #
 #
@@ -21,6 +21,7 @@
 0.0.0.0 1-edege-chat.messenger.com
 0.0.0.0 1-edge-chat.facebook.com
 0.0.0.0 1-edge-chat.messenger.com
+0.0.0.0 1-ml-in.facebook.com.tw
 0.0.0.0 1.m.me
 0.0.0.0 1907113739430074.fb.me
 0.0.0.0 2-edge-chat-latest.messenger.com
@@ -55,6 +56,7 @@
 0.0.0.0 a17-112-144-50.fb.me
 0.0.0.0 a17-112-152-32.fb.me
 0.0.0.0 a5.fb.me
+0.0.0.0 about.facebook.com
 0.0.0.0 about.fb.com
 0.0.0.0 acestrea.m.me
 0.0.0.0 ae0.bb01.ams2.tfbnw.net
@@ -166,6 +168,7 @@
 0.0.0.0 apps-929526610591433.apps.fbsbx.com
 0.0.0.0 apps-936118136567755.apps.fbsbx.com
 0.0.0.0 apps.facebook.com
+0.0.0.0 apps.fb.me
 0.0.0.0 apps.fbsbx.com
 0.0.0.0 apps.messenger.com
 0.0.0.0 appstore.fb.com
@@ -213,6 +216,10 @@
 0.0.0.0 brazil.fb.com
 0.0.0.0 bunnylol.facebook.net
 0.0.0.0 business.facebook.com
+0.0.0.0 business.facebook.de
+0.0.0.0 c13-b2b-blog-lb.fb.me
+0.0.0.0 c1or.facebook.co
+0.0.0.0 ca-es.an.fb.me
 0.0.0.0 ca-es.messenger.com
 0.0.0.0 careerconnections.fb.com
 0.0.0.0 cdn.facebook.net
@@ -228,17 +235,21 @@
 0.0.0.0 code-dev.fb.com
 0.0.0.0 code.facebook.com
 0.0.0.0 code.fb.com
+0.0.0.0 com.htmllogin.facebook.fr
 0.0.0.0 com.mirror.facebook.net
 0.0.0.0 connect.beta.facebook.net
 0.0.0.0 connect.facebook.com
+0.0.0.0 connect.facebook.it
 0.0.0.0 connect.facebook.net
 0.0.0.0 connectivity.fb.com
 0.0.0.0 connnect.facebook.net
 0.0.0.0 consumo.messenger.com
 0.0.0.0 content.fb.com
+0.0.0.0 convtrack.facebook.com
 0.0.0.0 cpan.mirror.facebook.net
 0.0.0.0 creative.fb.com
 0.0.0.0 cs-cz.facebook.com
+0.0.0.0 cs-cz.fb.me
 0.0.0.0 cs-cz.messenger.com
 0.0.0.0 csi.messenger.com
 0.0.0.0 cuba.messenger.com
@@ -247,6 +258,7 @@
 0.0.0.0 d.fb.me
 0.0.0.0 d028.fma.fb.me
 0.0.0.0 da-dk.facebook.com
+0.0.0.0 da-dk.fb.me
 0.0.0.0 da-dk.messenger.com
 0.0.0.0 dataforgood.fb.com
 0.0.0.0 datr.messenger.com
@@ -330,6 +342,7 @@
 0.0.0.0 ehrenamt.fb.com
 0.0.0.0 el-gr.ar-ar.fb.me
 0.0.0.0 el-gr.facebook.com
+0.0.0.0 el-gr.fb.me
 0.0.0.0 el-gr.messenger.com
 0.0.0.0 el-gr.pt-br.fb.me
 0.0.0.0 emily.m.me
@@ -352,6 +365,7 @@
 0.0.0.0 external-frt3-2.xx.fbcdn.net
 0.0.0.0 external-hkg3-1.xx.fbcdn.net
 0.0.0.0 external-iad3-1.xx.fbcdn.net
+0.0.0.0 external-lga3-2.xx.fbcdn.net
 0.0.0.0 external-lhr10-1.xx.fbcdn.net
 0.0.0.0 external-lhr6-1.xx.fbcdn.net
 0.0.0.0 external-ort2-1.xx.fbcdn.net
@@ -369,12 +383,14 @@
 0.0.0.0 external.fsdu11-1.fna.fbcdn.net
 0.0.0.0 external.ftpa1-1.fna.fbcdn.net
 0.0.0.0 external.fvit1-1.fna.fbcdn.net
+0.0.0.0 external.xx.fbcdn.net
 0.0.0.0 f.m.me
 0.0.0.0 f.messenger.com
 0.0.0.0 f1-dev.fb.com
 0.0.0.0 f1-preprod.fb.com
 0.0.0.0 f6eec677a80kdno4pyq-kxornjlf1521512613-sonar.xz.fbcdn.net
 0.0.0.0 f91858abe80k2geylvi-zhianuzp1521559729-sonar.xx.fbcdn.net
+0.0.0.0 fa-ir.fb.me
 0.0.0.0 fa08.ftw1.tfbnw.net
 0.0.0.0 facebook-web-clients.appspot.com
 0.0.0.0 facebook.com
@@ -392,10 +408,12 @@
 0.0.0.0 fbindia.fb.com
 0.0.0.0 fbjs.facebook.com
 0.0.0.0 fbsbx.com
+0.0.0.0 fbstatic-a.akamaihd.net
 0.0.0.0 fdda274d380ki4frcgi-rumjfjai1460158783-sonar.xx.fbcdn.net
 0.0.0.0 fedora.mirror.facebook.net
 0.0.0.0 feedback.messenger.com
 0.0.0.0 fi-fi.facebook.com
+0.0.0.0 fi-fi.fb.me
 0.0.0.0 fi-fi.id-id.fb.me
 0.0.0.0 fi-fi.messenger.com
 0.0.0.0 fma.fb.me
@@ -627,6 +645,7 @@
 0.0.0.0 mikecraffets.messenger.com
 0.0.0.0 mirror-ext.facebook.net
 0.0.0.0 mirror.facebook.net
+0.0.0.0 mms.facebook.co.id
 0.0.0.0 mn.fb.me
 0.0.0.0 mns.messenger.com
 0.0.0.0 mo.m.me
@@ -654,9 +673,11 @@
 0.0.0.0 nl-be.facebook.com
 0.0.0.0 nl-be.messenger.com
 0.0.0.0 nl-nl.facebook.com
+0.0.0.0 nl-nl.fb.me
 0.0.0.0 nl-nl.messenger.com
 0.0.0.0 ns.facebook.com
 0.0.0.0 nutrifood.facebook.com
+0.0.0.0 o.fb.me
 0.0.0.0 o.n.fb.me
 0.0.0.0 ob.fb.me
 0.0.0.0 of.fb.me
@@ -829,6 +850,7 @@
 0.0.0.0 scontent-lax3-2.xx.fbcdn.net
 0.0.0.0 scontent-lga.xx.fbcdn.net
 0.0.0.0 scontent-lga3-1.xx.fbcdn.net
+0.0.0.0 scontent-lga3-2.xx.fbcdn.net
 0.0.0.0 scontent-lhr.xx.fbcdn.net
 0.0.0.0 scontent-lhr3-1.xx.fbcdn.net
 0.0.0.0 scontent-lht6-1.xx.fbcdn.net
@@ -961,6 +983,7 @@
 0.0.0.0 star-mini.c10r.facebook.com
 0.0.0.0 star.c10r.facebook.com
 0.0.0.0 star.facebook.com
+0.0.0.0 static-lga3-2.xx.fbcdn.net
 0.0.0.0 static.facebook.com
 0.0.0.0 static.fbcdn.com
 0.0.0.0 static.fdel11-1.fna.fbcdn.net
@@ -1158,9 +1181,30 @@
 0.0.0.0 www.en-gb.messenger.com
 0.0.0.0 www.es-es.messenger.com
 0.0.0.0 www.es-la.messenger.com
+0.0.0.0 www.faacebook.com
+0.0.0.0 www.facbook.com
 0.0.0.0 www.facebook-web-clients.appspot.com
+0.0.0.0 www.facebook.be
+0.0.0.0 www.facebook.co
+0.0.0.0 www.facebook.co.nz
+0.0.0.0 www.facebook.co.za
 0.0.0.0 www.facebook.com
+0.0.0.0 www.facebook.com.au
+0.0.0.0 www.facebook.com.br
+0.0.0.0 www.facebook.com.tw
+0.0.0.0 www.facebook.de
+0.0.0.0 www.facebook.dk
+0.0.0.0 www.facebook.es
+0.0.0.0 www.facebook.hu
+0.0.0.0 www.facebook.it
+0.0.0.0 www.facebook.lv
 0.0.0.0 www.facebook.messenger.com
+0.0.0.0 www.facebook.nl
+0.0.0.0 www.facebook.pl
+0.0.0.0 www.facebook.se
+0.0.0.0 www.facebookcom.com
+0.0.0.0 www.facebookmail.com
+0.0.0.0 www.facebooks.com
 0.0.0.0 www.fb.com
 0.0.0.0 www.fb.me
 0.0.0.0 www.fbcdn.com
@@ -1255,6 +1299,7 @@
 0.0.0.0 xx-fbcdn-shv-01-xsp1.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-yyz1.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-02-frt3.fbcdn.net
+0.0.0.0 xx-fbcdn-shv-02-lga3.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-02-ort2.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-02-sin6.fbcdn.net
 0.0.0.0 xx-fbcdn6-shv-01-atl3.fbcdn.net
