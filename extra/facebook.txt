@@ -8,7 +8,7 @@
 # In order to use this list, please use the following address:
 # https://raw.githubusercontent.com/smed79/blacklist/master/extra/facebook.txt
 #
-# Last modified: 2022-09-18 09:10 UTC
+# Last modified: 2022-09-18 12:11 UTC
 #
 # DOMAINS -------------------------------------------------------------------- #
 #
@@ -227,6 +227,7 @@
 0.0.0.0 cdn.fbsbx.com
 0.0.0.0 centos.mirror.facebook.net
 0.0.0.0 centrality.facebook.com
+0.0.0.0 chat-e2ee-mini.facebook.com
 0.0.0.0 chat.fb.me
 0.0.0.0 chat.messenger.com
 0.0.0.0 chikkatext.messenger.com
@@ -322,6 +323,7 @@
 0.0.0.0 edge-star-shv-01-cdg2.facebook.com
 0.0.0.0 edge-star-shv-01-iad3.facebook.com
 0.0.0.0 edge-star-shv-01-lga3.facebook.com
+0.0.0.0 edge-stun.facebook.com
 0.0.0.0 edge-video-shv-01-arn2.fbcdn.net
 0.0.0.0 edge-video-shv-01-cgk1.fbcdn.net
 0.0.0.0 edge-video-shv-01-dfw5.fbcdn.net
@@ -381,6 +383,8 @@
 0.0.0.0 external.frec10-1.fna.fbcdn.net
 0.0.0.0 external.fsdu10-1.fna.fbcdn.net
 0.0.0.0 external.fsdu11-1.fna.fbcdn.net
+0.0.0.0 external.ftlm1-1.fna.fbcdn.net
+0.0.0.0 external.ftlm1-2.fna.fbcdn.net
 0.0.0.0 external.ftpa1-1.fna.fbcdn.net
 0.0.0.0 external.fvit1-1.fna.fbcdn.net
 0.0.0.0 external.xx.fbcdn.net
@@ -448,6 +452,7 @@
 0.0.0.0 fy-nl.messenger.com
 0.0.0.0 g.m.me
 0.0.0.0 garena.messenger.com
+0.0.0.0 gateway.facebook.com
 0.0.0.0 ge-chat.messenger.com
 0.0.0.0 gente.messenger.com
 0.0.0.0 gforce.facebook.com
@@ -455,6 +460,7 @@
 0.0.0.0 globe-telegram.messenger.com
 0.0.0.0 govtrequests.facebook.com
 0.0.0.0 grab.facebook.com
+0.0.0.0 graph-fallback.facebook.com
 0.0.0.0 graph.alpha.facebook.com
 0.0.0.0 graph.facebook.com
 0.0.0.0 graph.fb.me
@@ -913,6 +919,8 @@
 0.0.0.0 scontent.fssa10-1.fna.fbcdn.net
 0.0.0.0 scontent.fssa11-1.fna.fbcdn.net
 0.0.0.0 scontent.fsub1-1.fna.fbcdn.net
+0.0.0.0 scontent.ftlm1-1.fna.fbcdn.net
+0.0.0.0 scontent.ftlm1-2.fna.fbcdn.net
 0.0.0.0 scontent.fwbw1-1.fna.fbcdn.net
 0.0.0.0 scontent.fybz2-2.fna.fbcdn.net
 0.0.0.0 scontent.fymy1-2.fna.fbcdn.net
@@ -987,6 +995,7 @@
 0.0.0.0 static.facebook.com
 0.0.0.0 static.fbcdn.com
 0.0.0.0 static.fdel11-1.fna.fbcdn.net
+0.0.0.0 static.ftlm1-1.fna.fbcdn.net
 0.0.0.0 static.mfbcdn.net
 0.0.0.0 static.xx.fbcdn.net
 0.0.0.0 static1.mfbcdn.net
@@ -1057,6 +1066,8 @@
 0.0.0.0 video.fsdu11-1.fna.fbcdn.net
 0.0.0.0 video.fssa1-1.fna.fbcdn.net
 0.0.0.0 video.fssa10-1.fna.fbcdn.net
+0.0.0.0 video.ftlm1-1.fna.fbcdn.net
+0.0.0.0 video.ftlm1-2.fna.fbcdn.net
 0.0.0.0 video.ftpa1-1.fna.fbcdn.net
 0.0.0.0 video.fvit1-1.fna.fbcdn.net
 0.0.0.0 video.xx.fbcdn.net
@@ -1316,6 +1327,7 @@
 0.0.0.0 z-1-video.fpoa10-1.fna.fbcdn.net
 0.0.0.0 z-1-video.fszb1-1.fna.fbcdn.net
 0.0.0.0 z-m-graph.facebook.com
+0.0.0.0 z-m-lookaside.facebook.com
 0.0.0.0 z-m-portal.fb.com
 0.0.0.0 z-m-scontent.fceb1-1.fna.fbcdn.net
 0.0.0.0 z-m-scontent.fdac1-1.fna.fbcdn.net
