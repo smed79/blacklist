@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202210080631
+! Version: 202210082235
 ! Title: smed79 BlackList
-! Last modified: 2022-10-08 06:31 UTC
+! Last modified: 2022-10-08 22:35 UTC
 ! Expires: 7 days
 !
 ! Description: BlackList of domains hosting advertisements & other nasty purposes.
@@ -16,6 +16,102 @@
 !
 ! ---------------------------------------------------------------------------- !
 !
+||2fb39an3park.top^
+||3keu83ab6d00.top^
+||2xnra503obzf.top^
+||2fzv5g3onbx6.top^
+||0b57ha4k4zrd.top^
+||30zxbgiir04r.top^
+||575sbkcwu7o0.top^
+||3fqjr5jl173d.top^
+||0udonfv52o9k.top^
+||4rqbk17vfo53.top^
+||1dsw4fe427q0.top^
+||4cus3r0g2axu.top^
+||3zh8rjvfbruq.top^
+||civtrvm4p47o.top^
+||05w0bq3nbq9b.top^
+||16c8nh2801z2.top^
+||2ouaedfsfxf9.top^
+||0geyfxqh2l.top^
+||1auaph69ausv.top^
+||4zz86tzf170m.top^
+||0kal38g35ctc.top^
+||2ydsyb43pd.top^
+||0ndfls4hmp.top^
+||0u37vw5na9w0.top^
+||3advlqyrzenj.top^
+||97h4ev5igah4.top^
+||1rjtdluzie7c.top^
+||0xz5mmnp3xjd.top^
+||0d6cirpa7nrd.top^
+||2vccc34khitd.top^
+||0dsyfr2fxogj.top^
+||3wzck57gxvkv.top^
+||25t6ioaooca2.top^
+||3lt4z6sqsawg.top^
+||1zc6nt56u6au.top^
+||51z1hc93avfn.top^
+||4kt1kcf7vv3l.top^
+||4an0u0avxj66.top^
+||5i8xkqjmqubv.top^
+||341k4gu76ywe.top^
+||36p3oqnmfjdp.top^
+||0l1201s548b2.top^
+||14x5vjrnjelo.top^
+||1k3chg5b11mx.top^
+||2a873yuvua6h.top^
+||53c2dtzsj7t1.top^
+||558ao12sqrok.top^
+||4b49srgf0gth.top^
+||56kqs1f8t09y.top^
+||0a8d87mlbcac.top^
+||3ezkycdrsdov.top^
+||4icvix60bz86.top^
+||003gjzy7k1wc.top^
+||1h5q7acrazhy.top^
+||3kfepd031gjg.top^
+||4g3tj3l2r7zr.top^
+||07wr439dfait.top^
+||3urnt1b7bv5w.top^
+||3u47oh9ikxs6.top^
+||4vfeqdvwe16k.top^
+||0jcn4veha2oz.top^
+||5201l41kuvl7.top^
+||3cgh00l9i7j4.top^
+||4kggatl1p7ps.top^
+||2ljhthlcbk81.top^
+||3bioqrtjz6sn.top^
+||2y5sjib7uad0.top^
+||36zp0jxzo8om.top^
+||0gr21f08o1mr.top^
+||4ebh3yrxat58.top^
+||2rvvqyq8afi0.top^
+||532lho7ycvwd.top^
+||swrmw5j8xs.top^
+||1stc6vz58kxw.top^
+||08uxmg2bz7hc.top^
+||1up659mg7d5v.top^
+||1y15vrxg6v8h.top^
+||2bmn51418f7t.top^
+||2x8p4mtjtm63.top^
+||3mbdd5e07txo.top^
+||0676el9lskux.top^
+||238ym2umhodj.top^
+||3y3m0zjdyvvc.top^
+||2c4p24o6zp0y.top^
+||34yt2j7kpmrp.top^
+||31vcgicj50zg.top^
+||fpavx.net^
+||mediapvx.com^
+||mediapxv.com^
+||fingerprint.com^
+||fpa.fingerprint.com^
+||ab.hwigroup.com^
+||aa.hwigroup.com^
+||dreamsyskaff.com^
+||openfpcdn.io^
+||discordapp.com^
 ||00261bc6d5.com^
 ||0026645142c89aeb1.com^
 ||006a039c957c142bb.com^
