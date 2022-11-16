@@ -8,7 +8,7 @@
 # In order to use this list, please use the following address:
 # https://raw.githubusercontent.com/smed79/blacklist/master/hosts.txt
 #
-# Last modified: 2022-11-16 06:30 UTC
+# Last modified: 2022-11-16 07:10 UTC
 #
 # DOMAINS -------------------------------------------------------------------- #
 #
@@ -37,7 +37,7 @@
 0.0.0.0 0374adc8c6a6a56.com
 0.0.0.0 039ad0897e6da.com
 0.0.0.0 03ed9035a0801f.com
-0.0.0.0 04-f-bmf.comv
+0.0.0.0 04-f-bmf.com
 0.0.0.0 040e9e6099.com
 0.0.0.0 041400ad701.com
 0.0.0.0 0439c255ac.com

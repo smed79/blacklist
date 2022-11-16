@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202211160630
+! Version: 202211160710
 ! Title: smed79 BlackList
-! Last modified: 2022-11-16 06:30 UTC
+! Last modified: 2022-11-16 07:10 UTC
 ! Expires: 7 days
 !
 ! Description: BlackList of domains hosting advertisements & other nasty purposes.
@@ -41,7 +41,7 @@
 ||0374adc8c6a6a56.com^
 ||039ad0897e6da.com^
 ||03ed9035a0801f.com^
-||04-f-bmf.comv
+||04-f-bmf.com^
 ||040e9e6099.com^
 ||041400ad701.com^
 ||0439c255ac.com^
