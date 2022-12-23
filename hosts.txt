@@ -8691,7 +8691,6 @@
 0.0.0.0 cdn-server.cc
 0.0.0.0 cdn-server.top
 0.0.0.0 cdn.arcstudiopro.com
-0.0.0.0 cdn.discordapp.com
 0.0.0.0 cdn.house
 0.0.0.0 cdn.propellerads.com
 0.0.0.0 cdn.usefathom.com
