@@ -8,7 +8,7 @@
 # In order to use this list, please use the following address:
 # https://raw.githubusercontent.com/smed79/blacklist/master/hosts.txt
 #
-# Last modified: 2022-12-30 06:45 UTC
+# Last modified: 2022-12-30 06:49 UTC
 #
 # DOMAINS -------------------------------------------------------------------- #
 #
@@ -25606,7 +25606,6 @@
 0.0.0.0 immortalsplashslob.com
 0.0.0.0 immunepine.com
 0.0.0.0 immunocap.thermofisher.com
-0.0.0.0 imore.com
 0.0.0.0 imp.accesstra.de
 0.0.0.0 imp.ad-plus.cn
 0.0.0.0 imp.go.sohu.com
