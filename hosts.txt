@@ -8,7 +8,7 @@
 # In order to use this list, please use the following address:
 # https://raw.githubusercontent.com/smed79/blacklist/master/hosts.txt
 #
-# Last modified: 2022-12-30 06:49 UTC
+# Last modified: 2022-12-30 06:54 UTC
 #
 # DOMAINS -------------------------------------------------------------------- #
 #
@@ -30796,7 +30796,6 @@
 0.0.0.0 majestydeference.com
 0.0.0.0 majoagna.com
 0.0.0.0 majomalonic.com
-0.0.0.0 majorgeeks.com
 0.0.0.0 majorgeorgiana.com
 0.0.0.0 majorinryesop.lol
 0.0.0.0 majoritishbettes.info

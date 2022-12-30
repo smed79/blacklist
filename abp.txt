@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202212300249
+! Version: 202212300254
 ! Title: smed79 BlackList
-! Last modified: 2022-12-30 02:49 UTC
+! Last modified: 2022-12-30 02:54 UTC
 ! Expires: 7 days
 !
 ! Description: BlackList of domains hosting advertisements & other nasty purposes.
@@ -31067,7 +31067,6 @@
 ||majestydeference.com^
 ||majoagna.com^
 ||majomalonic.com^
-||majorgeeks.com^
 ||majorgeorgiana.com^
 ||majorinryesop.lol^
 ||majoritishbettes.info^
