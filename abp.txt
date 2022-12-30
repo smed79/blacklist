@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202212230644
+! Version: 202212300245
 ! Title: smed79 BlackList
-! Last modified: 2022-12-23 06:44 UTC
+! Last modified: 2022-12-30 02:45 UTC
 ! Expires: 7 days
 !
 ! Description: BlackList of domains hosting advertisements & other nasty purposes.
@@ -4129,8 +4129,8 @@
 ||ad.kddi-fs.com^
 ||ad.khan.co.kr^
 ||ad.kimcartoon.si^
-||ad.kissanime.com.ru^
 ||ad.kissanime.co^
+||ad.kissanime.com.ru^
 ||ad.kissanime.org.ru^
 ||ad.kissanime.sx^
 ||ad.kissasian.com.ru^
@@ -4388,6 +4388,7 @@
 ||aderstono.one^
 ||adex.media^
 ||adex.naruko333.jp^
+||adex_admin.propellerads.com^
 ||adexchange.io^
 ||adexchangecloud.com^
 ||adexchangedirect.com^
@@ -4403,7 +4404,6 @@
 ||adexprtz.com^
 ||adextent.com^
 ||adextrem.com^
-||adex_admin.propellerads.com^
 ||adf50cda3e.com^
 ||adfeedstrk.com^
 ||adfill.me^
@@ -4459,8 +4459,8 @@
 ||adjustmentmonarch.com^
 ||adjustmentstraightenstartle.com^
 ||adjux.com^
-||adk2.com^
 ||adk2.co^
+||adk2.com^
 ||adk2.net^
 ||adk2x.com^
 ||adkaora.space^
@@ -13761,8 +13761,8 @@
 ||csxourhnfpanm.com^
 ||csyqts.tmon.co.kr^
 ||ct.corpusapp.com^
-||ct.irl.com^
 ||ct.irl.co^
+||ct.irl.com^
 ||ct.irlmail.org^
 ||ct.needlive.com^
 ||ct.pinterest.com^
@@ -16492,6 +16492,7 @@
 ||difyt-m-tlb.co^
 ||dig.lianjia.com^
 ||dig.ultimedia.com^
+||dig2.ultimedia.com^
 ||digadser.com^
 ||digestiontub.com^
 ||digestiveirrelevantrestricted.com^
@@ -20525,6 +20526,7 @@
 ||fb609a8b3f397f3.com^
 ||fb68ada9b5d.com^
 ||fb960dbd5f.com^
+||fb_servpub-a.akamaihd.net^
 ||fbb8a7d231b1867a.com^
 ||fbcdn2.com^
 ||fbekvzjp.com^
@@ -20554,7 +20556,6 @@
 ||fbvbyi.abekker.ru^
 ||fbxnsabawjkylo.com^
 ||fbycnk.chiaki.vn^
-||fb_servpub-a.akamaihd.net^
 ||fc.vodafone.de^
 ||fc0902dc54a19a.com^
 ||fc2b9b7ce3165.com^
@@ -24293,8 +24294,8 @@
 ||hedgehogpoachsay.com^
 ||hedgehogseparated.com^
 ||hedidno.buzz^
-||hedmisrepu.com^
 ||hedmisrepu.co^
+||hedmisrepu.com^
 ||hedressive.info^
 ||hedrvszms.com^
 ||hedtgodingsincy.info^
@@ -24812,8 +24813,8 @@
 ||holitt.com^
 ||hollandaleresaca.com^
 ||hollekeamboina.com^
-||hollercatastrophe.com^
 ||hollercatastrophe.co^
+||hollercatastrophe.com^
 ||hollerscanelos.com^
 ||hollinsmcalpin.com^
 ||hollowafterthought.com^
@@ -32734,6 +32735,7 @@
 ||metrics.ingdirect.es^
 ||metrics.ingredion.com^
 ||metrics.instyle.com^
+||metrics.io^
 ||metrics.ionos.at^
 ||metrics.ionos.ca^
 ||metrics.ionos.co.uk^
@@ -32743,7 +32745,6 @@
 ||metrics.ionos.fr^
 ||metrics.ionos.it^
 ||metrics.ionos.mx^
-||metrics.io^
 ||metrics.ireport.com^
 ||metrics.its.de^
 ||metrics.iwakifc.com^
@@ -37575,8 +37576,8 @@
 ||pakistant.club^
 ||pal-v.actonservice.com^
 ||palakahone.com^
-||palama2.com^
 ||palama2.co^
+||palama2.com^
 ||palasidesdoor.com^
 ||paleleaf.com^
 ||paletteadulatory.com^
@@ -37709,6 +37710,7 @@
 ||partnermktg.symantec.com^
 ||partners.autotrader.co.uk^
 ||partners.betus.com^
+||partners.challenges.fr^
 ||partners.cmptch.com^
 ||partners.dogtime.com^
 ||partners.hostgator.com^
@@ -44531,8 +44533,8 @@
 ||securesmrt-dt.com^
 ||securesurf.biz^
 ||securetags.aeroterra.com^
-||securetags.esri.com^
 ||securetags.esri.co^
+||securetags.esri.com^
 ||securetags.esri.in^
 ||securetags.esri.nl^
 ||securetags.gisbaltic.eu^
@@ -45698,10 +45700,10 @@
 ||smetrics.aarp.org^
 ||smetrics.abanca.com^
 ||smetrics.abbott.com^
+||smetrics.abbott^
 ||smetrics.abbottnutrition.com.my^
 ||smetrics.abbottnutrition.com^
 ||smetrics.abbottstore.com^
-||smetrics.abbott^
 ||smetrics.abbvie.com^
 ||smetrics.abercrombie.com^
 ||smetrics.absolutetotalcare.com^
@@ -45832,9 +45834,9 @@
 ||smetrics.banter.com^
 ||smetrics.barandblock.co.uk^
 ||smetrics.base.be^
+||smetrics.bayer.co^
 ||smetrics.bayer.com.tr^
 ||smetrics.bayer.com^
-||smetrics.bayer.co^
 ||smetrics.bayer.ec^
 ||smetrics.bayer.gt^
 ||smetrics.bayer.ma^
@@ -46107,8 +46109,8 @@
 ||smetrics.directv.com^
 ||smetrics.discover.com^
 ||smetrics.discovertrk.com^
-||smetrics.dish.com^
 ||smetrics.dish.co^
+||smetrics.dish.com^
 ||smetrics.disneylachaine.ca^
 ||smetrics.distrelec.ch^
 ||smetrics.dnb.com^
@@ -49231,6 +49233,7 @@
 ||stats.twistage.com^
 ||stats.ubiwiz.com^
 ||stats.ulixes.pl^
+||stats.ultimedia.com^
 ||stats.united-domains.de^
 ||stats.urban-media.com^
 ||stats.urbanfinn.com^
@@ -49904,8 +49907,8 @@
 ||surveillancelandmorgue.com^
 ||survey-daily-prizes.com^
 ||survey.interquest.com^
-||survey2you.com^
 ||survey2you.co^
+||survey2you.com^
 ||survey2you.net^
 ||survey2you.org^
 ||survey4you.co^
@@ -51808,6 +51811,7 @@
 ||tooklichair.com^
 ||tool.acces-vod.com^
 ||tools.indecentes-voisines.com^
+||tools.prnewswire.com^
 ||tools.sexedenfer.com^
 ||tools.vpscash.nl^
 ||toolspro.indecentes-voisines.com^
@@ -59198,8 +59202,8 @@
 ||xvlkfkjl.com^
 ||xvlohcsc.com^
 ||xvnpbghbctppgp.xyz^
-||xvstvids.com^
 ||xvstvids.co^
+||xvstvids.com^
 ||xvtbgiwshnc.xyz^
 ||xvtbumnuj.com^
 ||xvtgouzdsmoeb.com^

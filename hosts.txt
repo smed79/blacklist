@@ -8,7 +8,7 @@
 # In order to use this list, please use the following address:
 # https://raw.githubusercontent.com/smed79/blacklist/master/hosts.txt
 #
-# Last modified: 2022-12-23 06:44 UTC
+# Last modified: 2022-12-30 06:45 UTC
 #
 # DOMAINS -------------------------------------------------------------------- #
 #
@@ -16363,6 +16363,7 @@
 0.0.0.0 difyt-m-tlb.co
 0.0.0.0 dig.lianjia.com
 0.0.0.0 dig.ultimedia.com
+0.0.0.0 dig2.ultimedia.com
 0.0.0.0 digadser.com
 0.0.0.0 digestiontub.com
 0.0.0.0 digestiveirrelevantrestricted.com
@@ -37398,6 +37399,7 @@
 0.0.0.0 partnermktg.symantec.com
 0.0.0.0 partners.autotrader.co.uk
 0.0.0.0 partners.betus.com
+0.0.0.0 partners.challenges.fr
 0.0.0.0 partners.cmptch.com
 0.0.0.0 partners.dogtime.com
 0.0.0.0 partners.hostgator.com
@@ -48849,6 +48851,7 @@
 0.0.0.0 stats.twistage.com
 0.0.0.0 stats.ubiwiz.com
 0.0.0.0 stats.ulixes.pl
+0.0.0.0 stats.ultimedia.com
 0.0.0.0 stats.united-domains.de
 0.0.0.0 stats.urban-media.com
 0.0.0.0 stats.urbanfinn.com
@@ -51408,6 +51411,7 @@
 0.0.0.0 tooklichair.com
 0.0.0.0 tool.acces-vod.com
 0.0.0.0 tools.indecentes-voisines.com
+0.0.0.0 tools.prnewswire.com
 0.0.0.0 tools.sexedenfer.com
 0.0.0.0 tools.vpscash.nl
 0.0.0.0 toolspro.indecentes-voisines.com
