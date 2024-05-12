@@ -8,7 +8,7 @@
 # In order to use this list, please use the following address:
 # https://raw.githubusercontent.com/smed79/blacklist/master/hosts.txt
 #
-# Last modified: 2024-02-27 01:22 UTC
+# Last modified: 2024-05-12 18:13 UTC
 #
 # DOMAINS -------------------------------------------------------------------- #
 #
@@ -3718,6 +3718,7 @@
 0.0.0.0 abhorcarious.com
 0.0.0.0 abidepeachy.com
 0.0.0.0 abiderestless.com
+0.0.0.0 abjectattempt.com
 0.0.0.0 abjectionblame.com
 0.0.0.0 abjectionremarksdisarm.com
 0.0.0.0 abjkfy.muuu.com
@@ -4776,7 +4777,6 @@
 0.0.0.0 adetracking.com
 0.0.0.0 adex.media
 0.0.0.0 adex.naruko333.jp
-0.0.0.0 adex_admin.propellerads.com
 0.0.0.0 adexc.net
 0.0.0.0 adexchange.io
 0.0.0.0 adexchangecloud.com
@@ -4795,6 +4795,7 @@
 0.0.0.0 adext.inkclub.com
 0.0.0.0 adextent.com
 0.0.0.0 adextrem.com
+0.0.0.0 adex_admin.propellerads.com
 0.0.0.0 adf.ly
 0.0.0.0 adf50cda3e.com
 0.0.0.0 adfeed.marchex.com
@@ -14082,6 +14083,7 @@
 0.0.0.0 celebsreflect.com
 0.0.0.0 celeph.com
 0.0.0.0 celeritascdn.com
+0.0.0.0 celestialquasar.com
 0.0.0.0 celestialspectra.com
 0.0.0.0 celiberald.xyz
 0.0.0.0 celign.com
@@ -22275,6 +22277,7 @@
 0.0.0.0 eaeb9d1cf7.com
 0.0.0.0 eaekjnvarvbjw.top
 0.0.0.0 eaekjnvarvrnb.top
+0.0.0.0 eagereden.com
 0.0.0.0 eagerlydenote.com
 0.0.0.0 eagerlyshuggy.com
 0.0.0.0 eagernessrationalize.com
@@ -24693,6 +24696,7 @@
 0.0.0.0 expressvampire.com
 0.0.0.0 expresswebtraffic.com
 0.0.0.0 expugi.com
+0.0.0.0 exquisiteartisanship.com
 0.0.0.0 exr-mms.expertreviews.co.uk
 0.0.0.0 exrnrdnebas.com
 0.0.0.0 exrtbsrv.com
@@ -25023,6 +25027,7 @@
 0.0.0.0 fairnesschangingenamel.com
 0.0.0.0 fairnessels.com
 0.0.0.0 fairoaja.net
+0.0.0.0 fairygaze.com
 0.0.0.0 faisashy.com
 0.0.0.0 faisopty.xyz
 0.0.0.0 faitdufric.com
@@ -25225,7 +25230,6 @@
 0.0.0.0 fb3aace890.com
 0.0.0.0 fb68ada9b5d.com
 0.0.0.0 fb960dbd5f.com
-0.0.0.0 fb_servpub-a.akamaihd.net
 0.0.0.0 fbb8a7d231b1867a.com
 0.0.0.0 fbcdfada83.com
 0.0.0.0 fbcdn2.com
@@ -25258,6 +25262,7 @@
 0.0.0.0 fbxnsabawjkylo.com
 0.0.0.0 fbxsyqvttedaoh.com
 0.0.0.0 fbycnk.chiaki.vn
+0.0.0.0 fb_servpub-a.akamaihd.net
 0.0.0.0 fc.vodafone.de
 0.0.0.0 fc.webmasterpro.de
 0.0.0.0 fc0902dc54a19a.com
@@ -37132,6 +37137,7 @@
 0.0.0.0 magicfinds.com
 0.0.0.0 magicianboundary.com
 0.0.0.0 magicianoptimisticbeard.com
+0.0.0.0 magiczenith.com
 0.0.0.0 magjeon.com
 0.0.0.0 magnetairport.com
 0.0.0.0 magnificentflametemperature.com
@@ -46021,6 +46027,7 @@
 0.0.0.0 pluckypocket.com
 0.0.0.0 pluckysups.com
 0.0.0.0 pluckytaste.com
+0.0.0.0 pluckyzone.com
 0.0.0.0 plucta.com
 0.0.0.0 plufdsa.com
 0.0.0.0 plufdsb.com
@@ -49335,6 +49342,7 @@
 0.0.0.0 republicunableappellation.com
 0.0.0.0 republika.onet.pl
 0.0.0.0 repuge.com
+0.0.0.0 repulsiverequest.com
 0.0.0.0 reputationsheriffkenneth.com
 0.0.0.0 reputedaytrade.com
 0.0.0.0 repvwz.panchemodan.ru
@@ -49433,6 +49441,7 @@
 0.0.0.0 respectrain.com
 0.0.0.0 respirationcafeincomparable.com
 0.0.0.0 respiratorhair.com
+0.0.0.0 resplendentecho.com
 0.0.0.0 respondenemy.com
 0.0.0.0 responder.wt.heise.de
 0.0.0.0 respondhq.com
@@ -52216,6 +52225,7 @@
 0.0.0.0 sereendipit.com
 0.0.0.0 serendipityecho.com
 0.0.0.0 serenecascade.com
+0.0.0.0 serenezephyr.com
 0.0.0.0 serenityspokenrust.com
 0.0.0.0 serenocomb.digital
 0.0.0.0 serfle.com
@@ -59029,7 +59039,6 @@
 0.0.0.0 tenderunderstatement.com
 0.0.0.0 tendontoss.com
 0.0.0.0 tenezratio.com
-0.0.0.0 tenforums.com
 0.0.0.0 tengmoneron.com
 0.0.0.0 tenilstats.turner.com
 0.0.0.0 tenlinebramah.com
@@ -64574,6 +64583,7 @@
 0.0.0.0 vivetivcuggz.com
 0.0.0.0 vividdefinedspiral.com
 0.0.0.0 vividlobster.com
+0.0.0.0 vividplume.com
 0.0.0.0 viviendoefelizz.online
 0.0.0.0 vivtracking.com
 0.0.0.0 viwthopfoakr.com
