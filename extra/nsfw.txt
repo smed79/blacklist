@@ -8,11 +8,10 @@
 # In order to use this list, please use the following address:
 # https://raw.githubusercontent.com/smed79/blacklist/master/extra/nsfw.txt
 #
-# Last modified: 2024-05-12 18:57 UTC
+# Last modified: 2024-07-12 15:40 UTC
 #
 # DOMAINS -------------------------------------------------------------------- #
 #
-0.0.0.0 !sexynudez.com
 0.0.0.0 0.dvl.upornia.com
 0.0.0.0 0.t.4cdn.org
 0.0.0.0 0.xd-cdn.com
@@ -734,6 +733,7 @@
 0.0.0.0 advcdn5.bigtits.cool
 0.0.0.0 aebn.net
 0.0.0.0 aff.aipornhub.net
+0.0.0.0 affaire18.biz
 0.0.0.0 affairsclub.com
 0.0.0.0 affs.girlsrimming.com
 0.0.0.0 afiporn.net
@@ -2028,6 +2028,7 @@
 0.0.0.0 best-sex-vids.com
 0.0.0.0 best-xxxvideos.com
 0.0.0.0 best.amateursecrets.net
+0.0.0.0 best.blog4you.biz
 0.0.0.0 best.ivx.gallery
 0.0.0.0 best.pornosex.cam
 0.0.0.0 best.saxodvd.com
@@ -2338,6 +2339,7 @@
 0.0.0.0 blog.sunnyleone.com
 0.0.0.0 blog.sunnytgp.com
 0.0.0.0 blog.youporn.com
+0.0.0.0 blog4you.biz
 0.0.0.0 blogadmin.dvdempire.com
 0.0.0.0 blogasexe.com
 0.0.0.0 blogbugs.org
@@ -2868,6 +2870,7 @@
 0.0.0.0 candid.tube
 0.0.0.0 candidboy.com
 0.0.0.0 candidlooks.com
+0.0.0.0 candy.ai
 0.0.0.0 candyesscort.escortwebsite.com
 0.0.0.0 candygirlpass.com
 0.0.0.0 caniwatchporn.com
@@ -4581,6 +4584,7 @@
 0.0.0.0 collegewildparties.com
 0.0.0.0 colliderporn.com
 0.0.0.0 columbia-xxx.com
+0.0.0.0 com-porn-free.com
 0.0.0.0 combo.porn
 0.0.0.0 comdotcdn.com
 0.0.0.0 comic-porno.com
@@ -4716,6 +4720,7 @@
 0.0.0.0 copine-live.com
 0.0.0.0 copro.pw
 0.0.0.0 coqnu.com
+0.0.0.0 cornsporn.com
 0.0.0.0 coroascaseiras.org
 0.0.0.0 cortanas.net
 0.0.0.0 cosmid.net
@@ -5259,6 +5264,7 @@
 0.0.0.0 dirty-doctor.com
 0.0.0.0 dirty-messenger.com
 0.0.0.0 dirty-tinder.com
+0.0.0.0 dirty.com-porn-free.com
 0.0.0.0 dirty.games
 0.0.0.0 dirty101.com
 0.0.0.0 dirtyamateurtube.com
@@ -6479,6 +6485,7 @@
 0.0.0.0 ferda.at.ua
 0.0.0.0 ferronetwork.com
 0.0.0.0 festinhasbrasil.com
+0.0.0.0 festnetz-telefonsex.sexphone.biz
 0.0.0.0 fetibox.com
 0.0.0.0 fetish.sexpreviews.eu
 0.0.0.0 fetish.xxxcounter.com
@@ -6911,6 +6918,7 @@
 0.0.0.0 franco.evangelista.free.fr
 0.0.0.0 frap.frap.site
 0.0.0.0 frathousefuckfest.com
+0.0.0.0 frauen-ficken.titten-cam.com
 0.0.0.0 fre.objectsex.tv
 0.0.0.0 freakshowplanet.com
 0.0.0.0 freaksofcock.com
@@ -10523,6 +10531,7 @@
 0.0.0.0 javlibrary.cc
 0.0.0.0 javlibrary.com
 0.0.0.0 javlinks.com
+0.0.0.0 javlion.xyz
 0.0.0.0 javloft.com
 0.0.0.0 javlot.com
 0.0.0.0 javlovers.club
@@ -14292,6 +14301,7 @@
 0.0.0.0 pop.xxx
 0.0.0.0 popcorntimes.ws
 0.0.0.0 popjav.tv
+0.0.0.0 poppen.website
 0.0.0.0 poptwinks.com
 0.0.0.0 popupchat-live.com
 0.0.0.0 porcore.com
@@ -14713,8 +14723,10 @@
 0.0.0.0 porno-deutsch.com
 0.0.0.0 porno-disney.com
 0.0.0.0 porno-exclusif.com
+0.0.0.0 porno-frauen.affaire18.biz
 0.0.0.0 porno-free.cz
 0.0.0.0 porno-hub.me
+0.0.0.0 porno-luder.net
 0.0.0.0 porno-maniac.org
 0.0.0.0 porno-mixxx.com
 0.0.0.0 porno-ohne-ende.com
@@ -15241,6 +15253,7 @@
 0.0.0.0 privatelivewebcams.com
 0.0.0.0 privatemov.com
 0.0.0.0 privateporn.tv
+0.0.0.0 privater-telefonsex.digitaler-hotspot.de
 0.0.0.0 privatesangels.com
 0.0.0.0 privateschooljewel.com
 0.0.0.0 privatesexfilms.com
@@ -16747,6 +16760,7 @@
 0.0.0.0 sexynude.pics
 0.0.0.0 sexynudes.tv
 0.0.0.0 sexynudevideos.com
+0.0.0.0 sexynudez.com
 0.0.0.0 sexyoung18.com
 0.0.0.0 sexyoungporn.com
 0.0.0.0 sexyparty.cam
@@ -18103,6 +18117,7 @@
 0.0.0.0 tegansummers.com
 0.0.0.0 tehvids.com
 0.0.0.0 telecharger-une-video.com
+0.0.0.0 telefonerotik-deutschland.de
 0.0.0.0 telefonsexpalast.de
 0.0.0.0 telefullenvivo.com
 0.0.0.0 telegirls.me
@@ -18596,6 +18611,7 @@
 0.0.0.0 titsbox.com
 0.0.0.0 titsmaster.com
 0.0.0.0 titstribute.com
+0.0.0.0 titten-cam.com
 0.0.0.0 titten-kitty-natursekt.de
 0.0.0.0 titty-twister.vip
 0.0.0.0 tk.imgsking.com
@@ -20454,6 +20470,9 @@
 0.0.0.0 www.00webcams.com
 0.0.0.0 www.01porno.club
 0.0.0.0 www.01porno.com
+0.0.0.0 www.0900-notruf.telefonsex-info.net
+0.0.0.0 www.09005.telefonsex-imperium.com
+0.0.0.0 www.09005.telefonsextopliste.net
 0.0.0.0 www.0dayporno.com
 0.0.0.0 www.1-porno-gratuit.com
 0.0.0.0 www.1000facials.com
@@ -20596,6 +20615,7 @@
 0.0.0.0 www.a40ans.com
 0.0.0.0 www.aaaspanking.com
 0.0.0.0 www.aaavids.com
+0.0.0.0 www.abartig.09005-telefonsex.net
 0.0.0.0 www.abbywinters.com
 0.0.0.0 www.abc-du-gratuit.net
 0.0.0.0 www.abcdux.net
@@ -20882,6 +20902,7 @@
 0.0.0.0 www.ana-ero.com
 0.0.0.0 www.anakedguy.com
 0.0.0.0 www.anal-eclate.org
+0.0.0.0 www.anal-spezial.telefonsex-18.org
 0.0.0.0 www.analdildolesbians.com
 0.0.0.0 www.analdin.com
 0.0.0.0 www.analdin.xxx
@@ -21067,6 +21088,7 @@
 0.0.0.0 www.ashleymadison.com
 0.0.0.0 www.ashleyrnadison.com
 0.0.0.0 www.asia-insane.biz
+0.0.0.0 www.asia-telefonsex.cybersex-topliste.com
 0.0.0.0 www.asiablue.com
 0.0.0.0 www.asian-gallery.co.uk
 0.0.0.0 www.asian-porn-videos.com
@@ -21244,6 +21266,7 @@
 0.0.0.0 www.bbwsexvideos.com
 0.0.0.0 www.bbwtubesexy.com
 0.0.0.0 www.bd-sm.ro
+0.0.0.0 www.bdsm-hotpoint.sexamtelefon.org
 0.0.0.0 www.bdsmlibrary.com
 0.0.0.0 www.bdsmporntub.com
 0.0.0.0 www.bdsmtheory.com
@@ -21279,6 +21302,7 @@
 0.0.0.0 www.beshine.com
 0.0.0.0 www.beslist.be
 0.0.0.0 www.best-hentai-games.com
+0.0.0.0 www.best-of-telefonsex.com
 0.0.0.0 www.best-paypornsites.com
 0.0.0.0 www.best-pornsites.com
 0.0.0.0 www.best-xxx-movies.com
@@ -21382,6 +21406,7 @@
 0.0.0.0 www.bitchcrawler.com
 0.0.0.0 www.bitchyourfamous.com
 0.0.0.0 www.bitporno.com
+0.0.0.0 www.bizarr-telefonsex.telefonsex1a.org
 0.0.0.0 www.bizarre-events.com
 0.0.0.0 www.bizarrecollection.com
 0.0.0.0 www.bizarremag.com
@@ -21840,6 +21865,7 @@
 0.0.0.0 www.clit9.sex-tracker.com
 0.0.0.0 www.cliti.com
 0.0.0.0 www.clitoland.com
+0.0.0.0 www.club-amour.deutscher-telefonsex.net
 0.0.0.0 www.club-sandy.net
 0.0.0.0 www.club-virgins.com
 0.0.0.0 www.clubbestangels.de
@@ -22041,11 +22067,13 @@
 0.0.0.0 www.darkangelsuni52.jun.pl
 0.0.0.0 www.darkcategories.com
 0.0.0.0 www.darkx.com
+0.0.0.0 www.das-versaute.telefonsex-abc.net
 0.0.0.0 www.data18.com
 0.0.0.0 www.datanotary.com
 0.0.0.0 www.date4sex.com
 0.0.0.0 www.dateadvisor.com
 0.0.0.0 www.dating-banners.com
+0.0.0.0 www.dating-finder.com
 0.0.0.0 www.dating.friendsearch.com
 0.0.0.0 www.datingamateurs.com
 0.0.0.0 www.datingbusters.com
@@ -22088,7 +22116,9 @@
 0.0.0.0 www.desvideos.com
 0.0.0.0 www.detubeporn.pro
 0.0.0.0 www.deusasporno.com.br
+0.0.0.0 www.deutsche-schlampen.rent-a-telegirl.com
 0.0.0.0 www.deutsche-sexfilme.net
+0.0.0.0 www.deutscher-telefonsex.net
 0.0.0.0 www.deutschsex.com
 0.0.0.0 www.deviantclip.com
 0.0.0.0 www.devicebondage.com
@@ -22114,6 +22144,7 @@
 0.0.0.0 www.digitaldesire.com
 0.0.0.0 www.digitalplayground.com
 0.0.0.0 www.digitalsweeties.com
+0.0.0.0 www.dildo-telefonsex.telefonsex-zentrale.com
 0.0.0.0 www.dilf.com
 0.0.0.0 www.dinotube.com
 0.0.0.0 www.diplodocul.com
@@ -22154,9 +22185,12 @@
 0.0.0.0 www.doggyfuckingtube.com
 0.0.0.0 www.dogma.co.jp
 0.0.0.0 www.dojki.com
+0.0.0.0 www.doktorspiele.telefonsex-flirt.net
 0.0.0.0 www.dolceescorts.co.uk
 0.0.0.0 www.dolcincontri.net
 0.0.0.0 www.domainplayersclub.com
+0.0.0.0 www.domina-telefonsex.biz
+0.0.0.0 www.domina-top100.telefonsex-orgien.com
 0.0.0.0 www.dominationwebcams.com
 0.0.0.0 www.dommes.info
 0.0.0.0 www.domywife.com
@@ -22374,6 +22408,7 @@
 0.0.0.0 www.erotiica.com
 0.0.0.0 www.erotik-von-nebenan.com
 0.0.0.0 www.erotikinserate.ch
+0.0.0.0 www.erotiktelefon.biz
 0.0.0.0 www.erotilink.com
 0.0.0.0 www.erotique.com
 0.0.0.0 www.erotixporn.net
@@ -22562,6 +22597,7 @@
 0.0.0.0 www.fatpichunter.com
 0.0.0.0 www.fattiesonfilm.com
 0.0.0.0 www.fatwhitebutt.com
+0.0.0.0 www.faustfick.tele-muschis.com
 0.0.0.0 www.favouritecash.com
 0.0.0.0 www.fbookhookups.com
 0.0.0.0 www.fcww43.com
@@ -22588,6 +22624,7 @@
 0.0.0.0 www.fenoxo.com
 0.0.0.0 www.ferrocash.com
 0.0.0.0 www.ferronetwork.com
+0.0.0.0 www.fetisch-ficker.telefonsex69.net
 0.0.0.0 www.fetishbank.net
 0.0.0.0 www.fetishburg.com
 0.0.0.0 www.fetishcontact.tv
@@ -23119,6 +23156,8 @@
 0.0.0.0 www.grannysextubez.com
 0.0.0.0 www.grannytube.net
 0.0.0.0 www.grannyultra.com
+0.0.0.0 www.gratis-kontakte.eu
+0.0.0.0 www.gratis-telefonsex.free-telefonsexlinks.com
 0.0.0.0 www.gratuit-porno-sexe.net
 0.0.0.0 www.gratuit.porn.fr
 0.0.0.0 www.greatgirls.info
@@ -23160,6 +23199,7 @@
 0.0.0.0 www.hairysexvideos.com
 0.0.0.0 www.hamajim.com
 0.0.0.0 www.handjobjapan.com
+0.0.0.0 www.handy-telefonsex.rent-a-telegirl.com
 0.0.0.0 www.handyhardcore.com
 0.0.0.0 www.hanime.tv
 0.0.0.0 www.hannaslinks.com
@@ -23193,6 +23233,7 @@
 0.0.0.0 www.harmanit.co.il
 0.0.0.0 www.harmonyvision.com
 0.0.0.0 www.harpersbazaar.com
+0.0.0.0 www.hausfrauen.telefonsex.media
 0.0.0.0 www.hbrowse.com
 0.0.0.0 www.hd-easyporn.com
 0.0.0.0 www.hd-xvideos.com
@@ -23859,6 +23900,8 @@
 0.0.0.0 www.katefrost.com
 0.0.0.0 www.katerinakayxxx.com
 0.0.0.0 www.katestube.com
+0.0.0.0 www.kaviar.telefonsex-orgien.com
+0.0.0.0 www.kaviarsex.telefonsex-hits.com
 0.0.0.0 www.kazatube.com
 0.0.0.0 www.keezlive.com
 0.0.0.0 www.keezmovies.com
@@ -24196,6 +24239,7 @@
 0.0.0.0 www.malewebcams.com
 0.0.0.0 www.malina.xxx
 0.0.0.0 www.mallandrinhas.net
+0.0.0.0 www.mallorca-girls.telefonsex-orgien.com
 0.0.0.0 www.mamba.ru
 0.0.0.0 www.manchester-escorts.com
 0.0.0.0 www.mandatory.com
@@ -24430,6 +24474,7 @@
 0.0.0.0 www.monclubgay.com
 0.0.0.0 www.monde-du-porno.com
 0.0.0.0 www.mondegay.com
+0.0.0.0 www.moneydiva-top100.geldherrinjenny.com
 0.0.0.0 www.monika.co.il
 0.0.0.0 www.monikasdreams.com
 0.0.0.0 www.moniquealexander.com
@@ -24829,6 +24874,7 @@
 0.0.0.0 www.nurxxx.net
 0.0.0.0 www.nusexy.com
 0.0.0.0 www.nutaku.net
+0.0.0.0 www.nutten-telefonsex.parkplatz-treff.biz
 0.0.0.0 www.nuttit.com
 0.0.0.0 www.nuvid.com
 0.0.0.0 www.nwsgifs.com
@@ -24885,6 +24931,7 @@
 0.0.0.0 www.oldsluthardcore.com
 0.0.0.0 www.olympine.com
 0.0.0.0 www.omamaturetube.com
+0.0.0.0 www.omasex.cc
 0.0.0.0 www.omasporno.com
 0.0.0.0 www.omegle.com
 0.0.0.0 www.omgbigboobs.com
@@ -25127,6 +25174,7 @@
 0.0.0.0 www.plancul-paris.net
 0.0.0.0 www.plancul.org
 0.0.0.0 www.planculrdv.com
+0.0.0.0 www.planet-telefonsex.com
 0.0.0.0 www.planetclimax.com
 0.0.0.0 www.planeteplaisir.com
 0.0.0.0 www.planetesextoys.com
@@ -25360,6 +25408,7 @@
 0.0.0.0 www.porno-gratuit.ws
 0.0.0.0 www.porno-manga.org
 0.0.0.0 www.porno-porno.xxx
+0.0.0.0 www.porno-telefonsex.telefonsex69.net
 0.0.0.0 www.porno-videa.tv
 0.0.0.0 www.porno-videot.com
 0.0.0.0 www.porno-wonder.com
@@ -25601,6 +25650,7 @@
 0.0.0.0 www.primepornlist.com
 0.0.0.0 www.princeyahshua.com
 0.0.0.0 www.privat-dating.com
+0.0.0.0 www.privat.telefonsex-orgien.com
 0.0.0.0 www.privatamateure.com
 0.0.0.0 www.private-angels.net
 0.0.0.0 www.private-voyeurs.org
@@ -25611,6 +25661,7 @@
 0.0.0.0 www.privatenudes.com
 0.0.0.0 www.privatenudismpics.info
 0.0.0.0 www.privatepornfilms.com
+0.0.0.0 www.privater-telefonsex.telefonsex-mandy.com
 0.0.0.0 www.privatesangels.com
 0.0.0.0 www.privatesociety.com
 0.0.0.0 www.privatewebcams.com
@@ -25936,9 +25987,11 @@
 0.0.0.0 www.scatporntube.com
 0.0.0.0 www.schizogirl.blogs.allocine.fr
 0.0.0.0 www.schlampen.xxx
+0.0.0.0 www.schlampentreff.telefonsexgirls-privat.com
 0.0.0.0 www.schoolgirlfuck.net
 0.0.0.0 www.schoolgirlsfromjapan.com
 0.0.0.0 www.schulgirls.net
+0.0.0.0 www.schwanzfrauen.domina-telefonsex.biz
 0.0.0.0 www.scootykol.com
 0.0.0.0 www.score-video.com
 0.0.0.0 www.scoreland.com
@@ -26013,6 +26066,7 @@
 0.0.0.0 www.sexad.net
 0.0.0.0 www.sexadonf.org
 0.0.0.0 www.sexadvanced.com
+0.0.0.0 www.sexamtelefon.org
 0.0.0.0 www.sexar6.com
 0.0.0.0 www.sexarabvideo.top
 0.0.0.0 www.sexarabx.com
@@ -26022,6 +26076,7 @@
 0.0.0.0 www.sexatraf.com
 0.0.0.0 www.sexbook.com
 0.0.0.0 www.sexbot.com
+0.0.0.0 www.sexcam-fantasy.com
 0.0.0.0 www.sexcamly.com
 0.0.0.0 www.sexcampost.com
 0.0.0.0 www.sexcartoon.biz
@@ -26088,6 +26143,7 @@
 0.0.0.0 www.sexgames.cc
 0.0.0.0 www.sexgames2012.com
 0.0.0.0 www.sexgangsters.com
+0.0.0.0 www.sexgeschichte.org
 0.0.0.0 www.sexgeschichten.tv
 0.0.0.0 www.sexgratuit.tv
 0.0.0.0 www.sexhdtuber.com
@@ -26147,6 +26203,7 @@
 0.0.0.0 www.sexotor.com
 0.0.0.0 www.sexparadisiac.net
 0.0.0.0 www.sexpartnerkontaktanzeigen.de
+0.0.0.0 www.sexphone.biz
 0.0.0.0 www.sexpics.me
 0.0.0.0 www.sexpicturespass.com
 0.0.0.0 www.sexpornimages.com
@@ -26168,6 +26225,7 @@
 0.0.0.0 www.sexstationtv.com
 0.0.0.0 www.sexstories.com
 0.0.0.0 www.sexstreamvideo.com
+0.0.0.0 www.sextalk.telefonsex-abenteuer18.com
 0.0.0.0 www.sextapelesbians.com
 0.0.0.0 www.sextapes.fr
 0.0.0.0 www.sexteen.pro
@@ -26213,6 +26271,7 @@
 0.0.0.0 www.sexy-models.net
 0.0.0.0 www.sexy-photos.net
 0.0.0.0 www.sexy-streaming.com
+0.0.0.0 www.sexy-telefonsex.biz
 0.0.0.0 www.sexy.egirls.com
 0.0.0.0 www.sexy6tube.com
 0.0.0.0 www.sexyads.com
@@ -26422,6 +26481,7 @@
 0.0.0.0 www.socialsexnetwork.net
 0.0.0.0 www.sod.co.jp
 0.0.0.0 www.sodc.co.jp
+0.0.0.0 www.sofort-telefonsex.ruf-mich-an.biz
 0.0.0.0 www.software.filestube.com
 0.0.0.0 www.sojapansex.com
 0.0.0.0 www.solidaritelesbienne.qc.ca
@@ -26456,6 +26516,7 @@
 0.0.0.0 www.spicybunnies.com
 0.0.0.0 www.spicysextube.com
 0.0.0.0 www.spicytitties.com
+0.0.0.0 www.spielwiese.telefonsex-bordell.com
 0.0.0.0 www.spinchix.com
 0.0.0.0 www.spizoo.com
 0.0.0.0 www.spotx.fr
@@ -26643,6 +26704,7 @@
 0.0.0.0 www.teen-mail.com
 0.0.0.0 www.teen-porn.biz
 0.0.0.0 www.teen-sex.tv
+0.0.0.0 www.teen-telefonsex.biz
 0.0.0.0 www.teen18hd.com
 0.0.0.0 www.teenageporn.com
 0.0.0.0 www.teenageslut.net
@@ -26749,8 +26811,56 @@
 0.0.0.0 www.teenylovers.com
 0.0.0.0 www.teenyoungxxx.com
 0.0.0.0 www.tegansummers.com
+0.0.0.0 www.tele-0900.net
+0.0.0.0 www.tele-muschis.com
+0.0.0.0 www.tele-phone-sex.com
 0.0.0.0 www.telecharger-porno-video.com
+0.0.0.0 www.telefon-sex.telefonsex-sexnetzwerk24.com
+0.0.0.0 www.telefonerotik-top100.telefonsex-orgien.com
+0.0.0.0 www.telefonerotik.biz
+0.0.0.0 www.telefonsex-18.org
+0.0.0.0 www.telefonsex-2021.com
+0.0.0.0 www.telefonsex-affaire.com
+0.0.0.0 www.telefonsex-akte.com
+0.0.0.0 www.telefonsex-berlin.billiger-telefonsex24.com
+0.0.0.0 www.telefonsex-billig.erotiktelefon.biz
+0.0.0.0 www.telefonsex-bordell.com
+0.0.0.0 www.telefonsex-callgirls.com
+0.0.0.0 www.telefonsex-club.com
+0.0.0.0 www.telefonsex-fick.net
+0.0.0.0 www.telefonsex-flirt.net
+0.0.0.0 www.telefonsex-gangbang.telefonsex-hobby.com
+0.0.0.0 www.telefonsex-hausfrauen.biz
+0.0.0.0 www.telefonsex-hobby.com
+0.0.0.0 www.telefonsex-hobbyhuren.sexcam-fantasy.com
+0.0.0.0 www.telefonsex-info.net
+0.0.0.0 www.telefonsex-kaviar.telefonsex-szene.com
+0.0.0.0 www.telefonsex-lust.xxx-telefonsex.biz
+0.0.0.0 www.telefonsex-mandy.com
+0.0.0.0 www.telefonsex-meile.telefonsex69.net
+0.0.0.0 www.telefonsex-nachhilfe.telefonsex-stuten.com
+0.0.0.0 www.telefonsex-natursekt.planet-telefonsex.com
+0.0.0.0 www.telefonsex-oral.telefonsex-dirtytalk.com
+0.0.0.0 www.telefonsex-rausch.telefonsex-stuten.com
+0.0.0.0 www.telefonsex-schmuddelecke.com
+0.0.0.0 www.telefonsex-sklaven.telefonsex-fantasy.com
+0.0.0.0 www.telefonsex-spermaspiele.telefonerotik.biz
+0.0.0.0 www.telefonsex-teens.telefonsex-vision.com
+0.0.0.0 www.telefonsex-vision.com
+0.0.0.0 www.telefonsex-zentrale.com
+0.0.0.0 www.telefonsex.adult-counter.com
+0.0.0.0 www.telefonsex.anruf-sex.com
+0.0.0.0 www.telefonsex.media
+0.0.0.0 www.telefonsex.rent-a-telegirl.com
+0.0.0.0 www.telefonsex.ruf-mich-an.biz
+0.0.0.0 www.telefonsex.telefonsex-huren.net
+0.0.0.0 www.telefonsex69.net
+0.0.0.0 www.telefonsexluder-top10.com
+0.0.0.0 www.telefonsexnummern.telefonsex-fick.net
 0.0.0.0 www.telefonsexpalast.de
+0.0.0.0 www.telefonsexportale-top10.com
+0.0.0.0 www.telefonsexschlampe.telefonsex-bordell.com
+0.0.0.0 www.telesex.biz
 0.0.0.0 www.teligenceaffiliateprogram.com
 0.0.0.0 www.temploangelina.com
 0.0.0.0 www.temptingangels.org
@@ -26768,6 +26878,8 @@
 0.0.0.0 www.tgpdog.com
 0.0.0.0 www.tgptraffic.biz
 0.0.0.0 www.tgtube.com
+0.0.0.0 www.thai.telefonsex-book.com
+0.0.0.0 www.thai.telefonsex-club.com
 0.0.0.0 www.thailadyboys.xxx
 0.0.0.0 www.thatsphucked.com
 0.0.0.0 www.the-bikini.com
@@ -26882,6 +26994,8 @@
 0.0.0.0 www.titsmaster.com
 0.0.0.0 www.titstribute.com
 0.0.0.0 www.titten-kitty-natursekt.de
+0.0.0.0 www.titten-telefonsex.net
+0.0.0.0 www.titten.telefonsex-book.com
 0.0.0.0 www.tittyattack.com
 0.0.0.0 www.tjoob.com
 0.0.0.0 www.tlagay.com
@@ -26908,6 +27022,7 @@
 0.0.0.0 www.tootrash.com
 0.0.0.0 www.tootx.com
 0.0.0.0 www.top-222.com
+0.0.0.0 www.top-devot.telefonsexportale-top10.com
 0.0.0.0 www.top-netvoyeur.com
 0.0.0.0 www.top-plan-cul.net
 0.0.0.0 www.top-rencontre-coquine.com
@@ -26932,6 +27047,7 @@
 0.0.0.0 www.topgalaxia.com
 0.0.0.0 www.tophd.xxx
 0.0.0.0 www.tophotgirls.net
+0.0.0.0 www.topliste.telefonsex.media
 0.0.0.0 www.toplisted.ws
 0.0.0.0 www.topmodel_virginie.cmonbook.com
 0.0.0.0 www.topnudecelebs.nl
@@ -27219,6 +27335,7 @@
 0.0.0.0 www.vends-ta-culotte.com
 0.0.0.0 www.verbalangels.com
 0.0.0.0 www.verboten-scharf.de
+0.0.0.0 www.verbotenes-haus.domina-telefonsex.biz
 0.0.0.0 www.versocinema.com
 0.0.0.0 www.verunkasdreams.com
 0.0.0.0 www.vervesex.com
@@ -27473,6 +27590,7 @@
 0.0.0.0 www.watchxxxfree.com
 0.0.0.0 www.waxtube.com
 0.0.0.0 www.waybig.com
+0.0.0.0 www.wazazu.com
 0.0.0.0 www.web-angels.de
 0.0.0.0 www.web-starlets.com
 0.0.0.0 www.webcam-blog.tv
@@ -27963,6 +28081,7 @@
 0.0.0.0 www.yocuties.net
 0.0.0.0 www.yoerotica.com
 0.0.0.0 www.yoslut.com
+0.0.0.0 www.you-porn.telefonsex.media
 0.0.0.0 www.youaresogay.com
 0.0.0.0 www.youav.com
 0.0.0.0 www.youbranle.com
@@ -28754,6 +28873,7 @@
 0.0.0.0 xxx-2.sultrymovies.com
 0.0.0.0 xxx-3.sultrymovies.com
 0.0.0.0 xxx-4-free.net
+0.0.0.0 xxx-amateur.eu
 0.0.0.0 xxx-art.biz
 0.0.0.0 xxx-art.us
 0.0.0.0 xxx-babysitters.com
@@ -29025,7 +29145,6 @@
 0.0.0.0 xxxteens.tv
 0.0.0.0 xxxteensex.net
 0.0.0.0 xxxtik-api-iw98m.ondigitalocean.app
-0.0.0.0 xxxtik-api-iw98m.ondigitalocean.app0
 0.0.0.0 xxxtik.b-cdn.net
 0.0.0.0 xxxtik.com
 0.0.0.0 xxxtik.fra1.cdn.digitaloceanspaces.com
