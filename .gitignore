@@ -1,4 +1,13 @@
-addChecksum.pl
-FOP.py
-sort.pl
-todo
+# Tracked files
+
+!abp.txt
+!hosts.txt
+!LICENSE
+!README.md
+!extra/facebook.txt
+!extra/fonts.txt
+!extra/nsfw.txt
+
+# Untrack other files and folders
+
+*
