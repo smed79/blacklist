@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202502270007
+! Version: 202503010136
 ! Title: smed79 BlackList
-! Last modified: 2025-02-27 00:07 UTC
+! Last modified: 2025-03-01 01:36 UTC
 ! Expires: 15 days
 !
 ! Description: BlackList of domains hosting advertisements & other nasty purposes.
@@ -63184,8 +63184,6 @@
 ||nimhuemark.com^
 ||nimigal.ru^
 ||nimilimigimi.com^
-||nimiq.com^
-||nimiqpool.com^
 ||nimmediu.info^
 ||nimp.org^
 ||nimpool.io^
@@ -69225,7 +69223,6 @@
 ||pookapsa.net^
 ||pookawnratbite.com^
 ||pooksys.site^
-||pool.nimiq.watch^
 ||pool.onjoyri.de^
 ||pool.onjoyride.com^
 ||pool5.info^

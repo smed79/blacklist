@@ -8,7 +8,7 @@
 # In order to use this list, please use the following address:
 # https://raw.githubusercontent.com/smed79/blacklist/master/hosts.txt
 #
-# Last modified: 2025-02-27 00:07 UTC
+# Last modified: 2025-03-01 01:36 UTC
 #
 # DOMAINS -------------------------------------------------------------------- #
 #
@@ -59983,8 +59983,6 @@
 0.0.0.0 nimhuemark.com
 0.0.0.0 nimigal.ru
 0.0.0.0 nimilimigimi.com
-0.0.0.0 nimiq.com
-0.0.0.0 nimiqpool.com
 0.0.0.0 nimmediu.info
 0.0.0.0 nimp.org
 0.0.0.0 nimpool.io
@@ -65905,7 +65903,6 @@
 0.0.0.0 pookapsa.net
 0.0.0.0 pookawnratbite.com
 0.0.0.0 pooksys.site
-0.0.0.0 pool.nimiq.watch
 0.0.0.0 pool.onjoyri.de
 0.0.0.0 pool.onjoyride.com
 0.0.0.0 pool5.info
